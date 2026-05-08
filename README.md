@@ -40,3 +40,4 @@ NGA_FID=xxx NGA_LIMIT=20 node scripts/update-ff14-nga-hot.mjs
 
 注意：抓取公开网页时要控制频率，遵守目标站点规则；建议 10-30 分钟更新一次，不要让用户浏览器直接请求 NGA。
 # ff14-nga
+# ff14-nga
