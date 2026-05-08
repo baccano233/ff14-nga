@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-08T18:05:42.261Z",
+  "lastUpdated": "2026-05-08T19:51:34.807Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6391,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "豆芽还在跑6.0剧情，被87级维涅斯意识流片段创飞",
       "tid": 46193942,
@@ -32,8 +24,16 @@
       "title": "该说什么说什么",
       "tid": 46723332,
       "link": "https://bbs.nga.cn/read.php?tid=46723332",
-      "replies": 278,
+      "replies": 280,
       "author": "Rer4ever",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科]我在艾欧泽亚搞无形之术",
+      "tid": 46455836,
+      "link": "https://bbs.nga.cn/read.php?tid=46455836",
+      "replies": 224,
+      "author": "Vilolili",
       "lastPost": 0
     },
     {
@@ -48,7 +48,7 @@
       "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
       "tid": 46465546,
       "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 193,
+      "replies": 194,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -80,7 +80,7 @@
       "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
       "tid": 45750820,
       "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 111,
+      "replies": 112,
       "author": "不可思议魔法",
       "lastPost": 0
     },
@@ -88,7 +88,7 @@
       "title": "我大概理解了一下大至日的设定和哈尔玛鲁特的操作",
       "tid": 46668285,
       "link": "https://bbs.nga.cn/read.php?tid=46668285",
-      "replies": 111,
+      "replies": 112,
       "author": "司天紫成",
       "lastPost": 0
     },
@@ -101,14 +101,6 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
-      "tid": 46718047,
-      "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 76,
-      "author": "moonlight10",
-      "lastPost": 0
-    },
-    {
       "title": "[举手提问] 绝本环境下除了骑士，蓝职4T谁更适合做MT呢？",
       "tid": 46277274,
       "link": "https://bbs.nga.cn/read.php?tid=46277274",
@@ -117,10 +109,18 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想科技] 7.1版全面反和谐(2.19更新TT使用说明)",
+      "tid": 42450927,
+      "link": "https://bbs.nga.cn/read.php?tid=42450927",
+      "replies": 59,
+      "author": "猫作鬼记",
+      "lastPost": 0
+    },
+    {
       "title": "[破事氵]以防你不知道，敌对列表可以监控自己上的buff了",
       "tid": 46734596,
       "link": "https://bbs.nga.cn/read.php?tid=46734596",
-      "replies": 56,
+      "replies": 57,
       "author": "桃园三章",
       "lastPost": 0
     },
@@ -141,6 +141,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 从7.0开始跑剧情，看到这玩意真难蚌",
+      "tid": 46703998,
+      "link": "https://bbs.nga.cn/read.php?tid=46703998",
+      "replies": 43,
+      "author": "美味叉烧酥",
+      "lastPost": 0
+    },
+    {
       "title": "[记录氵]从最终鲩想十强开始的钓鱼生活",
       "tid": 46510608,
       "link": "https://bbs.nga.cn/read.php?tid=46510608",
@@ -149,32 +157,16 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 从7.0开始跑剧情，看到这玩意真难蚌",
-      "tid": 46703998,
-      "link": "https://bbs.nga.cn/read.php?tid=46703998",
-      "replies": 39,
-      "author": "美味叉烧酥",
-      "lastPost": 0
-    },
-    {
-      "title": "[小吉你会改吧]总结一下目前个人目前觉得狒狒还存在哪些痛点或者不舒服的地方",
-      "tid": 45965144,
-      "link": "https://bbs.nga.cn/read.php?tid=45965144",
-      "replies": 36,
-      "author": "樱满月daze",
+      "title": "[氵一贴] 现在推荐转到猫区吗？有没有hxd分享一下猫区排本状况和人数",
+      "tid": 46733044,
+      "link": "https://bbs.nga.cn/read.php?tid=46733044",
+      "replies": 37,
+      "author": "胸无大脑陆玲空",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6391,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "豆芽还在跑6.0剧情，被87级维涅斯意识流片段创飞",
       "tid": 46193942,
       "link": "https://bbs.nga.cn/read.php?tid=46193942",
@@ -194,8 +186,16 @@
       "title": "该说什么说什么",
       "tid": 46723332,
       "link": "https://bbs.nga.cn/read.php?tid=46723332",
-      "replies": 278,
+      "replies": 280,
       "author": "Rer4ever",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科]我在艾欧泽亚搞无形之术",
+      "tid": 46455836,
+      "link": "https://bbs.nga.cn/read.php?tid=46455836",
+      "replies": 224,
+      "author": "Vilolili",
       "lastPost": 0
     },
     {
@@ -210,7 +210,7 @@
       "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
       "tid": 46465546,
       "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 193,
+      "replies": 194,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -242,7 +242,7 @@
       "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
       "tid": 45750820,
       "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 111,
+      "replies": 112,
       "author": "不可思议魔法",
       "lastPost": 0
     },
@@ -250,7 +250,7 @@
       "title": "我大概理解了一下大至日的设定和哈尔玛鲁特的操作",
       "tid": 46668285,
       "link": "https://bbs.nga.cn/read.php?tid=46668285",
-      "replies": 111,
+      "replies": 112,
       "author": "司天紫成",
       "lastPost": 0
     },
@@ -263,14 +263,6 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
-      "tid": 46718047,
-      "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 76,
-      "author": "moonlight10",
-      "lastPost": 0
-    },
-    {
       "title": "[举手提问] 绝本环境下除了骑士，蓝职4T谁更适合做MT呢？",
       "tid": 46277274,
       "link": "https://bbs.nga.cn/read.php?tid=46277274",
@@ -279,10 +271,18 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想科技] 7.1版全面反和谐(2.19更新TT使用说明)",
+      "tid": 42450927,
+      "link": "https://bbs.nga.cn/read.php?tid=42450927",
+      "replies": 59,
+      "author": "猫作鬼记",
+      "lastPost": 0
+    },
+    {
       "title": "[破事氵]以防你不知道，敌对列表可以监控自己上的buff了",
       "tid": 46734596,
       "link": "https://bbs.nga.cn/read.php?tid=46734596",
-      "replies": 56,
+      "replies": 57,
       "author": "桃园三章",
       "lastPost": 0
     },
@@ -303,6 +303,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 从7.0开始跑剧情，看到这玩意真难蚌",
+      "tid": 46703998,
+      "link": "https://bbs.nga.cn/read.php?tid=46703998",
+      "replies": 43,
+      "author": "美味叉烧酥",
+      "lastPost": 0
+    },
+    {
       "title": "[记录氵]从最终鲩想十强开始的钓鱼生活",
       "tid": 46510608,
       "link": "https://bbs.nga.cn/read.php?tid=46510608",
@@ -311,19 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 从7.0开始跑剧情，看到这玩意真难蚌",
-      "tid": 46703998,
-      "link": "https://bbs.nga.cn/read.php?tid=46703998",
-      "replies": 39,
-      "author": "美味叉烧酥",
-      "lastPost": 0
-    },
-    {
-      "title": "[小吉你会改吧]总结一下目前个人目前觉得狒狒还存在哪些痛点或者不舒服的地方",
-      "tid": 45965144,
-      "link": "https://bbs.nga.cn/read.php?tid=45965144",
-      "replies": 36,
-      "author": "樱满月daze",
+      "title": "[氵一贴] 现在推荐转到猫区吗？有没有hxd分享一下猫区排本状况和人数",
+      "tid": 46733044,
+      "link": "https://bbs.nga.cn/read.php?tid=46733044",
+      "replies": 37,
+      "author": "胸无大脑陆玲空",
       "lastPost": 0
     }
   ]
