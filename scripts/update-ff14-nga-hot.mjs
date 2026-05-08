@@ -1,11 +1,14 @@
-import { readFile, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const outputPath = resolve(__dirname, '../data/ff14-hot.json')
+const debugRowsPath = resolve(__dirname, '../.debug/nga-thread-rows.html')
 const fid = process.env.NGA_FID || '-362960'
 const limit = Number(process.env.NGA_LIMIT || 20)
+const enrichLastReply = process.env.NGA_ENRICH_LAST_REPLY !== '0'
+const enrichDelay = Number(process.env.NGA_ENRICH_DELAY || 300)
 const forumUrl = process.env.NGA_URL || `https://bbs.nga.cn/thread.php?fid=${encodeURIComponent(fid)}`
 const userAgent =
   process.env.NGA_USER_AGENT ||
@@ -13,7 +16,13 @@ const userAgent =
 
 async function main() {
   const html = await fetchNgaHtml(forumUrl)
+  if (process.env.NGA_DEBUG) {
+    await writeDebugRows(html)
+  }
   const posts = parseNgaThreadList(html).slice(0, limit)
+  if (enrichLastReply) {
+    await enrichLastReplyTimes(posts)
+  }
   const payload = {
     success: posts.length > 0,
     source: forumUrl,
@@ -24,6 +33,52 @@ async function main() {
   }
   await writeFile(outputPath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8')
   console.log(`Wrote ${posts.length} posts to ${outputPath}`)
+}
+
+async function enrichLastReplyTimes(posts) {
+  for (const post of posts) {
+    if (!post.replies) continue
+    try {
+      const html = await fetchNgaHtml(`${post.link}&page=e`)
+      const lastReply = extractLatestPostDate(html)
+      if (lastReply) {
+        post.lastPost = lastReply
+      }
+      await sleep(enrichDelay)
+    } catch (error) {
+      console.warn(`Failed to enrich last reply for tid ${post.tid}:`, error instanceof Error ? error.message : error)
+    }
+  }
+}
+
+function extractLatestPostDate(html) {
+  const timestamps = [
+    ...Array.from(html.matchAll(/class=["'][^"']*postdate[^"']*["'][^>]*>\s*(\d{10})\s*</gi)),
+    ...Array.from(html.matchAll(/(?:postdate|post_date|postdatetimestamp)[^0-9]*(\d{10})/gi)),
+  ]
+    .map((match) => Number(match[1]))
+    .filter((value) => value > 946684800 && value < 4102444800)
+
+  return timestamps.length ? Math.max(...timestamps) : 0
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms)
+  })
+}
+
+async function writeDebugRows(html) {
+  const rows = (html.match(/<tr[\s\S]*?<\/tr>/gi) || []).filter((row) => extractTid(row)).slice(0, 20)
+  await mkdir(dirname(debugRowsPath), { recursive: true })
+  await writeFile(
+    debugRowsPath,
+    rows
+      .map((row, index) => `<!-- row ${index + 1}, tid ${extractTid(row)} -->\n${row}`)
+      .join('\n\n<hr>\n\n'),
+    'utf8'
+  )
+  console.log(`Wrote debug rows to ${debugRowsPath}`)
 }
 
 async function fetchNgaHtml(url) {
