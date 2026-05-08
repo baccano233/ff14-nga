@@ -1,0 +1,30 @@
+name: Update FF14 NGA Hot
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node scripts/update-ff14-nga-hot.mjs
+        env:
+          NGA_COOKIE: ${{ secrets.NGA_COOKIE }}
+
+      - run: |
+          git config user.name "baccano"
+          git config user.email "actions@github.com"
+          git add data/ff14-hot.json
+          git diff --cached --quiet || git commit -m "update hot data"
+          git push
