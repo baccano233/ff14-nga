@@ -3,62 +3,82 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="最终幻想14社区热帖聚合页，读取预生成 JSON 缓存展示 NGA 热门讨论。"
-    />
-    <title>FF14 热议板块</title>
+    <meta name="description" content="最终幻想14玩家浏览器首页，聚合常用入口、工具导航和 NGA 热门讨论。" />
+    <title>FF14 首页</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="page-shell">
-      <section class="hero-panel">
-        <div class="hero-panel__art" aria-hidden="true">
-          <img
-            src="./assets/ff14-crystal.svg"
-            alt=""
-          />
-        </div>
-        <div class="hero-panel__content">
-          <p class="eyebrow">NGA / Final Fantasy XIV</p>
-          <h1>FF14 热议板块</h1>
-          <p class="summary">按回复热度和最新回复聚合社区讨论，链接跳转到原帖。</p>
-        </div>
-        <div class="hero-panel__meta">
-          <span id="statusBadge">读取中</span>
-          <time id="updatedAt">--</time>
-        </div>
+      <header class="home-header">
+        <a class="brand" href="./" aria-label="FF14 首页">
+          <img src="./assets/ff14-crystal.svg" alt="" />
+          <span>FF14 首页</span>
+        </a>
+        <nav class="top-nav" aria-label="常用入口">
+          <a href="https://ff.web.sdo.com/" target="_blank" rel="noreferrer">官网</a>
+          <a href="https://act.ff.web.sdo.com/" target="_blank" rel="noreferrer">活动</a>
+          <a href="https://bbs.nga.cn/thread.php?fid=-362960" target="_blank" rel="noreferrer">NGA</a>
+        </nav>
+      </header>
+
+      <section class="search-hero" aria-label="搜索">
+        <p class="eyebrow">Final Fantasy XIV Start Page</p>
+        <h1>快速开始今天的艾欧泽亚</h1>
+        <form id="webSearchForm" class="web-search">
+          <label class="sr-only" for="webSearchInput">搜索网页</label>
+          <input id="webSearchInput" type="search" placeholder="搜索攻略、宏、配装、任务、道具" autocomplete="off" />
+          <button type="submit">搜索</button>
+        </form>
+        <div id="quickLinks" class="quick-links" aria-label="快捷入口"></div>
       </section>
 
-      <section class="toolbar" aria-label="筛选工具">
-        <label class="search-box">
-          <span>搜索</span>
-          <input id="keywordInput" type="search" placeholder="标题、作者、TID" autocomplete="off" />
-        </label>
-        <div class="sort-control" role="group" aria-label="排序方式">
-          <button class="is-active" type="button" data-sort="hot">回复数</button>
-          <button type="button" data-sort="latest">最新回复</button>
-        </div>
-      </section>
-
-      <section class="content-grid">
-        <section class="post-panel" aria-label="热门帖子列表">
+      <section class="dashboard-grid">
+        <section class="link-panel" aria-label="FF14 常用导航">
           <header class="section-header">
-            <h2>热门帖子</h2>
-            <span id="postCount">0 条</span>
+            <h2>常用导航</h2>
           </header>
+          <div id="navGroups" class="nav-groups"></div>
+        </section>
+
+        <section class="post-panel" aria-label="NGA 热门帖子">
+          <header class="section-header post-header">
+            <div>
+              <h2>NGA 热帖</h2>
+              <time id="updatedAt">--</time>
+            </div>
+            <div class="post-actions">
+              <span id="statusBadge">读取中</span>
+              <span id="postCount">0 条</span>
+            </div>
+          </header>
+
+          <section class="toolbar" aria-label="筛选工具">
+            <label class="search-box">
+              <span>筛选</span>
+              <input id="keywordInput" type="search" placeholder="标题、作者、TID" autocomplete="off" />
+            </label>
+            <div class="sort-control" role="group" aria-label="排序方式">
+              <button class="is-active" type="button" data-sort="hot">回复数</button>
+              <button type="button" data-sort="latest">最新回复</button>
+            </div>
+          </section>
+
           <div id="postList" class="post-list" aria-live="polite"></div>
         </section>
 
-        <aside class="side-panel" aria-label="数据说明">
-          <h2>数据链路</h2>
-          <ol>
-            <li>定时任务抓取 NGA FF14 板块列表页。</li>
-            <li>解析标题、TID、作者、回复数、最后回复时间。</li>
-            <li>生成 `ff14-hot.json` 并上传到对象存储。</li>
-            <li>本页面只读取 JSON 缓存，不直接请求 NGA。</li>
-          </ol>
-          <a class="source-link" href="https://bbs.nga.cn" target="_blank" rel="noreferrer">打开 NGA</a>
+        <aside class="side-panel" aria-label="工具与状态">
+          <section>
+            <header class="section-header">
+              <h2>工具</h2>
+            </header>
+            <div id="toolLinks" class="tool-links"></div>
+          </section>
+
+          <section class="data-card">
+            <h2>数据状态</h2>
+            <p>页面读取仓库里的 JSON 缓存，定时任务负责更新 NGA 列表。</p>
+            <a class="source-link" href="https://bbs.nga.cn/thread.php?fid=-362960" target="_blank" rel="noreferrer">打开原板块</a>
+          </section>
         </aside>
       </section>
     </main>

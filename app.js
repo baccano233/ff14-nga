@@ -1,5 +1,47 @@
 const DATA_URL = './data/ff14-hot.json'
 
+const quickLinks = [
+  { label: '官网', url: 'https://ff.web.sdo.com/' },
+  { label: '活动', url: 'https://act.ff.web.sdo.com/' },
+  { label: 'NGA', url: 'https://bbs.nga.cn/thread.php?fid=-362960' },
+  { label: '灰机 Wiki', url: 'https://ff14.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5' },
+  { label: 'Universalis', url: 'https://universalis.app/' },
+]
+
+const navGroups = [
+  {
+    title: '资料',
+    links: [
+      { label: '灰机 Wiki', desc: '任务、职业、道具资料', url: 'https://ff14.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5' },
+      { label: 'Garland Tools', desc: '采集制作与物品数据库', url: 'https://garlandtools.org/' },
+      { label: 'Eorzea Database', desc: '国际服官方数据库', url: 'https://na.finalfantasyxiv.com/lodestone/playguide/db/' },
+    ],
+  },
+  {
+    title: '社区',
+    links: [
+      { label: 'NGA FF14', desc: '国服玩家讨论板块', url: 'https://bbs.nga.cn/thread.php?fid=-362960' },
+      { label: 'The Lodestone', desc: '角色、新闻、社群信息', url: 'https://na.finalfantasyxiv.com/lodestone/' },
+      { label: 'Reddit', desc: '海外社区讨论', url: 'https://www.reddit.com/r/ffxiv/' },
+    ],
+  },
+  {
+    title: '交易',
+    links: [
+      { label: 'Universalis', desc: '市场板价格查询', url: 'https://universalis.app/' },
+      { label: 'Saddlebag Exchange', desc: '跨服交易参考', url: 'https://saddlebagexchange.com/' },
+      { label: 'Teamcraft', desc: '制作清单与宏工具', url: 'https://ffxivteamcraft.com/' },
+    ],
+  },
+]
+
+const toolLinks = [
+  { label: '配装模拟', url: 'https://etro.gg/' },
+  { label: '副本时间轴', url: 'https://ffxiv.tuufless.com/' },
+  { label: '钓鱼时钟', url: 'https://ff14fish.carbuncleplushy.com/' },
+  { label: '制作工具', url: 'https://ffxivteamcraft.com/' },
+]
+
 const fallbackPosts = [
   {
     title: '7.0 新人入坑职业推荐集中讨论',
@@ -40,6 +82,18 @@ const statusBadge = document.querySelector('#statusBadge')
 const updatedAt = document.querySelector('#updatedAt')
 const keywordInput = document.querySelector('#keywordInput')
 const sortButtons = Array.from(document.querySelectorAll('[data-sort]'))
+const webSearchForm = document.querySelector('#webSearchForm')
+const webSearchInput = document.querySelector('#webSearchInput')
+const quickLinksContainer = document.querySelector('#quickLinks')
+const navGroupsContainer = document.querySelector('#navGroups')
+const toolLinksContainer = document.querySelector('#toolLinks')
+
+webSearchForm.addEventListener('submit', (event) => {
+  event.preventDefault()
+  const keyword = webSearchInput.value.trim()
+  if (!keyword) return
+  window.open(`https://www.google.com/search?q=${encodeURIComponent(`${keyword} FF14`)}`, '_blank', 'noreferrer')
+})
 
 keywordInput.addEventListener('input', (event) => {
   state.keyword = event.target.value.trim().toLowerCase()
@@ -55,6 +109,7 @@ sortButtons.forEach((button) => {
 })
 
 async function bootstrap() {
+  renderHomeLinks()
   try {
     const response = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' })
     if (!response.ok) throw new Error(`HTTP ${response.status}`)
@@ -74,6 +129,46 @@ async function bootstrap() {
   }
   updatedAt.textContent = formatUpdatedAt(state.updatedAt)
   render()
+}
+
+function renderHomeLinks() {
+  quickLinksContainer.innerHTML = quickLinks
+    .map(
+      (link) => `
+        <a href="${escapeAttr(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>
+      `
+    )
+    .join('')
+
+  navGroupsContainer.innerHTML = navGroups
+    .map(
+      (group) => `
+        <article class="nav-group">
+          <h3>${escapeHtml(group.title)}</h3>
+          <div class="nav-link-list">
+            ${group.links
+              .map(
+                (link) => `
+                  <a class="nav-link" href="${escapeAttr(link.url)}" target="_blank" rel="noreferrer">
+                    <span>${escapeHtml(link.label)}</span>
+                    <small>${escapeHtml(link.desc)}</small>
+                  </a>
+                `
+              )
+              .join('')}
+          </div>
+        </article>
+      `
+    )
+    .join('')
+
+  toolLinksContainer.innerHTML = toolLinks
+    .map(
+      (link) => `
+        <a href="${escapeAttr(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>
+      `
+    )
+    .join('')
 }
 
 function normalizePosts(posts) {
@@ -138,11 +233,11 @@ function formatUpdatedAt(value) {
   if (!value) return '更新时间：--'
   const date = new Date(value)
   if (Number.isNaN(date.getTime())) return '更新时间：--'
-  return `更新时间：${date.toLocaleString('zh-CN', { hour12: false })}`
+  return `更新于 ${date.toLocaleString('zh-CN', { hour12: false })}`
 }
 
 function formatRelativeTime(timestamp) {
-  if (!timestamp) return '暂无回复时间'
+  if (!timestamp) return '回复时间未知'
   const ms = timestamp > 100000000000 ? timestamp : timestamp * 1000
   const diff = Math.max(0, Date.now() - ms)
   const minute = 60 * 1000

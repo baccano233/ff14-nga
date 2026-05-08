@@ -132,19 +132,66 @@ function extractReplies(row) {
 }
 
 function extractLastPost(row) {
-  const timestamp = matchFirst(row, /(?:lastpost|last_post|lastposttime)[^0-9]*(\d{10})/i)
-  if (timestamp) return Number(timestamp)
-  const timeText = stripHtml(matchFirst(row, /class=["'][^"']*lastpost[^"']*["'][^>]*>([\s\S]*?)<\/td>/i) || '')
-  return parseRelativeChineseTime(timeText)
+  const explicitTimestamp = matchFirst(row, /(?:lastpost|last_post|lastposttime|lastmodify|postdate)[^0-9]*(\d{10})/i)
+  if (explicitTimestamp) return Number(explicitTimestamp)
+
+  const lastPostCell = matchFirst(row, /<td[^>]+class=["'][^"']*(?:lastpost|last_post|c5)[^"']*["'][^>]*>([\s\S]*?)<\/td>/i)
+  const textTimestamp = parseChineseTime(stripHtml(lastPostCell || row))
+  if (textTimestamp) return textTimestamp
+
+  const timestamps = Array.from(row.matchAll(/\b(1[0-9]{9}|2[0-9]{9})\b/g))
+    .map((match) => Number(match[1]))
+    .filter((value) => value > 946684800 && value < 4102444800)
+  return timestamps.length ? Math.max(...timestamps) : 0
 }
 
-function parseRelativeChineseTime(text) {
+function parseChineseTime(text) {
+  const normalized = String(text).replace(/\s+/g, ' ').trim()
   const now = Math.floor(Date.now() / 1000)
-  const minute = matchFirst(text, /(\d+)\s*分钟前/)
+  const minute = matchFirst(normalized, /(\d+)\s*分钟前/)
   if (minute) return now - Number(minute) * 60
-  const hour = matchFirst(text, /(\d+)\s*小时前/)
+  if (/半小时前/.test(normalized)) return now - 30 * 60
+  const hour = matchFirst(normalized, /(\d+)\s*小时前/)
   if (hour) return now - Number(hour) * 3600
-  return now
+  const day = matchFirst(normalized, /(\d+)\s*天前/)
+  if (day) return now - Number(day) * 86400
+
+  const absolute = parseDateTime(normalized, /(\d{4})[-/年.](\d{1,2})[-/月.](\d{1,2})日?\s+(\d{1,2}):(\d{2})/)
+  if (absolute) return absolute
+
+  const currentYear = new Date().getFullYear()
+  const monthDay = parseDateTime(normalized, /(\d{1,2})[-/月.](\d{1,2})日?\s+(\d{1,2}):(\d{2})/, currentYear)
+  if (monthDay) return monthDay
+
+  const todayTime = parseDayTime(normalized, /今天\s*(\d{1,2}):(\d{2})/, 0)
+  if (todayTime) return todayTime
+  const yesterdayTime = parseDayTime(normalized, /昨天\s*(\d{1,2}):(\d{2})/, 1)
+  if (yesterdayTime) return yesterdayTime
+  const beforeYesterdayTime = parseDayTime(normalized, /前天\s*(\d{1,2}):(\d{2})/, 2)
+  if (beforeYesterdayTime) return beforeYesterdayTime
+  return 0
+}
+
+function parseDateTime(text, regex, fallbackYear) {
+  const match = regex.exec(text)
+  if (!match) return 0
+  const hasYear = match.length === 6
+  const year = hasYear ? Number(match[1]) : Number(fallbackYear)
+  const month = Number(match[hasYear ? 2 : 1])
+  const day = Number(match[hasYear ? 3 : 2])
+  const hour = Number(match[hasYear ? 4 : 3])
+  const minute = Number(match[hasYear ? 5 : 4])
+  const date = new Date(year, month - 1, day, hour, minute)
+  return Number.isNaN(date.getTime()) ? 0 : Math.floor(date.getTime() / 1000)
+}
+
+function parseDayTime(text, regex, daysAgo) {
+  const match = regex.exec(text)
+  if (!match) return 0
+  const date = new Date()
+  date.setDate(date.getDate() - daysAgo)
+  date.setHours(Number(match[1]), Number(match[2]), 0, 0)
+  return Math.floor(date.getTime() / 1000)
 }
 
 function matchFirst(input, regex) {
