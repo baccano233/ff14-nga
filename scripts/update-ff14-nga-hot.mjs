@@ -132,17 +132,14 @@ function extractReplies(row) {
 }
 
 function extractLastPost(row) {
-  const explicitTimestamp = matchFirst(row, /(?:lastpost|last_post|lastposttime|lastmodify|postdate)[^0-9]*(\d{10})/i)
+  const explicitTimestamp = matchFirst(row, /(?:lastpost|last_post|lastposttime)[^0-9]*(\d{10})/i)
   if (explicitTimestamp) return Number(explicitTimestamp)
 
   const lastPostCell = matchFirst(row, /<td[^>]+class=["'][^"']*(?:lastpost|last_post|c5)[^"']*["'][^>]*>([\s\S]*?)<\/td>/i)
-  const textTimestamp = parseChineseTime(stripHtml(lastPostCell || row))
+  const textTimestamp = parseChineseTime(stripHtml(lastPostCell || ''))
   if (textTimestamp) return textTimestamp
 
-  const timestamps = Array.from(row.matchAll(/\b(1[0-9]{9}|2[0-9]{9})\b/g))
-    .map((match) => Number(match[1]))
-    .filter((value) => value > 946684800 && value < 4102444800)
-  return timestamps.length ? Math.max(...timestamps) : 0
+  return 0
 }
 
 function parseChineseTime(text) {
