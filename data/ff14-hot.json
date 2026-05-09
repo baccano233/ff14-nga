@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-09T15:28:44.188Z",
+  "lastUpdated": "2026-05-09T16:28:14.357Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6392,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
@@ -24,7 +16,7 @@
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1121,
+      "replies": 1122,
       "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
@@ -42,6 +34,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
       "replies": 484,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[7.X] 面向萌新的潜水艇从零开始攻略",
+      "tid": 32976973,
+      "link": "https://bbs.nga.cn/read.php?tid=32976973",
+      "replies": 441,
+      "author": "易水无乱",
       "lastPost": 0
     },
     {
@@ -69,6 +69,14 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.4鱼王)",
+      "tid": 42310798,
+      "link": "https://bbs.nga.cn/read.php?tid=42310798",
+      "replies": 214,
+      "author": "闹钟钟",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴][剧透警告]都跑到6.0了才开始的剧情感想贴(多图预警)",
       "tid": 45756698,
       "link": "https://bbs.nga.cn/read.php?tid=45756698",
@@ -93,6 +101,14 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 140,
+      "author": "Abylith",
+      "lastPost": 0
+    },
+    {
       "title": "我大概理解了一下大至日的设定和哈尔玛鲁特的操作",
       "tid": 46668285,
       "link": "https://bbs.nga.cn/read.php?tid=46668285",
@@ -112,7 +128,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 82,
+      "replies": 83,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -133,48 +149,24 @@
       "lastPost": 0
     },
     {
+      "title": "绝妖星乱舞 盗火二队招募近战DPS，第9人以及模拟器开发人员",
+      "tid": 46570694,
+      "link": "https://bbs.nga.cn/read.php?tid=46570694",
+      "replies": 71,
+      "author": "艾斯丁Astin",
+      "lastPost": 0
+    },
+    {
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 59,
+      "replies": 61,
       "author": "harveythesecond",
-      "lastPost": 0
-    },
-    {
-      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
-      "tid": 46663508,
-      "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 43,
-      "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "固定队为什么没有试用期或者叫磨合期？",
-      "tid": 46720589,
-      "link": "https://bbs.nga.cn/read.php?tid=46720589",
-      "replies": 40,
-      "author": "童话菌",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 现在推荐转到猫区吗？有没有hxd分享一下猫区排本状况和人数",
-      "tid": 46733044,
-      "link": "https://bbs.nga.cn/read.php?tid=46733044",
-      "replies": 38,
-      "author": "胸无大脑陆玲空",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6392,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
       "link": "https://bbs.nga.cn/read.php?tid=19019884",
@@ -186,7 +178,7 @@
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1121,
+      "replies": 1122,
       "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
@@ -204,6 +196,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
       "replies": 484,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[7.X] 面向萌新的潜水艇从零开始攻略",
+      "tid": 32976973,
+      "link": "https://bbs.nga.cn/read.php?tid=32976973",
+      "replies": 441,
+      "author": "易水无乱",
       "lastPost": 0
     },
     {
@@ -231,6 +231,14 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.4鱼王)",
+      "tid": 42310798,
+      "link": "https://bbs.nga.cn/read.php?tid=42310798",
+      "replies": 214,
+      "author": "闹钟钟",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴][剧透警告]都跑到6.0了才开始的剧情感想贴(多图预警)",
       "tid": 45756698,
       "link": "https://bbs.nga.cn/read.php?tid=45756698",
@@ -255,6 +263,14 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 140,
+      "author": "Abylith",
+      "lastPost": 0
+    },
+    {
       "title": "我大概理解了一下大至日的设定和哈尔玛鲁特的操作",
       "tid": 46668285,
       "link": "https://bbs.nga.cn/read.php?tid=46668285",
@@ -274,7 +290,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 82,
+      "replies": 83,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -295,35 +311,19 @@
       "lastPost": 0
     },
     {
+      "title": "绝妖星乱舞 盗火二队招募近战DPS，第9人以及模拟器开发人员",
+      "tid": 46570694,
+      "link": "https://bbs.nga.cn/read.php?tid=46570694",
+      "replies": 71,
+      "author": "艾斯丁Astin",
+      "lastPost": 0
+    },
+    {
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 59,
+      "replies": 61,
       "author": "harveythesecond",
-      "lastPost": 0
-    },
-    {
-      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
-      "tid": 46663508,
-      "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 43,
-      "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "固定队为什么没有试用期或者叫磨合期？",
-      "tid": 46720589,
-      "link": "https://bbs.nga.cn/read.php?tid=46720589",
-      "replies": 40,
-      "author": "童话菌",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 现在推荐转到猫区吗？有没有hxd分享一下猫区排本状况和人数",
-      "tid": 46733044,
-      "link": "https://bbs.nga.cn/read.php?tid=46733044",
-      "replies": 38,
-      "author": "胸无大脑陆玲空",
       "lastPost": 0
     }
   ]
