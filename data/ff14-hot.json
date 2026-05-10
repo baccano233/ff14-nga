@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-10T14:20:33.572Z",
+  "lastUpdated": "2026-05-10T15:29:58.775Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6393,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
     {
       "title": "[幻想科技] 装修小工具",
       "tid": 32454160,
@@ -34,14 +42,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46455836",
       "replies": 228,
       "author": "Vilolili",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
-      "tid": 46465546,
-      "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 208,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -104,7 +104,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 102,
+      "replies": 105,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -136,37 +136,45 @@
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 80,
+      "replies": 81,
       "author": "harveythesecond",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 库啵装修工具 0.0.3 7.4可用 修复壁挂家具操作问题 无限制摆放",
+      "tid": 45762072,
+      "link": "https://bbs.nga.cn/read.php?tid=45762072",
+      "replies": 81,
+      "author": "SliverSYS",
       "lastPost": 0
     },
     {
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 69,
+      "replies": 70,
       "author": "awereg",
-      "lastPost": 0
-    },
-    {
-      "title": "进化模式下，召唤该怎么改",
-      "tid": 46711309,
-      "link": "https://bbs.nga.cn/read.php?tid=46711309",
-      "replies": 62,
-      "author": "沈南康",
       "lastPost": 0
     },
     {
       "title": "物价相关水(这个物价会不会太贵了",
       "tid": 46744856,
       "link": "https://bbs.nga.cn/read.php?tid=46744856",
-      "replies": 50,
+      "replies": 51,
       "author": "小二芽环",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6393,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想科技] 装修小工具",
       "tid": 32454160,
       "link": "https://bbs.nga.cn/read.php?tid=32454160",
@@ -196,14 +204,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46455836",
       "replies": 228,
       "author": "Vilolili",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
-      "tid": 46465546,
-      "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 208,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -266,7 +266,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 102,
+      "replies": 105,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -298,31 +298,31 @@
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 80,
+      "replies": 81,
       "author": "harveythesecond",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 库啵装修工具 0.0.3 7.4可用 修复壁挂家具操作问题 无限制摆放",
+      "tid": 45762072,
+      "link": "https://bbs.nga.cn/read.php?tid=45762072",
+      "replies": 81,
+      "author": "SliverSYS",
       "lastPost": 0
     },
     {
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 69,
+      "replies": 70,
       "author": "awereg",
-      "lastPost": 0
-    },
-    {
-      "title": "进化模式下，召唤该怎么改",
-      "tid": 46711309,
-      "link": "https://bbs.nga.cn/read.php?tid=46711309",
-      "replies": 62,
-      "author": "沈南康",
       "lastPost": 0
     },
     {
       "title": "物价相关水(这个物价会不会太贵了",
       "tid": 46744856,
       "link": "https://bbs.nga.cn/read.php?tid=46744856",
-      "replies": 50,
+      "replies": 51,
       "author": "小二芽环",
       "lastPost": 0
     }
