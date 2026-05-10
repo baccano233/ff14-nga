@@ -1,23 +1,15 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-10T10:56:12.549Z",
+  "lastUpdated": "2026-05-10T11:44:42.221Z",
   "count": 20,
   "posts": [
     {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7728,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 开个帖子记录一下剧情",
-      "tid": 40038249,
-      "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1122,
-      "author": "阿伊欧伊亚拉",
+      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～梦境乃是过去的倒影，当下实为未来的预兆，占星术士的秘密～",
+      "tid": 46068125,
+      "link": "https://bbs.nga.cn/read.php?tid=46068125",
+      "replies": 485,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -69,19 +61,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
+      "tid": 46709903,
+      "link": "https://bbs.nga.cn/read.php?tid=46709903",
+      "replies": 144,
+      "author": "苍玖",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
       "replies": 144,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
-      "tid": 46709903,
-      "link": "https://bbs.nga.cn/read.php?tid=46709903",
-      "replies": 143,
-      "author": "苍玖",
       "lastPost": 0
     },
     {
@@ -109,10 +101,18 @@
       "lastPost": 0
     },
     {
+      "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
+      "tid": 46689048,
+      "link": "https://bbs.nga.cn/read.php?tid=46689048",
+      "replies": 84,
+      "author": "破坏的团结者",
+      "lastPost": 0
+    },
+    {
       "title": "[投票不能改所以重发一个]既然都7.5了那就来做个7.0大版本bgm人气投票吧！",
       "tid": 46735221,
       "link": "https://bbs.nga.cn/read.php?tid=46735221",
-      "replies": 80,
+      "replies": 81,
       "author": "寒寒寒寒寒°",
       "lastPost": 0
     },
@@ -128,7 +128,7 @@
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 68,
+      "replies": 69,
       "author": "awereg",
       "lastPost": 0
     },
@@ -157,29 +157,21 @@
       "lastPost": 0
     },
     {
-      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
-      "tid": 46663508,
-      "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 44,
-      "author": "PirateSlime",
+      "title": "[氵一贴]忍者满级四人本真得前置tcj吧",
+      "tid": 46732335,
+      "link": "https://bbs.nga.cn/read.php?tid=46732335",
+      "replies": 43,
+      "author": "桜の御伽話♂",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7728,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 开个帖子记录一下剧情",
-      "tid": 40038249,
-      "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1122,
-      "author": "阿伊欧伊亚拉",
+      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～梦境乃是过去的倒影，当下实为未来的预兆，占星术士的秘密～",
+      "tid": 46068125,
+      "link": "https://bbs.nga.cn/read.php?tid=46068125",
+      "replies": 485,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -231,19 +223,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
+      "tid": 46709903,
+      "link": "https://bbs.nga.cn/read.php?tid=46709903",
+      "replies": 144,
+      "author": "苍玖",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
       "replies": 144,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
-      "tid": 46709903,
-      "link": "https://bbs.nga.cn/read.php?tid=46709903",
-      "replies": 143,
-      "author": "苍玖",
       "lastPost": 0
     },
     {
@@ -271,10 +263,18 @@
       "lastPost": 0
     },
     {
+      "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
+      "tid": 46689048,
+      "link": "https://bbs.nga.cn/read.php?tid=46689048",
+      "replies": 84,
+      "author": "破坏的团结者",
+      "lastPost": 0
+    },
+    {
       "title": "[投票不能改所以重发一个]既然都7.5了那就来做个7.0大版本bgm人气投票吧！",
       "tid": 46735221,
       "link": "https://bbs.nga.cn/read.php?tid=46735221",
-      "replies": 80,
+      "replies": 81,
       "author": "寒寒寒寒寒°",
       "lastPost": 0
     },
@@ -290,7 +290,7 @@
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 68,
+      "replies": 69,
       "author": "awereg",
       "lastPost": 0
     },
@@ -319,11 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
-      "tid": 46663508,
-      "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 44,
-      "author": "PirateSlime",
+      "title": "[氵一贴]忍者满级四人本真得前置tcj吧",
+      "tid": 46732335,
+      "link": "https://bbs.nga.cn/read.php?tid=46732335",
+      "replies": 43,
+      "author": "桜の御伽話♂",
       "lastPost": 0
     }
   ]
