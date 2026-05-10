@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-10T09:39:42.147Z",
+  "lastUpdated": "2026-05-10T10:56:12.549Z",
   "count": 20,
   "posts": [
     {
@@ -26,14 +26,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=32976973",
       "replies": 443,
       "author": "易水无乱",
-      "lastPost": 0
-    },
-    {
-      "title": "该说什么说什么",
-      "tid": 46723332,
-      "link": "https://bbs.nga.cn/read.php?tid=46723332",
-      "replies": 286,
-      "author": "Rer4ever",
       "lastPost": 0
     },
     {
@@ -80,16 +72,16 @@
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 143,
+      "replies": 144,
       "author": "Abylith",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]更新后的普罗玛西亚场地",
-      "tid": 46728204,
-      "link": "https://bbs.nga.cn/read.php?tid=46728204",
-      "replies": 138,
-      "author": "XiaoCPOP",
+      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
+      "tid": 46709903,
+      "link": "https://bbs.nga.cn/read.php?tid=46709903",
+      "replies": 143,
+      "author": "苍玖",
       "lastPost": 0
     },
     {
@@ -104,7 +96,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 94,
+      "replies": 95,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -128,7 +120,7 @@
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 76,
+      "replies": 79,
       "author": "harveythesecond",
       "lastPost": 0
     },
@@ -136,7 +128,7 @@
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 65,
+      "replies": 68,
       "author": "awereg",
       "lastPost": 0
     },
@@ -144,7 +136,7 @@
       "title": "进化模式下，召唤该怎么改",
       "tid": 46711309,
       "link": "https://bbs.nga.cn/read.php?tid=46711309",
-      "replies": 61,
+      "replies": 62,
       "author": "沈南康",
       "lastPost": 0
     },
@@ -152,7 +144,7 @@
       "title": "物价相关水(这个物价会不会太贵了",
       "tid": 46744856,
       "link": "https://bbs.nga.cn/read.php?tid=46744856",
-      "replies": 49,
+      "replies": 50,
       "author": "小二芽环",
       "lastPost": 0
     },
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46741318",
       "replies": 46,
       "author": "十三区大统领",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 44,
+      "author": "PirateSlime",
       "lastPost": 0
     }
   ],
@@ -191,14 +191,6 @@
       "lastPost": 0
     },
     {
-      "title": "该说什么说什么",
-      "tid": 46723332,
-      "link": "https://bbs.nga.cn/read.php?tid=46723332",
-      "replies": 286,
-      "author": "Rer4ever",
-      "lastPost": 0
-    },
-    {
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
@@ -242,16 +234,16 @@
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 143,
+      "replies": 144,
       "author": "Abylith",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]更新后的普罗玛西亚场地",
-      "tid": 46728204,
-      "link": "https://bbs.nga.cn/read.php?tid=46728204",
-      "replies": 138,
-      "author": "XiaoCPOP",
+      "title": "[氵一贴] [剧情讨论] 有些人评价角色塑造好坏的标准是“对我好不好”“我对ta感觉好不好”，我觉得你真要评价，首先这个角色在编剧笔下得是个人",
+      "tid": 46709903,
+      "link": "https://bbs.nga.cn/read.php?tid=46709903",
+      "replies": 143,
+      "author": "苍玖",
       "lastPost": 0
     },
     {
@@ -266,7 +258,7 @@
       "title": "[氵一贴] 大家说说7.0大版本做得好的地方吧",
       "tid": 46718047,
       "link": "https://bbs.nga.cn/read.php?tid=46718047",
-      "replies": 94,
+      "replies": 95,
       "author": "moonlight10",
       "lastPost": 0
     },
@@ -290,7 +282,7 @@
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 76,
+      "replies": 79,
       "author": "harveythesecond",
       "lastPost": 0
     },
@@ -298,7 +290,7 @@
       "title": "随着六翼出来，最丑融合坐骑的桂冠归属于巴哈还是麒麟呢？",
       "tid": 46680122,
       "link": "https://bbs.nga.cn/read.php?tid=46680122",
-      "replies": 65,
+      "replies": 68,
       "author": "awereg",
       "lastPost": 0
     },
@@ -306,7 +298,7 @@
       "title": "进化模式下，召唤该怎么改",
       "tid": 46711309,
       "link": "https://bbs.nga.cn/read.php?tid=46711309",
-      "replies": 61,
+      "replies": 62,
       "author": "沈南康",
       "lastPost": 0
     },
@@ -314,7 +306,7 @@
       "title": "物价相关水(这个物价会不会太贵了",
       "tid": 46744856,
       "link": "https://bbs.nga.cn/read.php?tid=46744856",
-      "replies": 49,
+      "replies": 50,
       "author": "小二芽环",
       "lastPost": 0
     },
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46741318",
       "replies": 46,
       "author": "十三区大统领",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 44,
+      "author": "PirateSlime",
       "lastPost": 0
     }
   ]
