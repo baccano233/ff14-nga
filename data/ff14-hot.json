@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-11T22:46:40.748Z",
+  "lastUpdated": "2026-05-11T23:51:08.956Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6397,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
@@ -50,6 +42,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46728204",
       "replies": 159,
       "author": "XiaoCPOP",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 149,
+      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -149,32 +149,24 @@
       "lastPost": 0
     },
     {
+      "title": "绝妖星乱舞首月保次月4=4，已有mt，h1，h2，d4",
+      "tid": 46660299,
+      "link": "https://bbs.nga.cn/read.php?tid=46660299",
+      "replies": 33,
+      "author": "相羽uiha",
+      "lastPost": 0
+    },
+    {
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
       "replies": 33,
       "author": "童话菌",
-      "lastPost": 0
-    },
-    {
-      "title": "[7.5团本] 关于第三巡行——阿图尔冈皇国 区域的彩蛋收集",
-      "tid": 46706651,
-      "link": "https://bbs.nga.cn/read.php?tid=46706651",
-      "replies": 30,
-      "author": "虎斑猫饲养bot",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6397,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
@@ -212,6 +204,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46728204",
       "replies": 159,
       "author": "XiaoCPOP",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 149,
+      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
+      "title": "绝妖星乱舞首月保次月4=4，已有mt，h1，h2，d4",
+      "tid": 46660299,
+      "link": "https://bbs.nga.cn/read.php?tid=46660299",
+      "replies": 33,
+      "author": "相羽uiha",
+      "lastPost": 0
+    },
+    {
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
       "replies": 33,
       "author": "童话菌",
-      "lastPost": 0
-    },
-    {
-      "title": "[7.5团本] 关于第三巡行——阿图尔冈皇国 区域的彩蛋收集",
-      "tid": 46706651,
-      "link": "https://bbs.nga.cn/read.php?tid=46706651",
-      "replies": 30,
-      "author": "虎斑猫饲养bot",
       "lastPost": 0
     }
   ]
