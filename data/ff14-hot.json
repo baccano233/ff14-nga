@@ -1,22 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-12T05:51:17.773Z",
+  "lastUpdated": "2026-05-12T08:29:06.320Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7734,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
     {
       "title": "[幻想科技] 装修小工具",
       "tid": 32454160,
       "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1340,
+      "replies": 1341,
       "author": "狗头肥肥",
       "lastPost": 0
     },
@@ -24,8 +16,16 @@
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 491,
+      "replies": 492,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科]我在艾欧泽亚搞无形之术",
+      "tid": 46455836,
+      "link": "https://bbs.nga.cn/read.php?tid=46455836",
+      "replies": 232,
+      "author": "Vilolili",
       "lastPost": 0
     },
     {
@@ -40,31 +40,31 @@
       "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
       "tid": 46465546,
       "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 213,
+      "replies": 214,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
-      "title": "[记录氵]谁啊一天到晚装别人家庭院(开工中)",
-      "tid": 36534223,
-      "link": "https://bbs.nga.cn/read.php?tid=36534223",
-      "replies": 171,
-      "author": "DeicideAuro",
+      "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
+      "tid": 43353963,
+      "link": "https://bbs.nga.cn/read.php?tid=43353963",
+      "replies": 185,
+      "author": "北白川团子",
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 152,
-      "author": "Abylith",
+      "title": "[幻想科技] [DPS悬浮窗]老酒新发，Horizoverlay悬浮窗个人修改版",
+      "tid": 35378160,
+      "link": "https://bbs.nga.cn/read.php?tid=35378160",
+      "replies": 137,
+      "author": "冬日梦白鸽",
       "lastPost": 0
     },
     {
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 99,
+      "replies": 100,
       "author": "harveythesecond",
       "lastPost": 0
     },
@@ -88,8 +88,24 @@
       "title": "[记录氵]总之，这样那样的n芽副本大冒险",
       "tid": 46310470,
       "link": "https://bbs.nga.cn/read.php?tid=46310470",
-      "replies": 88,
+      "replies": 89,
       "author": "Awiten",
+      "lastPost": 0
+    },
+    {
+      "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
+      "tid": 46689048,
+      "link": "https://bbs.nga.cn/read.php?tid=46689048",
+      "replies": 87,
+      "author": "破坏的团结者",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 库啵装修工具 0.0.3 7.4可用 修复壁挂家具操作问题 无限制摆放",
+      "tid": 45762072,
+      "link": "https://bbs.nga.cn/read.php?tid=45762072",
+      "replies": 82,
+      "author": "SliverSYS",
       "lastPost": 0
     },
     {
@@ -104,7 +120,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 57,
+      "replies": 58,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -120,65 +136,41 @@
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 38,
+      "replies": 41,
       "author": "童话菌",
+      "lastPost": 0
+    },
+    {
+      "title": "(陆行鸟区/可跨大区)妖星乱舞绝境战次月队6=2，缺t和远敏",
+      "tid": 46726342,
+      "link": "https://bbs.nga.cn/read.php?tid=46726342",
+      "replies": 36,
+      "author": "Kickshaw",
       "lastPost": 0
     },
     {
       "title": "[闲聊杂谈] 8.0白膜的苦难之心好像删了变成大神圣了？",
       "tid": 46749056,
       "link": "https://bbs.nga.cn/read.php?tid=46749056",
-      "replies": 35,
+      "replies": 36,
       "author": "o_这可莉害咯_o",
-      "lastPost": 0
-    },
-    {
-      "title": "[7.5团本] 关于第三巡行——阿图尔冈皇国 区域的彩蛋收集",
-      "tid": 46706651,
-      "link": "https://bbs.nga.cn/read.php?tid=46706651",
-      "replies": 30,
-      "author": "虎斑猫饲养bot",
       "lastPost": 0
     },
     {
       "title": "我就是想打个第一巡行，完成任务，看看后续剧情而已",
       "tid": 46752597,
       "link": "https://bbs.nga.cn/read.php?tid=46752597",
-      "replies": 29,
+      "replies": 33,
       "author": "眉清目秀的哞",
-      "lastPost": 0
-    },
-    {
-      "title": "2026北美粉丝节直播图文信息整理",
-      "tid": 46678014,
-      "link": "https://bbs.nga.cn/read.php?tid=46678014",
-      "replies": 27,
-      "author": "阳光雨陌",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵]惊喜蛋我好恨你",
-      "tid": 46756833,
-      "link": "https://bbs.nga.cn/read.php?tid=46756833",
-      "replies": 26,
-      "author": "#anony_c8f6fc104f7d28008922848ab7b3f449",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7734,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
       "title": "[幻想科技] 装修小工具",
       "tid": 32454160,
       "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1340,
+      "replies": 1341,
       "author": "狗头肥肥",
       "lastPost": 0
     },
@@ -186,8 +178,16 @@
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 491,
+      "replies": 492,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科]我在艾欧泽亚搞无形之术",
+      "tid": 46455836,
+      "link": "https://bbs.nga.cn/read.php?tid=46455836",
+      "replies": 232,
+      "author": "Vilolili",
       "lastPost": 0
     },
     {
@@ -202,31 +202,31 @@
       "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
       "tid": 46465546,
       "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 213,
+      "replies": 214,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
-      "title": "[记录氵]谁啊一天到晚装别人家庭院(开工中)",
-      "tid": 36534223,
-      "link": "https://bbs.nga.cn/read.php?tid=36534223",
-      "replies": 171,
-      "author": "DeicideAuro",
+      "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
+      "tid": 43353963,
+      "link": "https://bbs.nga.cn/read.php?tid=43353963",
+      "replies": 185,
+      "author": "北白川团子",
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY6进度 我们要拯救大家",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 152,
-      "author": "Abylith",
+      "title": "[幻想科技] [DPS悬浮窗]老酒新发，Horizoverlay悬浮窗个人修改版",
+      "tid": 35378160,
+      "link": "https://bbs.nga.cn/read.php?tid=35378160",
+      "replies": 137,
+      "author": "冬日梦白鸽",
       "lastPost": 0
     },
     {
       "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
       "tid": 46740327,
       "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 99,
+      "replies": 100,
       "author": "harveythesecond",
       "lastPost": 0
     },
@@ -250,8 +250,24 @@
       "title": "[记录氵]总之，这样那样的n芽副本大冒险",
       "tid": 46310470,
       "link": "https://bbs.nga.cn/read.php?tid=46310470",
-      "replies": 88,
+      "replies": 89,
       "author": "Awiten",
+      "lastPost": 0
+    },
+    {
+      "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
+      "tid": 46689048,
+      "link": "https://bbs.nga.cn/read.php?tid=46689048",
+      "replies": 87,
+      "author": "破坏的团结者",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 库啵装修工具 0.0.3 7.4可用 修复壁挂家具操作问题 无限制摆放",
+      "tid": 45762072,
+      "link": "https://bbs.nga.cn/read.php?tid=45762072",
+      "replies": 82,
+      "author": "SliverSYS",
       "lastPost": 0
     },
     {
@@ -266,7 +282,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 57,
+      "replies": 58,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -282,48 +298,32 @@
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 38,
+      "replies": 41,
       "author": "童话菌",
+      "lastPost": 0
+    },
+    {
+      "title": "(陆行鸟区/可跨大区)妖星乱舞绝境战次月队6=2，缺t和远敏",
+      "tid": 46726342,
+      "link": "https://bbs.nga.cn/read.php?tid=46726342",
+      "replies": 36,
+      "author": "Kickshaw",
       "lastPost": 0
     },
     {
       "title": "[闲聊杂谈] 8.0白膜的苦难之心好像删了变成大神圣了？",
       "tid": 46749056,
       "link": "https://bbs.nga.cn/read.php?tid=46749056",
-      "replies": 35,
+      "replies": 36,
       "author": "o_这可莉害咯_o",
-      "lastPost": 0
-    },
-    {
-      "title": "[7.5团本] 关于第三巡行——阿图尔冈皇国 区域的彩蛋收集",
-      "tid": 46706651,
-      "link": "https://bbs.nga.cn/read.php?tid=46706651",
-      "replies": 30,
-      "author": "虎斑猫饲养bot",
       "lastPost": 0
     },
     {
       "title": "我就是想打个第一巡行，完成任务，看看后续剧情而已",
       "tid": 46752597,
       "link": "https://bbs.nga.cn/read.php?tid=46752597",
-      "replies": 29,
+      "replies": 33,
       "author": "眉清目秀的哞",
-      "lastPost": 0
-    },
-    {
-      "title": "2026北美粉丝节直播图文信息整理",
-      "tid": 46678014,
-      "link": "https://bbs.nga.cn/read.php?tid=46678014",
-      "replies": 27,
-      "author": "阳光雨陌",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵]惊喜蛋我好恨你",
-      "tid": 46756833,
-      "link": "https://bbs.nga.cn/read.php?tid=46756833",
-      "replies": 26,
-      "author": "#anony_c8f6fc104f7d28008922848ab7b3f449",
       "lastPost": 0
     }
   ]
