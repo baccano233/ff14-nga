@@ -1,14 +1,38 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-13T06:01:32.890Z",
+  "lastUpdated": "2026-05-13T09:23:33.034Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
+      "tid": 19019884,
+      "link": "https://bbs.nga.cn/read.php?tid=19019884",
+      "replies": 2881,
+      "author": "DieMoe",
+      "lastPost": 0
+    },
+    {
+      "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
+      "tid": 44803833,
+      "link": "https://bbs.nga.cn/read.php?tid=44803833",
+      "replies": 796,
+      "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
+      "lastPost": 0
+    },
     {
       "title": "[已补完][记录]昔日重现6.0(后期变成芝诺斯cos号了)(追加十二神团本剧情)",
       "tid": 44251607,
       "link": "https://bbs.nga.cn/read.php?tid=44251607",
-      "replies": 582,
+      "replies": 585,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 273,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -21,42 +45,26 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵]谁啊一天到晚装别人家庭院(开工中)",
-      "tid": 36534223,
-      "link": "https://bbs.nga.cn/read.php?tid=36534223",
-      "replies": 173,
-      "author": "DeicideAuro",
+      "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
+      "tid": 43353963,
+      "link": "https://bbs.nga.cn/read.php?tid=43353963",
+      "replies": 189,
+      "author": "北白川团子",
       "lastPost": 0
     },
     {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY7进度 谁给我提前实装8.0了(误)",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 157,
+      "replies": 158,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 138,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] [如有不合适请删]今天早上看到了有人在reddit的r/ffxiv发了个石之家相关的帖子，疑似告状自己遇到的不公",
-      "tid": 46766226,
-      "link": "https://bbs.nga.cn/read.php?tid=46766226",
-      "replies": 130,
-      "author": "#anony_dbade1237caf92e4d51c4990784722ad",
       "lastPost": 0
     },
     {
       "title": "[悲报！]刚刚丝瓜直播说基本确定不可能上游戏内跨区传送功能",
       "tid": 46764265,
       "link": "https://bbs.nga.cn/read.php?tid=46764265",
-      "replies": 114,
+      "replies": 157,
       "author": "蝉儿",
       "lastPost": 0
     },
@@ -69,19 +77,19 @@
       "lastPost": 0
     },
     {
-      "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
-      "tid": 46740327,
-      "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 110,
-      "author": "harveythesecond",
-      "lastPost": 0
-    },
-    {
       "title": "所以主角团里谁会换新职业呢？",
       "tid": 46650989,
       "link": "https://bbs.nga.cn/read.php?tid=46650989",
-      "replies": 107,
+      "replies": 111,
       "author": "wjj1025336",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
+      "tid": 46740327,
+      "link": "https://bbs.nga.cn/read.php?tid=46740327",
+      "replies": 111,
+      "author": "harveythesecond",
       "lastPost": 0
     },
     {
@@ -96,7 +104,7 @@
       "title": "[投票不能改所以重发一个]既然都7.5了那就来做个7.0大版本bgm人气投票吧！",
       "tid": 46735221,
       "link": "https://bbs.nga.cn/read.php?tid=46735221",
-      "replies": 95,
+      "replies": 98,
       "author": "寒寒寒寒寒°",
       "lastPost": 0
     },
@@ -112,7 +120,7 @@
       "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
       "tid": 46689048,
       "link": "https://bbs.nga.cn/read.php?tid=46689048",
-      "replies": 91,
+      "replies": 92,
       "author": "破坏的团结者",
       "lastPost": 0
     },
@@ -128,31 +136,15 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 62,
+      "replies": 64,
       "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "[小吉你会改吧]总结一下目前个人目前觉得狒狒还存在哪些痛点或者不舒服的地方",
-      "tid": 45965144,
-      "link": "https://bbs.nga.cn/read.php?tid=45965144",
-      "replies": 62,
-      "author": "樱满月daze",
-      "lastPost": 0
-    },
-    {
-      "title": "一拳潮人与古鱼类学者——高效获取单人与小队成就",
-      "tid": 46733180,
-      "link": "https://bbs.nga.cn/read.php?tid=46733180",
-      "replies": 48,
-      "author": "闹钟钟",
       "lastPost": 0
     },
     {
       "title": "赶紧把骑士做成mt吧",
       "tid": 46722308,
       "link": "https://bbs.nga.cn/read.php?tid=46722308",
-      "replies": 47,
+      "replies": 48,
       "author": "Deuce丶",
       "lastPost": 0
     },
@@ -160,17 +152,49 @@
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 46,
+      "replies": 47,
       "author": "童话菌",
+      "lastPost": 0
+    },
+    {
+      "title": "[个人心得] [抛砖引玉] 关于现7.4版本潜艇首饰烂钱的全航线效率表",
+      "tid": 46191188,
+      "link": "https://bbs.nga.cn/read.php?tid=46191188",
+      "replies": 43,
+      "author": "sgxjj",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
+      "tid": 19019884,
+      "link": "https://bbs.nga.cn/read.php?tid=19019884",
+      "replies": 2881,
+      "author": "DieMoe",
+      "lastPost": 0
+    },
+    {
+      "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
+      "tid": 44803833,
+      "link": "https://bbs.nga.cn/read.php?tid=44803833",
+      "replies": 796,
+      "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
+      "lastPost": 0
+    },
+    {
       "title": "[已补完][记录]昔日重现6.0(后期变成芝诺斯cos号了)(追加十二神团本剧情)",
       "tid": 44251607,
       "link": "https://bbs.nga.cn/read.php?tid=44251607",
-      "replies": 582,
+      "replies": 585,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 273,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -183,42 +207,26 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵]谁啊一天到晚装别人家庭院(开工中)",
-      "tid": 36534223,
-      "link": "https://bbs.nga.cn/read.php?tid=36534223",
-      "replies": 173,
-      "author": "DeicideAuro",
+      "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
+      "tid": 43353963,
+      "link": "https://bbs.nga.cn/read.php?tid=43353963",
+      "replies": 189,
+      "author": "北白川团子",
       "lastPost": 0
     },
     {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY7进度 谁给我提前实装8.0了(误)",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 157,
+      "replies": 158,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 138,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] [如有不合适请删]今天早上看到了有人在reddit的r/ffxiv发了个石之家相关的帖子，疑似告状自己遇到的不公",
-      "tid": 46766226,
-      "link": "https://bbs.nga.cn/read.php?tid=46766226",
-      "replies": 130,
-      "author": "#anony_dbade1237caf92e4d51c4990784722ad",
       "lastPost": 0
     },
     {
       "title": "[悲报！]刚刚丝瓜直播说基本确定不可能上游戏内跨区传送功能",
       "tid": 46764265,
       "link": "https://bbs.nga.cn/read.php?tid=46764265",
-      "replies": 114,
+      "replies": 157,
       "author": "蝉儿",
       "lastPost": 0
     },
@@ -231,19 +239,19 @@
       "lastPost": 0
     },
     {
-      "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
-      "tid": 46740327,
-      "link": "https://bbs.nga.cn/read.php?tid=46740327",
-      "replies": 110,
-      "author": "harveythesecond",
-      "lastPost": 0
-    },
-    {
       "title": "所以主角团里谁会换新职业呢？",
       "tid": 46650989,
       "link": "https://bbs.nga.cn/read.php?tid=46650989",
-      "replies": 107,
+      "replies": 111,
       "author": "wjj1025336",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵]好奇豆芽时主职对打高难的职业选择影响多大",
+      "tid": 46740327,
+      "link": "https://bbs.nga.cn/read.php?tid=46740327",
+      "replies": 111,
+      "author": "harveythesecond",
       "lastPost": 0
     },
     {
@@ -258,7 +266,7 @@
       "title": "[投票不能改所以重发一个]既然都7.5了那就来做个7.0大版本bgm人气投票吧！",
       "tid": 46735221,
       "link": "https://bbs.nga.cn/read.php?tid=46735221",
-      "replies": 95,
+      "replies": 98,
       "author": "寒寒寒寒寒°",
       "lastPost": 0
     },
@@ -274,7 +282,7 @@
       "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
       "tid": 46689048,
       "link": "https://bbs.nga.cn/read.php?tid=46689048",
-      "replies": 91,
+      "replies": 92,
       "author": "破坏的团结者",
       "lastPost": 0
     },
@@ -290,31 +298,15 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 62,
+      "replies": 64,
       "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "[小吉你会改吧]总结一下目前个人目前觉得狒狒还存在哪些痛点或者不舒服的地方",
-      "tid": 45965144,
-      "link": "https://bbs.nga.cn/read.php?tid=45965144",
-      "replies": 62,
-      "author": "樱满月daze",
-      "lastPost": 0
-    },
-    {
-      "title": "一拳潮人与古鱼类学者——高效获取单人与小队成就",
-      "tid": 46733180,
-      "link": "https://bbs.nga.cn/read.php?tid=46733180",
-      "replies": 48,
-      "author": "闹钟钟",
       "lastPost": 0
     },
     {
       "title": "赶紧把骑士做成mt吧",
       "tid": 46722308,
       "link": "https://bbs.nga.cn/read.php?tid=46722308",
-      "replies": 47,
+      "replies": 48,
       "author": "Deuce丶",
       "lastPost": 0
     },
@@ -322,8 +314,16 @@
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 46,
+      "replies": 47,
       "author": "童话菌",
+      "lastPost": 0
+    },
+    {
+      "title": "[个人心得] [抛砖引玉] 关于现7.4版本潜艇首饰烂钱的全航线效率表",
+      "tid": 46191188,
+      "link": "https://bbs.nga.cn/read.php?tid=46191188",
+      "replies": 43,
+      "author": "sgxjj",
       "lastPost": 0
     }
   ]
