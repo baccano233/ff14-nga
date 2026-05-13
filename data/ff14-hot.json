@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-13T22:58:37.128Z",
+  "lastUpdated": "2026-05-13T23:59:32.380Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6401,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[已复更][战场文学安科小说]我在尘封秘岩夹老三(进度：队名，斩神！)",
       "tid": 43125531,
@@ -162,19 +154,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=45965144",
       "replies": 65,
       "author": "樱满月daze",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 53,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6401,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[已复更][战场文学安科小说]我在尘封秘岩夹老三(进度：队名，斩神！)",
       "tid": 43125531,
       "link": "https://bbs.nga.cn/read.php?tid=43125531",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=45965144",
       "replies": 65,
       "author": "樱满月daze",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 53,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     }
   ]
