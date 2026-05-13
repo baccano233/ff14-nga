@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-13T18:53:04.308Z",
+  "lastUpdated": "2026-05-13T20:27:35.745Z",
   "count": 20,
   "posts": [
     {
@@ -133,6 +133,14 @@
       "lastPost": 0
     },
     {
+      "title": "[6.x][战职][数据]再谈随机副本经验机制",
+      "tid": 30991264,
+      "link": "https://bbs.nga.cn/read.php?tid=30991264",
+      "replies": 88,
+      "author": "蜡笔桶",
+      "lastPost": 0
+    },
+    {
       "title": "[记录氵]从兵兵开始钓鱼",
       "tid": 37696171,
       "link": "https://bbs.nga.cn/read.php?tid=37696171",
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45965144",
       "replies": 65,
       "author": "樱满月daze",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
-      "tid": 45900524,
-      "link": "https://bbs.nga.cn/read.php?tid=45900524",
-      "replies": 53,
-      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     }
   ],
@@ -295,6 +295,14 @@
       "lastPost": 0
     },
     {
+      "title": "[6.x][战职][数据]再谈随机副本经验机制",
+      "tid": 30991264,
+      "link": "https://bbs.nga.cn/read.php?tid=30991264",
+      "replies": 88,
+      "author": "蜡笔桶",
+      "lastPost": 0
+    },
+    {
       "title": "[记录氵]从兵兵开始钓鱼",
       "tid": 37696171,
       "link": "https://bbs.nga.cn/read.php?tid=37696171",
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45965144",
       "replies": 65,
       "author": "樱满月daze",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
-      "tid": 45900524,
-      "link": "https://bbs.nga.cn/read.php?tid=45900524",
-      "replies": 53,
-      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     }
   ]
