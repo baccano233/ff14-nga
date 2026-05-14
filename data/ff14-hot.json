@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-14T17:43:26.561Z",
+  "lastUpdated": "2026-05-14T19:29:01.847Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7736,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
     {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
@@ -24,7 +16,7 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 275,
+      "replies": 276,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -37,10 +29,18 @@
       "lastPost": 0
     },
     {
+      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
+      "tid": 46465546,
+      "link": "https://bbs.nga.cn/read.php?tid=46465546",
+      "replies": 226,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
       "tid": 43353963,
       "link": "https://bbs.nga.cn/read.php?tid=43353963",
-      "replies": 202,
+      "replies": 204,
       "author": "北白川团子",
       "lastPost": 0
     },
@@ -85,6 +85,14 @@
       "lastPost": 0
     },
     {
+      "title": "[沙雕氵] 我的咕定队队友今天又作死了吗(儿童画的咕定队日常)(堂堂更新！被死亡使者究极骗进兵兵的日日夜夜)",
+      "tid": 21459248,
+      "link": "https://bbs.nga.cn/read.php?tid=21459248",
+      "replies": 93,
+      "author": "kira0301",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
       "tid": 46689048,
       "link": "https://bbs.nga.cn/read.php?tid=46689048",
@@ -98,14 +106,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=35411024",
       "replies": 78,
       "author": "阿布evo",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵]从兵兵开始钓鱼",
-      "tid": 37696171,
-      "link": "https://bbs.nga.cn/read.php?tid=37696171",
-      "replies": 74,
-      "author": "时秋一",
       "lastPost": 0
     },
     {
@@ -152,7 +152,7 @@
       "title": "每日随机进了万魔殿p1，看到boss这个超级无敌大的目标圈气笑了，p1到p4应该可以毫无疑问当选最差大型副本吧",
       "tid": 46773231,
       "link": "https://bbs.nga.cn/read.php?tid=46773231",
-      "replies": 42,
+      "replies": 43,
       "author": "十三区大统领",
       "lastPost": 0
     },
@@ -160,21 +160,13 @@
       "title": "[举手提问]看到有人说国服神人小团体所以推荐萌新去国际服，那么国际服有没有神人故事？",
       "tid": 46777194,
       "link": "https://bbs.nga.cn/read.php?tid=46777194",
-      "replies": 33,
+      "replies": 37,
       "author": "一小罐可乐",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7736,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
@@ -186,7 +178,7 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 275,
+      "replies": 276,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -199,10 +191,18 @@
       "lastPost": 0
     },
     {
+      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
+      "tid": 46465546,
+      "link": "https://bbs.nga.cn/read.php?tid=46465546",
+      "replies": 226,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想科技] 投影台整理助手 (已支持列出可放收藏柜的套装)",
       "tid": 43353963,
       "link": "https://bbs.nga.cn/read.php?tid=43353963",
-      "replies": 202,
+      "replies": 204,
       "author": "北白川团子",
       "lastPost": 0
     },
@@ -247,6 +247,14 @@
       "lastPost": 0
     },
     {
+      "title": "[沙雕氵] 我的咕定队队友今天又作死了吗(儿童画的咕定队日常)(堂堂更新！被死亡使者究极骗进兵兵的日日夜夜)",
+      "tid": 21459248,
+      "link": "https://bbs.nga.cn/read.php?tid=21459248",
+      "replies": 93,
+      "author": "kira0301",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情氵]有时候你真的不知道拂晓原来有这么多人",
       "tid": 46689048,
       "link": "https://bbs.nga.cn/read.php?tid=46689048",
@@ -260,14 +268,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=35411024",
       "replies": 78,
       "author": "阿布evo",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵]从兵兵开始钓鱼",
-      "tid": 37696171,
-      "link": "https://bbs.nga.cn/read.php?tid=37696171",
-      "replies": 74,
-      "author": "时秋一",
       "lastPost": 0
     },
     {
@@ -314,7 +314,7 @@
       "title": "每日随机进了万魔殿p1，看到boss这个超级无敌大的目标圈气笑了，p1到p4应该可以毫无疑问当选最差大型副本吧",
       "tid": 46773231,
       "link": "https://bbs.nga.cn/read.php?tid=46773231",
-      "replies": 42,
+      "replies": 43,
       "author": "十三区大统领",
       "lastPost": 0
     },
@@ -322,7 +322,7 @@
       "title": "[举手提问]看到有人说国服神人小团体所以推荐萌新去国际服，那么国际服有没有神人故事？",
       "tid": 46777194,
       "link": "https://bbs.nga.cn/read.php?tid=46777194",
-      "replies": 33,
+      "replies": 37,
       "author": "一小罐可乐",
       "lastPost": 0
     }
