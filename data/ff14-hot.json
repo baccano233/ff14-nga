@@ -1,23 +1,23 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-15T22:28:49.382Z",
+  "lastUpdated": "2026-05-15T23:28:26.588Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6402,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
     {
       "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
       "tid": 22986048,
       "link": "https://bbs.nga.cn/read.php?tid=22986048",
       "replies": 1316,
       "author": "阿布evo",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 510,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -112,7 +112,7 @@
       "title": "[记录氵]我在鸟区做猪奸的日子",
       "tid": 46344442,
       "link": "https://bbs.nga.cn/read.php?tid=46344442",
-      "replies": 91,
+      "replies": 92,
       "author": "Pondrie",
       "lastPost": 0
     },
@@ -128,7 +128,7 @@
       "title": "也改了这么久了，大伙感觉现在战场咋样？",
       "tid": 46780958,
       "link": "https://bbs.nga.cn/read.php?tid=46780958",
-      "replies": 63,
+      "replies": 64,
       "author": "氷川あやや",
       "lastPost": 0
     },
@@ -167,19 +167,19 @@
   ],
   "data": [
     {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6402,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
+    {
       "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
       "tid": 22986048,
       "link": "https://bbs.nga.cn/read.php?tid=22986048",
       "replies": 1316,
       "author": "阿布evo",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 510,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -274,7 +274,7 @@
       "title": "[记录氵]我在鸟区做猪奸的日子",
       "tid": 46344442,
       "link": "https://bbs.nga.cn/read.php?tid=46344442",
-      "replies": 91,
+      "replies": 92,
       "author": "Pondrie",
       "lastPost": 0
     },
@@ -290,7 +290,7 @@
       "title": "也改了这么久了，大伙感觉现在战场咋样？",
       "tid": 46780958,
       "link": "https://bbs.nga.cn/read.php?tid=46780958",
-      "replies": 63,
+      "replies": 64,
       "author": "氷川あやや",
       "lastPost": 0
     },
