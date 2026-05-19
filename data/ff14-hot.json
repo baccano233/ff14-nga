@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-19T20:26:05.933Z",
+  "lastUpdated": "2026-05-19T21:53:07.492Z",
   "count": 20,
   "posts": [
     {
@@ -13,19 +13,19 @@
       "lastPost": 0
     },
     {
+      "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
+      "tid": 44803833,
+      "link": "https://bbs.nga.cn/read.php?tid=44803833",
+      "replies": 819,
+      "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
+      "lastPost": 0
+    },
+    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
       "replies": 518,
       "author": "人造花",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 285,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -56,8 +56,16 @@
       "title": "[导随记录]终于 可以在狗区开导！",
       "tid": 37486120,
       "link": "https://bbs.nga.cn/read.php?tid=37486120",
-      "replies": 228,
+      "replies": 229,
       "author": "等铭天过后",
+      "lastPost": 0
+    },
+    {
+      "title": "[导随记录]易伤如巨石雨落下",
+      "tid": 45716863,
+      "link": "https://bbs.nga.cn/read.php?tid=45716863",
+      "replies": 145,
+      "author": "fangwild",
       "lastPost": 0
     },
     {
@@ -109,19 +117,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 7.55版本最终阶段肝武 新小黄书 需要击杀的怪物列表",
+      "tid": 46809129,
+      "link": "https://bbs.nga.cn/read.php?tid=46809129",
+      "replies": 58,
+      "author": "GreatGBL",
+      "lastPost": 0
+    },
+    {
       "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
       "tid": 45900524,
       "link": "https://bbs.nga.cn/read.php?tid=45900524",
       "replies": 58,
       "author": "希斯特利亚马乌罗提",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 7.55版本最终阶段肝武 新小黄书 需要击杀的怪物列表",
-      "tid": 46809129,
-      "link": "https://bbs.nga.cn/read.php?tid=46809129",
-      "replies": 57,
-      "author": "GreatGBL",
       "lastPost": 0
     },
     {
@@ -144,7 +152,7 @@
       "title": "[氵一贴]大家找固定队会看重哪一方面呢？",
       "tid": 46807964,
       "link": "https://bbs.nga.cn/read.php?tid=46807964",
-      "replies": 36,
+      "replies": 37,
       "author": "#anony_ab1f7e0067113d6e65cc942105669560",
       "lastPost": 0
     },
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46808052",
       "replies": 33,
       "author": "Ahdobe",
-      "lastPost": 0
-    },
-    {
-      "title": "所以，阿谢姆的本名是确定了吗？",
-      "tid": 46666991,
-      "link": "https://bbs.nga.cn/read.php?tid=46666991",
-      "replies": 32,
-      "author": "吞噬众神的咸鱼",
       "lastPost": 0
     }
   ],
@@ -175,19 +175,19 @@
       "lastPost": 0
     },
     {
+      "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
+      "tid": 44803833,
+      "link": "https://bbs.nga.cn/read.php?tid=44803833",
+      "replies": 819,
+      "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
+      "lastPost": 0
+    },
+    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～贤者的察觉、他要面对的究竟是……！？～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
       "replies": 518,
       "author": "人造花",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 285,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -218,8 +218,16 @@
       "title": "[导随记录]终于 可以在狗区开导！",
       "tid": 37486120,
       "link": "https://bbs.nga.cn/read.php?tid=37486120",
-      "replies": 228,
+      "replies": 229,
       "author": "等铭天过后",
+      "lastPost": 0
+    },
+    {
+      "title": "[导随记录]易伤如巨石雨落下",
+      "tid": 45716863,
+      "link": "https://bbs.nga.cn/read.php?tid=45716863",
+      "replies": 145,
+      "author": "fangwild",
       "lastPost": 0
     },
     {
@@ -271,19 +279,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 7.55版本最终阶段肝武 新小黄书 需要击杀的怪物列表",
+      "tid": 46809129,
+      "link": "https://bbs.nga.cn/read.php?tid=46809129",
+      "replies": 58,
+      "author": "GreatGBL",
+      "lastPost": 0
+    },
+    {
       "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
       "tid": 45900524,
       "link": "https://bbs.nga.cn/read.php?tid=45900524",
       "replies": 58,
       "author": "希斯特利亚马乌罗提",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 7.55版本最终阶段肝武 新小黄书 需要击杀的怪物列表",
-      "tid": 46809129,
-      "link": "https://bbs.nga.cn/read.php?tid=46809129",
-      "replies": 57,
-      "author": "GreatGBL",
       "lastPost": 0
     },
     {
@@ -306,7 +314,7 @@
       "title": "[氵一贴]大家找固定队会看重哪一方面呢？",
       "tid": 46807964,
       "link": "https://bbs.nga.cn/read.php?tid=46807964",
-      "replies": 36,
+      "replies": 37,
       "author": "#anony_ab1f7e0067113d6e65cc942105669560",
       "lastPost": 0
     },
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46808052",
       "replies": 33,
       "author": "Ahdobe",
-      "lastPost": 0
-    },
-    {
-      "title": "所以，阿谢姆的本名是确定了吗？",
-      "tid": 46666991,
-      "link": "https://bbs.nga.cn/read.php?tid=46666991",
-      "replies": 32,
-      "author": "吞噬众神的咸鱼",
       "lastPost": 0
     }
   ]
