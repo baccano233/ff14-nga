@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-20T20:03:54.224Z",
+  "lastUpdated": "2026-05-20T22:08:39.652Z",
   "count": 20,
   "posts": [
     {
@@ -50,14 +50,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45756698",
       "replies": 237,
       "author": "xhsyjybz",
-      "lastPost": 0
-    },
-    {
-      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
-      "tid": 46229692,
-      "link": "https://bbs.nga.cn/read.php?tid=46229692",
-      "replies": 203,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -144,7 +136,7 @@
       "title": "7.51绝妖星乱舞7=1 法系d4",
       "tid": 46744400,
       "link": "https://bbs.nga.cn/read.php?tid=46744400",
-      "replies": 63,
+      "replies": 64,
       "author": "单击附件",
       "lastPost": 0
     },
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46802769",
       "replies": 53,
       "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "[物价氵]话说现在770出了几周了，咋这么贵",
+      "tid": 46808052,
+      "link": "https://bbs.nga.cn/read.php?tid=46808052",
+      "replies": 40,
+      "author": "Ahdobe",
       "lastPost": 0
     }
   ],
@@ -215,14 +215,6 @@
       "lastPost": 0
     },
     {
-      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
-      "tid": 46229692,
-      "link": "https://bbs.nga.cn/read.php?tid=46229692",
-      "replies": 203,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 从万卡归宗到从零我要成为钓鱼王！[目前进度：第32个cd惊喜蛋已起，已是异水之主+钓场之王+最终鲩想]",
       "tid": 38732360,
       "link": "https://bbs.nga.cn/read.php?tid=38732360",
@@ -306,7 +298,7 @@
       "title": "7.51绝妖星乱舞7=1 法系d4",
       "tid": 46744400,
       "link": "https://bbs.nga.cn/read.php?tid=46744400",
-      "replies": 63,
+      "replies": 64,
       "author": "单击附件",
       "lastPost": 0
     },
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46802769",
       "replies": 53,
       "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "[物价氵]话说现在770出了几周了，咋这么贵",
+      "tid": 46808052,
+      "link": "https://bbs.nga.cn/read.php?tid=46808052",
+      "replies": 40,
+      "author": "Ahdobe",
       "lastPost": 0
     }
   ]
