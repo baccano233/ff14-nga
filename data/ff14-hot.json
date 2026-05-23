@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-23T19:04:39.018Z",
+  "lastUpdated": "2026-05-23T20:13:30.129Z",
   "count": 20,
   "posts": [
     {
@@ -34,6 +34,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46455836",
       "replies": 258,
       "author": "Vilolili",
+      "lastPost": 0
+    },
+    {
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -72,7 +80,7 @@
       "title": "是不是这样：含本期零式在内，各种高难本喊得最凶是缺近战，实质缺的是非骑坦？",
       "tid": 46209091,
       "link": "https://bbs.nga.cn/read.php?tid=46209091",
-      "replies": 82,
+      "replies": 83,
       "author": "风挽月",
       "lastPost": 0
     },
@@ -80,7 +88,7 @@
       "title": "[已红温]现在的战场到底是什么玩意",
       "tid": 46827618,
       "link": "https://bbs.nga.cn/read.php?tid=46827618",
-      "replies": 74,
+      "replies": 75,
       "author": "wyq2050609593",
       "lastPost": 0
     },
@@ -104,8 +112,16 @@
       "title": "大宝剑6连是真的三体人技能吧",
       "tid": 46824616,
       "link": "https://bbs.nga.cn/read.php?tid=46824616",
-      "replies": 53,
+      "replies": 54,
       "author": "多汁公牛",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]从最终鲩想十强开始的钓鱼生活",
+      "tid": 46510608,
+      "link": "https://bbs.nga.cn/read.php?tid=46510608",
+      "replies": 53,
+      "author": "间夜鸟",
       "lastPost": 0
     },
     {
@@ -128,16 +144,16 @@
       "title": "[ai慎入]隔壁冒险岛外网比较火的一个ai角色插画",
       "tid": 46837717,
       "link": "https://bbs.nga.cn/read.php?tid=46837717",
-      "replies": 43,
+      "replies": 44,
       "author": "柳柳柳柳丶",
       "lastPost": 0
     },
     {
-      "title": "现在的职业难度是不是和早期版本相差非常大",
-      "tid": 46830586,
-      "link": "https://bbs.nga.cn/read.php?tid=46830586",
-      "replies": 38,
-      "author": "CoooB",
+      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
+      "tid": 46756420,
+      "link": "https://bbs.nga.cn/read.php?tid=46756420",
+      "replies": 43,
+      "author": "forute",
       "lastPost": 0
     },
     {
@@ -146,22 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46272636",
       "replies": 37,
       "author": "返事",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 让我康康7.0到底是怎么个事儿",
-      "tid": 46807300,
-      "link": "https://bbs.nga.cn/read.php?tid=46807300",
-      "replies": 32,
-      "author": "snwgiq3",
-      "lastPost": 0
-    },
-    {
-      "title": "现在跨大区遣返规则改了吗？",
-      "tid": 46742942,
-      "link": "https://bbs.nga.cn/read.php?tid=46742942",
-      "replies": 32,
-      "author": "咯咯咯ooo",
       "lastPost": 0
     }
   ],
@@ -199,6 +199,14 @@
       "lastPost": 0
     },
     {
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
+      "lastPost": 0
+    },
+    {
       "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
       "tid": 46229692,
       "link": "https://bbs.nga.cn/read.php?tid=46229692",
@@ -234,7 +242,7 @@
       "title": "是不是这样：含本期零式在内，各种高难本喊得最凶是缺近战，实质缺的是非骑坦？",
       "tid": 46209091,
       "link": "https://bbs.nga.cn/read.php?tid=46209091",
-      "replies": 82,
+      "replies": 83,
       "author": "风挽月",
       "lastPost": 0
     },
@@ -242,7 +250,7 @@
       "title": "[已红温]现在的战场到底是什么玩意",
       "tid": 46827618,
       "link": "https://bbs.nga.cn/read.php?tid=46827618",
-      "replies": 74,
+      "replies": 75,
       "author": "wyq2050609593",
       "lastPost": 0
     },
@@ -266,8 +274,16 @@
       "title": "大宝剑6连是真的三体人技能吧",
       "tid": 46824616,
       "link": "https://bbs.nga.cn/read.php?tid=46824616",
-      "replies": 53,
+      "replies": 54,
       "author": "多汁公牛",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]从最终鲩想十强开始的钓鱼生活",
+      "tid": 46510608,
+      "link": "https://bbs.nga.cn/read.php?tid=46510608",
+      "replies": 53,
+      "author": "间夜鸟",
       "lastPost": 0
     },
     {
@@ -290,16 +306,16 @@
       "title": "[ai慎入]隔壁冒险岛外网比较火的一个ai角色插画",
       "tid": 46837717,
       "link": "https://bbs.nga.cn/read.php?tid=46837717",
-      "replies": 43,
+      "replies": 44,
       "author": "柳柳柳柳丶",
       "lastPost": 0
     },
     {
-      "title": "现在的职业难度是不是和早期版本相差非常大",
-      "tid": 46830586,
-      "link": "https://bbs.nga.cn/read.php?tid=46830586",
-      "replies": 38,
-      "author": "CoooB",
+      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
+      "tid": 46756420,
+      "link": "https://bbs.nga.cn/read.php?tid=46756420",
+      "replies": 43,
+      "author": "forute",
       "lastPost": 0
     },
     {
@@ -308,22 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46272636",
       "replies": 37,
       "author": "返事",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 让我康康7.0到底是怎么个事儿",
-      "tid": 46807300,
-      "link": "https://bbs.nga.cn/read.php?tid=46807300",
-      "replies": 32,
-      "author": "snwgiq3",
-      "lastPost": 0
-    },
-    {
-      "title": "现在跨大区遣返规则改了吗？",
-      "tid": 46742942,
-      "link": "https://bbs.nga.cn/read.php?tid=46742942",
-      "replies": 32,
-      "author": "咯咯咯ooo",
       "lastPost": 0
     }
   ]
