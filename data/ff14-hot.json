@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-26T17:41:02.051Z",
+  "lastUpdated": "2026-05-26T19:58:55.224Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 从今天开始做个观光冒险者",
-      "tid": 45939623,
-      "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 545,
-      "author": "游鱼醉",
-      "lastPost": 0
-    },
     {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～占星术士与贤者的过去与未来、将命运的丝线引向不同方向的是……？！～",
       "tid": 46068125,
@@ -26,6 +18,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46455836",
       "replies": 267,
       "author": "Vilolili",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
+      "tid": 46465546,
+      "link": "https://bbs.nga.cn/read.php?tid=46465546",
+      "replies": 255,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -53,18 +53,10 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
-      "tid": 46310470,
-      "link": "https://bbs.nga.cn/read.php?tid=46310470",
-      "replies": 105,
-      "author": "Awiten",
-      "lastPost": 0
-    },
-    {
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 96,
+      "replies": 108,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -72,24 +64,24 @@
       "title": "[氵一贴] o8s团建因奶的太少被开除小队",
       "tid": 46853902,
       "link": "https://bbs.nga.cn/read.php?tid=46853902",
-      "replies": 94,
+      "replies": 97,
       "author": "养女",
-      "lastPost": 0
-    },
-    {
-      "title": "突然就理解成为社畜为什么对打本能力是毁灭性的了",
-      "tid": 46853266,
-      "link": "https://bbs.nga.cn/read.php?tid=46853266",
-      "replies": 76,
-      "author": "Gatling04",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 2026-05-25 丝瓜直播信息补充",
       "tid": 46858266,
       "link": "https://bbs.nga.cn/read.php?tid=46858266",
-      "replies": 72,
+      "replies": 77,
       "author": "Bearmart",
+      "lastPost": 0
+    },
+    {
+      "title": "突然就理解成为社畜为什么对打本能力是毁灭性的了",
+      "tid": 46853266,
+      "link": "https://bbs.nga.cn/read.php?tid=46853266",
+      "replies": 77,
+      "author": "Gatling04",
       "lastPost": 0
     },
     {
@@ -106,6 +98,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46601882",
       "replies": 57,
       "author": "Tsukumoyarei",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
+      "tid": 46756420,
+      "link": "https://bbs.nga.cn/read.php?tid=46756420",
+      "replies": 56,
+      "author": "forute",
       "lastPost": 0
     },
     {
@@ -133,6 +133,14 @@
       "lastPost": 0
     },
     {
+      "title": "石之家更新体型数据",
+      "tid": 46850180,
+      "link": "https://bbs.nga.cn/read.php?tid=46850180",
+      "replies": 40,
+      "author": "lunulunu",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 现在的活动都朝着国内文学进化吗？星尘活动",
       "tid": 46852260,
       "link": "https://bbs.nga.cn/read.php?tid=46852260",
@@ -154,27 +162,11 @@
       "link": "https://bbs.nga.cn/read.php?tid=46813389",
       "replies": 39,
       "author": "煤玉黑染剂",
-      "lastPost": 0
-    },
-    {
-      "title": "7.5版本绝境战首杀竞速赛现已开放报名",
-      "tid": 46839820,
-      "link": "https://bbs.nga.cn/read.php?tid=46839820",
-      "replies": 35,
-      "author": "共产主义之幽灵",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 从今天开始做个观光冒险者",
-      "tid": 45939623,
-      "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 545,
-      "author": "游鱼醉",
-      "lastPost": 0
-    },
-    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～占星术士与贤者的过去与未来、将命运的丝线引向不同方向的是……？！～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
@@ -188,6 +180,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46455836",
       "replies": 267,
       "author": "Vilolili",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
+      "tid": 46465546,
+      "link": "https://bbs.nga.cn/read.php?tid=46465546",
+      "replies": 255,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -215,18 +215,10 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
-      "tid": 46310470,
-      "link": "https://bbs.nga.cn/read.php?tid=46310470",
-      "replies": 105,
-      "author": "Awiten",
-      "lastPost": 0
-    },
-    {
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 96,
+      "replies": 108,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -234,24 +226,24 @@
       "title": "[氵一贴] o8s团建因奶的太少被开除小队",
       "tid": 46853902,
       "link": "https://bbs.nga.cn/read.php?tid=46853902",
-      "replies": 94,
+      "replies": 97,
       "author": "养女",
-      "lastPost": 0
-    },
-    {
-      "title": "突然就理解成为社畜为什么对打本能力是毁灭性的了",
-      "tid": 46853266,
-      "link": "https://bbs.nga.cn/read.php?tid=46853266",
-      "replies": 76,
-      "author": "Gatling04",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 2026-05-25 丝瓜直播信息补充",
       "tid": 46858266,
       "link": "https://bbs.nga.cn/read.php?tid=46858266",
-      "replies": 72,
+      "replies": 77,
       "author": "Bearmart",
+      "lastPost": 0
+    },
+    {
+      "title": "突然就理解成为社畜为什么对打本能力是毁灭性的了",
+      "tid": 46853266,
+      "link": "https://bbs.nga.cn/read.php?tid=46853266",
+      "replies": 77,
+      "author": "Gatling04",
       "lastPost": 0
     },
     {
@@ -268,6 +260,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46601882",
       "replies": 57,
       "author": "Tsukumoyarei",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
+      "tid": 46756420,
+      "link": "https://bbs.nga.cn/read.php?tid=46756420",
+      "replies": 56,
+      "author": "forute",
       "lastPost": 0
     },
     {
@@ -295,6 +295,14 @@
       "lastPost": 0
     },
     {
+      "title": "石之家更新体型数据",
+      "tid": 46850180,
+      "link": "https://bbs.nga.cn/read.php?tid=46850180",
+      "replies": 40,
+      "author": "lunulunu",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 现在的活动都朝着国内文学进化吗？星尘活动",
       "tid": 46852260,
       "link": "https://bbs.nga.cn/read.php?tid=46852260",
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46813389",
       "replies": 39,
       "author": "煤玉黑染剂",
-      "lastPost": 0
-    },
-    {
-      "title": "7.5版本绝境战首杀竞速赛现已开放报名",
-      "tid": 46839820,
-      "link": "https://bbs.nga.cn/read.php?tid=46839820",
-      "replies": 35,
-      "author": "共产主义之幽灵",
       "lastPost": 0
     }
   ]
