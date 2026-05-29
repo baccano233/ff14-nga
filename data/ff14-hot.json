@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-29T21:46:33.929Z",
+  "lastUpdated": "2026-05-29T23:05:24.579Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1683,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
     {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～占星术士与贤者的过去与未来、将命运的丝线引向不同方向的是……？！～",
       "tid": 46068125,
@@ -32,7 +24,7 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 404,
+      "replies": 405,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -69,6 +61,14 @@
       "lastPost": 0
     },
     {
+      "title": "[导随记录]易伤如巨石雨落下",
+      "tid": 45716863,
+      "link": "https://bbs.nga.cn/read.php?tid=45716863",
+      "replies": 157,
+      "author": "fangwild",
+      "lastPost": 0
+    },
+    {
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
@@ -90,14 +90,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46837717",
       "replies": 80,
       "author": "柳柳柳柳丶",
-      "lastPost": 0
-    },
-    {
-      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
-      "tid": 46756420,
-      "link": "https://bbs.nga.cn/read.php?tid=46756420",
-      "replies": 69,
-      "author": "forute",
       "lastPost": 0
     },
     {
@@ -160,21 +152,21 @@
       "title": "[氵一贴]有人奶这次绝本武器颜色特效吗",
       "tid": 46880470,
       "link": "https://bbs.nga.cn/read.php?tid=46880470",
-      "replies": 32,
+      "replies": 34,
       "author": "克里斯Chris",
+      "lastPost": 0
+    },
+    {
+      "title": "老想往和自身buff异色的地板上站，请问是哪个本的肌肉有记忆",
+      "tid": 46849489,
+      "link": "https://bbs.nga.cn/read.php?tid=46849489",
+      "replies": 32,
+      "author": "emanuele",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1683,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～占星术士与贤者的过去与未来、将命运的丝线引向不同方向的是……？！～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
@@ -194,7 +186,7 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 404,
+      "replies": 405,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -231,6 +223,14 @@
       "lastPost": 0
     },
     {
+      "title": "[导随记录]易伤如巨石雨落下",
+      "tid": 45716863,
+      "link": "https://bbs.nga.cn/read.php?tid=45716863",
+      "replies": 157,
+      "author": "fangwild",
+      "lastPost": 0
+    },
+    {
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
@@ -252,14 +252,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46837717",
       "replies": 80,
       "author": "柳柳柳柳丶",
-      "lastPost": 0
-    },
-    {
-      "title": "[跨大区] 妖星乱舞绝境战 时差队 目标首月 国内时间中午11:00-14:00 7=1 近战",
-      "tid": 46756420,
-      "link": "https://bbs.nga.cn/read.php?tid=46756420",
-      "replies": 69,
-      "author": "forute",
       "lastPost": 0
     },
     {
@@ -322,8 +314,16 @@
       "title": "[氵一贴]有人奶这次绝本武器颜色特效吗",
       "tid": 46880470,
       "link": "https://bbs.nga.cn/read.php?tid=46880470",
-      "replies": 32,
+      "replies": 34,
       "author": "克里斯Chris",
+      "lastPost": 0
+    },
+    {
+      "title": "老想往和自身buff异色的地板上站，请问是哪个本的肌肉有记忆",
+      "tid": 46849489,
+      "link": "https://bbs.nga.cn/read.php?tid=46849489",
+      "replies": 32,
+      "author": "emanuele",
       "lastPost": 0
     }
   ]
