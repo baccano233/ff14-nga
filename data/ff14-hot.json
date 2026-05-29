@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-29T19:52:54.071Z",
+  "lastUpdated": "2026-05-29T21:46:33.929Z",
   "count": 20,
   "posts": [
     {
@@ -32,8 +32,16 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 403,
+      "replies": 404,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "豆芽好像无法拿满10抽奖励",
+      "tid": 46869312,
+      "link": "https://bbs.nga.cn/read.php?tid=46869312",
+      "replies": 253,
+      "author": "雪见米",
       "lastPost": 0
     },
     {
@@ -66,14 +74,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
       "replies": 143,
       "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] o8s团建因奶的太少被开除小队",
-      "tid": 46853902,
-      "link": "https://bbs.nga.cn/read.php?tid=46853902",
-      "replies": 129,
-      "author": "养女",
       "lastPost": 0
     },
     {
@@ -120,7 +120,7 @@
       "title": "[氵一贴] 从幻巧来看版本极神的难度>过期极神",
       "tid": 46698131,
       "link": "https://bbs.nga.cn/read.php?tid=46698131",
-      "replies": 55,
+      "replies": 56,
       "author": "2VVV",
       "lastPost": 0
     },
@@ -149,19 +149,19 @@
       "lastPost": 0
     },
     {
-      "title": "[猫小胖/猫区][跨大区][绝妖星乱舞]1-1.5月 晚间9-0点 7=1d1 镰/盘",
-      "tid": 46805534,
-      "link": "https://bbs.nga.cn/read.php?tid=46805534",
-      "replies": 36,
-      "author": "chowvin",
-      "lastPost": 0
-    },
-    {
       "title": "突然意识到定死时间闭环奇怪在哪里了",
       "tid": 46830829,
       "link": "https://bbs.nga.cn/read.php?tid=46830829",
       "replies": 35,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]有人奶这次绝本武器颜色特效吗",
+      "tid": 46880470,
+      "link": "https://bbs.nga.cn/read.php?tid=46880470",
+      "replies": 32,
+      "author": "克里斯Chris",
       "lastPost": 0
     }
   ],
@@ -194,8 +194,16 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 403,
+      "replies": 404,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "豆芽好像无法拿满10抽奖励",
+      "tid": 46869312,
+      "link": "https://bbs.nga.cn/read.php?tid=46869312",
+      "replies": 253,
+      "author": "雪见米",
       "lastPost": 0
     },
     {
@@ -228,14 +236,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
       "replies": 143,
       "author": "PirateSlime",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] o8s团建因奶的太少被开除小队",
-      "tid": 46853902,
-      "link": "https://bbs.nga.cn/read.php?tid=46853902",
-      "replies": 129,
-      "author": "养女",
       "lastPost": 0
     },
     {
@@ -282,7 +282,7 @@
       "title": "[氵一贴] 从幻巧来看版本极神的难度>过期极神",
       "tid": 46698131,
       "link": "https://bbs.nga.cn/read.php?tid=46698131",
-      "replies": 55,
+      "replies": 56,
       "author": "2VVV",
       "lastPost": 0
     },
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
-      "title": "[猫小胖/猫区][跨大区][绝妖星乱舞]1-1.5月 晚间9-0点 7=1d1 镰/盘",
-      "tid": 46805534,
-      "link": "https://bbs.nga.cn/read.php?tid=46805534",
-      "replies": 36,
-      "author": "chowvin",
-      "lastPost": 0
-    },
-    {
       "title": "突然意识到定死时间闭环奇怪在哪里了",
       "tid": 46830829,
       "link": "https://bbs.nga.cn/read.php?tid=46830829",
       "replies": 35,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]有人奶这次绝本武器颜色特效吗",
+      "tid": 46880470,
+      "link": "https://bbs.nga.cn/read.php?tid=46880470",
+      "replies": 32,
+      "author": "克里斯Chris",
       "lastPost": 0
     }
   ]
