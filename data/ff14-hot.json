@@ -1,9 +1,25 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-30T14:50:43.872Z",
+  "lastUpdated": "2026-05-30T15:59:45.587Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[幻想科技] 装修小工具",
+      "tid": 32454160,
+      "link": "https://bbs.nga.cn/read.php?tid=32454160",
+      "replies": 1348,
+      "author": "狗头肥肥",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 开个帖子记录一下剧情",
+      "tid": 40038249,
+      "link": "https://bbs.nga.cn/read.php?tid=40038249",
+      "replies": 1128,
+      "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
     {
       "title": "[自嗨安科] 从今天开始做个观光冒险者",
       "tid": 45939623,
@@ -50,14 +66,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46869312",
       "replies": 259,
       "author": "雪见米",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -125,18 +133,10 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区]绝妖星 首月7=1 D4",
-      "tid": 46731040,
-      "link": "https://bbs.nga.cn/read.php?tid=46731040",
-      "replies": 70,
-      "author": "月野音",
-      "lastPost": 0
-    },
-    {
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 62,
+      "replies": 63,
       "author": "童话菌",
       "lastPost": 0
     },
@@ -149,24 +149,40 @@
       "lastPost": 0
     },
     {
-      "title": "这次绝本国人有机会拿下吗",
-      "tid": 46881224,
-      "link": "https://bbs.nga.cn/read.php?tid=46881224",
-      "replies": 42,
-      "author": "visem233",
+      "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
+      "tid": 46778449,
+      "link": "https://bbs.nga.cn/read.php?tid=46778449",
+      "replies": 49,
+      "author": "天光老尽",
       "lastPost": 0
     },
     {
-      "title": "[猫小胖/猫区] [跨大区] 次月队，妖星乱舞，7=1近战，每天晚上9-11",
-      "tid": 46783723,
-      "link": "https://bbs.nga.cn/read.php?tid=46783723",
-      "replies": 38,
-      "author": "冰冻煎蛋",
+      "title": "这次绝本国人有机会拿下吗",
+      "tid": 46881224,
+      "link": "https://bbs.nga.cn/read.php?tid=46881224",
+      "replies": 43,
+      "author": "visem233",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[幻想科技] 装修小工具",
+      "tid": 32454160,
+      "link": "https://bbs.nga.cn/read.php?tid=32454160",
+      "replies": 1348,
+      "author": "狗头肥肥",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 开个帖子记录一下剧情",
+      "tid": 40038249,
+      "link": "https://bbs.nga.cn/read.php?tid=40038249",
+      "replies": 1128,
+      "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科] 从今天开始做个观光冒险者",
       "tid": 45939623,
       "link": "https://bbs.nga.cn/read.php?tid=45939623",
@@ -212,14 +228,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46869312",
       "replies": 259,
       "author": "雪见米",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -287,18 +295,10 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区]绝妖星 首月7=1 D4",
-      "tid": 46731040,
-      "link": "https://bbs.nga.cn/read.php?tid=46731040",
-      "replies": 70,
-      "author": "月野音",
-      "lastPost": 0
-    },
-    {
       "title": "绝伊甸过本花多少时间正常",
       "tid": 46742947,
       "link": "https://bbs.nga.cn/read.php?tid=46742947",
-      "replies": 62,
+      "replies": 63,
       "author": "童话菌",
       "lastPost": 0
     },
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
-      "title": "这次绝本国人有机会拿下吗",
-      "tid": 46881224,
-      "link": "https://bbs.nga.cn/read.php?tid=46881224",
-      "replies": 42,
-      "author": "visem233",
+      "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
+      "tid": 46778449,
+      "link": "https://bbs.nga.cn/read.php?tid=46778449",
+      "replies": 49,
+      "author": "天光老尽",
       "lastPost": 0
     },
     {
-      "title": "[猫小胖/猫区] [跨大区] 次月队，妖星乱舞，7=1近战，每天晚上9-11",
-      "tid": 46783723,
-      "link": "https://bbs.nga.cn/read.php?tid=46783723",
-      "replies": 38,
-      "author": "冰冻煎蛋",
+      "title": "这次绝本国人有机会拿下吗",
+      "tid": 46881224,
+      "link": "https://bbs.nga.cn/read.php?tid=46881224",
+      "replies": 43,
+      "author": "visem233",
       "lastPost": 0
     }
   ]
