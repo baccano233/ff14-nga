@@ -1,14 +1,22 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-05-31T16:00:27.701Z",
+  "lastUpdated": "2026-05-31T17:14:13.004Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1078,
+      "author": "Riseyic",
+      "lastPost": 0
+    },
     {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 855,
+      "replies": 857,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -24,7 +32,7 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 464,
+      "replies": 466,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -77,6 +85,14 @@
       "lastPost": 0
     },
     {
+      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
+      "tid": 46310470,
+      "link": "https://bbs.nga.cn/read.php?tid=46310470",
+      "replies": 108,
+      "author": "Awiten",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 2026-05-25 丝瓜直播信息补充",
       "tid": 46858266,
       "link": "https://bbs.nga.cn/read.php?tid=46858266",
@@ -96,16 +112,8 @@
       "title": "[氵一贴] 一些有意思的宠物简介/宠物技能/物品简介",
       "tid": 46802769,
       "link": "https://bbs.nga.cn/read.php?tid=46802769",
-      "replies": 70,
+      "replies": 71,
       "author": "沁夏",
-      "lastPost": 0
-    },
-    {
-      "title": "联动套装快下架了，有需要的记得买",
-      "tid": 46809471,
-      "link": "https://bbs.nga.cn/read.php?tid=46809471",
-      "replies": 68,
-      "author": "菠萝吐司面包",
       "lastPost": 0
     },
     {
@@ -133,6 +141,14 @@
       "lastPost": 0
     },
     {
+      "title": "台湾网吧有狒狒国服吗？！",
+      "tid": 46761935,
+      "link": "https://bbs.nga.cn/read.php?tid=46761935",
+      "replies": 47,
+      "author": "Crazistagram",
+      "lastPost": 0
+    },
+    {
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
@@ -141,36 +157,28 @@
       "lastPost": 0
     },
     {
-      "title": "[安科]if你是被告知跳过7.0主线的冒险者(什么叫光之战士的契约妖异是芝诺斯)",
-      "tid": 46871335,
-      "link": "https://bbs.nga.cn/read.php?tid=46871335",
-      "replies": 40,
-      "author": "苍蓝闪耀的死兆星",
-      "lastPost": 0
-    },
-    {
       "title": "进度队里面犯错统计是必须的吗",
       "tid": 46893588,
       "link": "https://bbs.nga.cn/read.php?tid=46893588",
-      "replies": 39,
+      "replies": 44,
       "author": "菅原緋矢",
-      "lastPost": 0
-    },
-    {
-      "title": "[坏了没解决]力竭了我真的需要电脑赛博义诊了",
-      "tid": 46889711,
-      "link": "https://bbs.nga.cn/read.php?tid=46889711",
-      "replies": 38,
-      "author": "自由不知道哦",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1078,
+      "author": "Riseyic",
+      "lastPost": 0
+    },
+    {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 855,
+      "replies": 857,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -186,7 +194,7 @@
       "title": "[低保领取]请在此处领取菠菜低保！",
       "tid": 46860823,
       "link": "https://bbs.nga.cn/read.php?tid=46860823",
-      "replies": 464,
+      "replies": 466,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -239,6 +247,14 @@
       "lastPost": 0
     },
     {
+      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
+      "tid": 46310470,
+      "link": "https://bbs.nga.cn/read.php?tid=46310470",
+      "replies": 108,
+      "author": "Awiten",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 2026-05-25 丝瓜直播信息补充",
       "tid": 46858266,
       "link": "https://bbs.nga.cn/read.php?tid=46858266",
@@ -258,16 +274,8 @@
       "title": "[氵一贴] 一些有意思的宠物简介/宠物技能/物品简介",
       "tid": 46802769,
       "link": "https://bbs.nga.cn/read.php?tid=46802769",
-      "replies": 70,
+      "replies": 71,
       "author": "沁夏",
-      "lastPost": 0
-    },
-    {
-      "title": "联动套装快下架了，有需要的记得买",
-      "tid": 46809471,
-      "link": "https://bbs.nga.cn/read.php?tid=46809471",
-      "replies": 68,
-      "author": "菠萝吐司面包",
       "lastPost": 0
     },
     {
@@ -295,6 +303,14 @@
       "lastPost": 0
     },
     {
+      "title": "台湾网吧有狒狒国服吗？！",
+      "tid": 46761935,
+      "link": "https://bbs.nga.cn/read.php?tid=46761935",
+      "replies": 47,
+      "author": "Crazistagram",
+      "lastPost": 0
+    },
+    {
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
@@ -303,27 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[安科]if你是被告知跳过7.0主线的冒险者(什么叫光之战士的契约妖异是芝诺斯)",
-      "tid": 46871335,
-      "link": "https://bbs.nga.cn/read.php?tid=46871335",
-      "replies": 40,
-      "author": "苍蓝闪耀的死兆星",
-      "lastPost": 0
-    },
-    {
       "title": "进度队里面犯错统计是必须的吗",
       "tid": 46893588,
       "link": "https://bbs.nga.cn/read.php?tid=46893588",
-      "replies": 39,
+      "replies": 44,
       "author": "菅原緋矢",
-      "lastPost": 0
-    },
-    {
-      "title": "[坏了没解决]力竭了我真的需要电脑赛博义诊了",
-      "tid": 46889711,
-      "link": "https://bbs.nga.cn/read.php?tid=46889711",
-      "replies": 38,
-      "author": "自由不知道哦",
       "lastPost": 0
     }
   ]
