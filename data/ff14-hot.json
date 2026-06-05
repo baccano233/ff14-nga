@@ -1,71 +1,39 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-06-05T08:29:14.306Z",
+  "lastUpdated": "2026-06-05T11:43:07.345Z",
   "count": 20,
   "posts": [
     {
       "title": "妖星乱舞绝境战观战楼",
       "tid": 46896797,
       "link": "https://bbs.nga.cn/read.php?tid=46896797",
-      "replies": 2224,
+      "replies": 2546,
       "author": "世纪末的诡异妖刀",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] 装修小工具",
-      "tid": 32454160,
-      "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1353,
-      "author": "狗头肥肥",
       "lastPost": 0
     },
     {
       "title": "这拒绝理由真是给我气笑了&#128517;",
       "tid": 46906813,
       "link": "https://bbs.nga.cn/read.php?tid=46906813",
-      "replies": 613,
+      "replies": 614,
       "author": "Kudry",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～究极混战、是修罗场还是火葬场？！史诗级前任大会面…～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 591,
-      "author": "人造花",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] 从今天开始做个观光冒险者",
-      "tid": 45939623,
-      "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 566,
-      "author": "游鱼醉",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴][剧透警告]都跑到6.0了才开始的剧情感想贴(多图预警)",
-      "tid": 45756698,
-      "link": "https://bbs.nga.cn/read.php?tid=45756698",
-      "replies": 263,
-      "author": "xhsyjybz",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]打野队为了成功处理机制给队友上头标是否十恶不赦？",
       "tid": 46922301,
       "link": "https://bbs.nga.cn/read.php?tid=46922301",
-      "replies": 224,
+      "replies": 244,
       "author": "辞晓茉",
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY7进度 谁给我提前实装8.0了(误)",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 201,
-      "author": "Abylith",
+      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
+      "tid": 46229692,
+      "link": "https://bbs.nga.cn/read.php?tid=46229692",
+      "replies": 227,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -80,15 +48,23 @@
       "title": "[氵一贴] 版里都在关注绝妖，无人在意的角落，韩服宇宙探索最快的服已经推到第八阶段了",
       "tid": 46913725,
       "link": "https://bbs.nga.cn/read.php?tid=46913725",
-      "replies": 148,
+      "replies": 151,
       "author": "昶鵼",
+      "lastPost": 0
+    },
+    {
+      "title": "[生产][7.x]基于肝武的生产满配禁断的(玻璃星/崩溃星/草星)D-EX+(A3)任务宏和收益分析",
+      "tid": 45044038,
+      "link": "https://bbs.nga.cn/read.php?tid=45044038",
+      "replies": 132,
+      "author": "plas_g",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 统计一下E1S-M12S期间高难出现的BUG (持续更新)",
       "tid": 43786401,
       "link": "https://bbs.nga.cn/read.php?tid=43786401",
-      "replies": 122,
+      "replies": 125,
       "author": "GreatGBL",
       "lastPost": 0
     },
@@ -101,18 +77,34 @@
       "lastPost": 0
     },
     {
-      "title": "[安科]if你是被告知跳过7.0主线的冒险者(什么叫光之战士的契约妖异是芝诺斯)",
-      "tid": 46871335,
-      "link": "https://bbs.nga.cn/read.php?tid=46871335",
-      "replies": 73,
-      "author": "苍蓝闪耀的死兆星",
+      "title": "绝妖星现在对于tn相比于其他绝更严格吗",
+      "tid": 46922900,
+      "link": "https://bbs.nga.cn/read.php?tid=46922900",
+      "replies": 83,
+      "author": "三月工",
+      "lastPost": 0
+    },
+    {
+      "title": "问下大伙绝伊甸的设计怎么样，没打过5.x零式纯云，视频看不出名堂",
+      "tid": 46921649,
+      "link": "https://bbs.nga.cn/read.php?tid=46921649",
+      "replies": 79,
+      "author": "十三区大统领",
+      "lastPost": 0
+    },
+    {
+      "title": "[无意义氵]开始逐渐对凯夫卡产生多余且不正常的感情了……",
+      "tid": 46924354,
+      "link": "https://bbs.nga.cn/read.php?tid=46924354",
+      "replies": 71,
+      "author": "alonx龙克斯",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]来建一个绝妖星沙雕图楼吧",
       "tid": 46908058,
       "link": "https://bbs.nga.cn/read.php?tid=46908058",
-      "replies": 64,
+      "replies": 66,
       "author": "柚子花Sakuma",
       "lastPost": 0
     },
@@ -120,7 +112,7 @@
       "title": "绝妖组不到固定队无法稳定打本没办法只能云了(已经云到p2假结局)",
       "tid": 46921963,
       "link": "https://bbs.nga.cn/read.php?tid=46921963",
-      "replies": 53,
+      "replies": 55,
       "author": "三月工",
       "lastPost": 0
     },
@@ -128,40 +120,48 @@
       "title": "昨天绝妖星p1出现了一个我百思不得其解的情况，发帖来询问一下。",
       "tid": 46927160,
       "link": "https://bbs.nga.cn/read.php?tid=46927160",
-      "replies": 50,
+      "replies": 52,
       "author": "banvxiao",
       "lastPost": 0
     },
     {
-      "title": "这两天打野打的人好累",
-      "tid": 46926719,
-      "link": "https://bbs.nga.cn/read.php?tid=46926719",
-      "replies": 46,
-      "author": "アルメス",
+      "title": "[氵一贴] 如今(2026年6月)第三方工具到底能做到什么程度？",
+      "tid": 46927842,
+      "link": "https://bbs.nga.cn/read.php?tid=46927842",
+      "replies": 45,
+      "author": "lxxy3673",
       "lastPost": 0
     },
     {
       "title": "突然意识到定死时间闭环奇怪在哪里了",
       "tid": 46830829,
       "link": "https://bbs.nga.cn/read.php?tid=46830829",
-      "replies": 43,
+      "replies": 44,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "ff14终于也是有gsc粘土人了",
+      "tid": 46924203,
+      "link": "https://bbs.nga.cn/read.php?tid=46924203",
+      "replies": 38,
+      "author": "绝望中的一丝光",
       "lastPost": 0
     },
     {
       "title": "好想吐槽1神像分散野队居然是面基",
       "tid": 46924178,
       "link": "https://bbs.nga.cn/read.php?tid=46924178",
-      "replies": 36,
+      "replies": 37,
       "author": "Yuuki_Kirito",
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 根据目前最新进度来看，双T怎么安排无敌和全减吃死刑比较好",
-      "tid": 46924964,
-      "link": "https://bbs.nga.cn/read.php?tid=46924964",
-      "replies": 36,
-      "author": "Aar0nZ",
+      "title": "[记录贴]真的great again吗，小吉你立字据",
+      "tid": 46671684,
+      "link": "https://bbs.nga.cn/read.php?tid=46671684",
+      "replies": 33,
+      "author": "突拍子",
       "lastPost": 0
     }
   ],
@@ -170,64 +170,32 @@
       "title": "妖星乱舞绝境战观战楼",
       "tid": 46896797,
       "link": "https://bbs.nga.cn/read.php?tid=46896797",
-      "replies": 2224,
+      "replies": 2546,
       "author": "世纪末的诡异妖刀",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] 装修小工具",
-      "tid": 32454160,
-      "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1353,
-      "author": "狗头肥肥",
       "lastPost": 0
     },
     {
       "title": "这拒绝理由真是给我气笑了&#128517;",
       "tid": 46906813,
       "link": "https://bbs.nga.cn/read.php?tid=46906813",
-      "replies": 613,
+      "replies": 614,
       "author": "Kudry",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～究极混战、是修罗场还是火葬场？！史诗级前任大会面…～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 591,
-      "author": "人造花",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] 从今天开始做个观光冒险者",
-      "tid": 45939623,
-      "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 566,
-      "author": "游鱼醉",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴][剧透警告]都跑到6.0了才开始的剧情感想贴(多图预警)",
-      "tid": 45756698,
-      "link": "https://bbs.nga.cn/read.php?tid=45756698",
-      "replies": 263,
-      "author": "xhsyjybz",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]打野队为了成功处理机制给队友上头标是否十恶不赦？",
       "tid": 46922301,
       "link": "https://bbs.nga.cn/read.php?tid=46922301",
-      "replies": 224,
+      "replies": 244,
       "author": "辞晓茉",
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY7进度 谁给我提前实装8.0了(误)",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 201,
-      "author": "Abylith",
+      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
+      "tid": 46229692,
+      "link": "https://bbs.nga.cn/read.php?tid=46229692",
+      "replies": 227,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -242,15 +210,23 @@
       "title": "[氵一贴] 版里都在关注绝妖，无人在意的角落，韩服宇宙探索最快的服已经推到第八阶段了",
       "tid": 46913725,
       "link": "https://bbs.nga.cn/read.php?tid=46913725",
-      "replies": 148,
+      "replies": 151,
       "author": "昶鵼",
+      "lastPost": 0
+    },
+    {
+      "title": "[生产][7.x]基于肝武的生产满配禁断的(玻璃星/崩溃星/草星)D-EX+(A3)任务宏和收益分析",
+      "tid": 45044038,
+      "link": "https://bbs.nga.cn/read.php?tid=45044038",
+      "replies": 132,
+      "author": "plas_g",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 统计一下E1S-M12S期间高难出现的BUG (持续更新)",
       "tid": 43786401,
       "link": "https://bbs.nga.cn/read.php?tid=43786401",
-      "replies": 122,
+      "replies": 125,
       "author": "GreatGBL",
       "lastPost": 0
     },
@@ -263,18 +239,34 @@
       "lastPost": 0
     },
     {
-      "title": "[安科]if你是被告知跳过7.0主线的冒险者(什么叫光之战士的契约妖异是芝诺斯)",
-      "tid": 46871335,
-      "link": "https://bbs.nga.cn/read.php?tid=46871335",
-      "replies": 73,
-      "author": "苍蓝闪耀的死兆星",
+      "title": "绝妖星现在对于tn相比于其他绝更严格吗",
+      "tid": 46922900,
+      "link": "https://bbs.nga.cn/read.php?tid=46922900",
+      "replies": 83,
+      "author": "三月工",
+      "lastPost": 0
+    },
+    {
+      "title": "问下大伙绝伊甸的设计怎么样，没打过5.x零式纯云，视频看不出名堂",
+      "tid": 46921649,
+      "link": "https://bbs.nga.cn/read.php?tid=46921649",
+      "replies": 79,
+      "author": "十三区大统领",
+      "lastPost": 0
+    },
+    {
+      "title": "[无意义氵]开始逐渐对凯夫卡产生多余且不正常的感情了……",
+      "tid": 46924354,
+      "link": "https://bbs.nga.cn/read.php?tid=46924354",
+      "replies": 71,
+      "author": "alonx龙克斯",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]来建一个绝妖星沙雕图楼吧",
       "tid": 46908058,
       "link": "https://bbs.nga.cn/read.php?tid=46908058",
-      "replies": 64,
+      "replies": 66,
       "author": "柚子花Sakuma",
       "lastPost": 0
     },
@@ -282,7 +274,7 @@
       "title": "绝妖组不到固定队无法稳定打本没办法只能云了(已经云到p2假结局)",
       "tid": 46921963,
       "link": "https://bbs.nga.cn/read.php?tid=46921963",
-      "replies": 53,
+      "replies": 55,
       "author": "三月工",
       "lastPost": 0
     },
@@ -290,40 +282,48 @@
       "title": "昨天绝妖星p1出现了一个我百思不得其解的情况，发帖来询问一下。",
       "tid": 46927160,
       "link": "https://bbs.nga.cn/read.php?tid=46927160",
-      "replies": 50,
+      "replies": 52,
       "author": "banvxiao",
       "lastPost": 0
     },
     {
-      "title": "这两天打野打的人好累",
-      "tid": 46926719,
-      "link": "https://bbs.nga.cn/read.php?tid=46926719",
-      "replies": 46,
-      "author": "アルメス",
+      "title": "[氵一贴] 如今(2026年6月)第三方工具到底能做到什么程度？",
+      "tid": 46927842,
+      "link": "https://bbs.nga.cn/read.php?tid=46927842",
+      "replies": 45,
+      "author": "lxxy3673",
       "lastPost": 0
     },
     {
       "title": "突然意识到定死时间闭环奇怪在哪里了",
       "tid": 46830829,
       "link": "https://bbs.nga.cn/read.php?tid=46830829",
-      "replies": 43,
+      "replies": 44,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "ff14终于也是有gsc粘土人了",
+      "tid": 46924203,
+      "link": "https://bbs.nga.cn/read.php?tid=46924203",
+      "replies": 38,
+      "author": "绝望中的一丝光",
       "lastPost": 0
     },
     {
       "title": "好想吐槽1神像分散野队居然是面基",
       "tid": 46924178,
       "link": "https://bbs.nga.cn/read.php?tid=46924178",
-      "replies": 36,
+      "replies": 37,
       "author": "Yuuki_Kirito",
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 根据目前最新进度来看，双T怎么安排无敌和全减吃死刑比较好",
-      "tid": 46924964,
-      "link": "https://bbs.nga.cn/read.php?tid=46924964",
-      "replies": 36,
-      "author": "Aar0nZ",
+      "title": "[记录贴]真的great again吗，小吉你立字据",
+      "tid": 46671684,
+      "link": "https://bbs.nga.cn/read.php?tid=46671684",
+      "replies": 33,
+      "author": "突拍子",
       "lastPost": 0
     }
   ]
