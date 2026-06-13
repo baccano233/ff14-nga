@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-06-13T10:43:14.875Z",
+  "lastUpdated": "2026-06-13T12:20:27.306Z",
   "count": 20,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "[闲聊杂谈] 处刑青瓜的P5操作的视频大家怎么看？",
       "tid": 46958114,
       "link": "https://bbs.nga.cn/read.php?tid=46958114",
-      "replies": 1305,
+      "replies": 1316,
       "author": "lxxy3673",
       "lastPost": 0
     },
@@ -37,10 +37,18 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想科技] [ACT] [悬浮窗] [H2必备] 小队减伤记录",
+      "tid": 28047277,
+      "link": "https://bbs.nga.cn/read.php?tid=28047277",
+      "replies": 251,
+      "author": "UID:60027442",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴]各位打本的时候有没有什么小怪癖",
       "tid": 46956189,
       "link": "https://bbs.nga.cn/read.php?tid=46956189",
-      "replies": 190,
+      "replies": 195,
       "author": "BbEe丶",
       "lastPost": 0
     },
@@ -53,18 +61,10 @@
       "lastPost": 0
     },
     {
-      "title": "野队为啥P1在打这么垃圾的攻略",
-      "tid": 46968191,
-      "link": "https://bbs.nga.cn/read.php?tid=46968191",
-      "replies": 124,
-      "author": "莫古AM",
-      "lastPost": 0
-    },
-    {
       "title": "真牛逼嗷 一觉醒来五杀被抢了",
       "tid": 46976590,
       "link": "https://bbs.nga.cn/read.php?tid=46976590",
-      "replies": 83,
+      "replies": 93,
       "author": "Inteode",
       "lastPost": 0
     },
@@ -72,8 +72,24 @@
       "title": "[世界杯竞猜相关讨论楼] 世界杯竞猜？竞猜币和论坛金币我全都要！(参与互动赢最终幻想14角色亚克力立牌、100元京东卡等奖励)",
       "tid": 46966246,
       "link": "https://bbs.nga.cn/read.php?tid=46966246",
-      "replies": 77,
+      "replies": 78,
       "author": "埃癸斯",
+      "lastPost": 0
+    },
+    {
+      "title": "[妖星氵] b站无意刷到个国服4还是5杀绝妖开移速挂",
+      "tid": 46976745,
+      "link": "https://bbs.nga.cn/read.php?tid=46976745",
+      "replies": 77,
+      "author": "Luluthefla",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]在没人在意的角落，fflogs已经有20个职业绝妖星过本了",
+      "tid": 46969840,
+      "link": "https://bbs.nga.cn/read.php?tid=46969840",
+      "replies": 73,
+      "author": "jiongshu",
       "lastPost": 0
     },
     {
@@ -85,27 +101,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]在没人在意的角落，fflogs已经有20个职业绝妖星过本了",
-      "tid": 46969840,
-      "link": "https://bbs.nga.cn/read.php?tid=46969840",
-      "replies": 71,
-      "author": "jiongshu",
-      "lastPost": 0
-    },
-    {
-      "title": "求问，首月绝妖纯净打野过本真的可能吗？",
-      "tid": 46956836,
-      "link": "https://bbs.nga.cn/read.php?tid=46956836",
-      "replies": 67,
-      "author": "天神梦幻",
-      "lastPost": 0
-    },
-    {
-      "title": "[妖星氵] b站无意刷到个国服4还是5杀绝妖开移速挂",
-      "tid": 46976745,
-      "link": "https://bbs.nga.cn/read.php?tid=46976745",
-      "replies": 66,
-      "author": "Luluthefla",
+      "title": "首月队退了 倒点大辅黑泥",
+      "tid": 46974947,
+      "link": "https://bbs.nga.cn/read.php?tid=46974947",
+      "replies": 55,
+      "author": "意不眠",
       "lastPost": 0
     },
     {
@@ -117,14 +117,6 @@
       "lastPost": 0
     },
     {
-      "title": "首月队退了 倒点大辅黑泥",
-      "tid": 46974947,
-      "link": "https://bbs.nga.cn/read.php?tid=46974947",
-      "replies": 52,
-      "author": "意不眠",
-      "lastPost": 0
-    },
-    {
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
@@ -133,10 +125,18 @@
       "lastPost": 0
     },
     {
+      "title": "做了一个绝妖p4的宏，解放队友，只需要记住一个buff就能过",
+      "tid": 46956157,
+      "link": "https://bbs.nga.cn/read.php?tid=46956157",
+      "replies": 42,
+      "author": "观铃捏",
+      "lastPost": 0
+    },
+    {
       "title": "对绝卡夫卡产生了畏难情绪怎么办",
       "tid": 46944203,
       "link": "https://bbs.nga.cn/read.php?tid=46944203",
-      "replies": 37,
+      "replies": 38,
       "author": "永恒绽放之花",
       "lastPost": 0
     },
@@ -149,19 +149,19 @@
       "lastPost": 0
     },
     {
-      "title": "做了一个绝妖p4的宏，解放队友，只需要记住一个buff就能过",
-      "tid": 46956157,
-      "link": "https://bbs.nga.cn/read.php?tid=46956157",
-      "replies": 37,
-      "author": "观铃捏",
-      "lastPost": 0
-    },
-    {
       "title": "明明过了P2八塔，DPS就已经可以提前开始流口水了，让让我怎么了？",
       "tid": 46972021,
       "link": "https://bbs.nga.cn/read.php?tid=46972021",
-      "replies": 32,
+      "replies": 33,
       "author": "雾绢の妄想",
+      "lastPost": 0
+    },
+    {
+      "title": "[海外资讯] Mogtalk发布赛后总结：《妖星乱舞绝境战》赛后感想",
+      "tid": 46977752,
+      "link": "https://bbs.nga.cn/read.php?tid=46977752",
+      "replies": 32,
+      "author": "共产主义之幽灵",
       "lastPost": 0
     }
   ],
@@ -186,7 +186,7 @@
       "title": "[闲聊杂谈] 处刑青瓜的P5操作的视频大家怎么看？",
       "tid": 46958114,
       "link": "https://bbs.nga.cn/read.php?tid=46958114",
-      "replies": 1305,
+      "replies": 1316,
       "author": "lxxy3673",
       "lastPost": 0
     },
@@ -199,10 +199,18 @@
       "lastPost": 0
     },
     {
+      "title": "[幻想科技] [ACT] [悬浮窗] [H2必备] 小队减伤记录",
+      "tid": 28047277,
+      "link": "https://bbs.nga.cn/read.php?tid=28047277",
+      "replies": 251,
+      "author": "UID:60027442",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴]各位打本的时候有没有什么小怪癖",
       "tid": 46956189,
       "link": "https://bbs.nga.cn/read.php?tid=46956189",
-      "replies": 190,
+      "replies": 195,
       "author": "BbEe丶",
       "lastPost": 0
     },
@@ -215,18 +223,10 @@
       "lastPost": 0
     },
     {
-      "title": "野队为啥P1在打这么垃圾的攻略",
-      "tid": 46968191,
-      "link": "https://bbs.nga.cn/read.php?tid=46968191",
-      "replies": 124,
-      "author": "莫古AM",
-      "lastPost": 0
-    },
-    {
       "title": "真牛逼嗷 一觉醒来五杀被抢了",
       "tid": 46976590,
       "link": "https://bbs.nga.cn/read.php?tid=46976590",
-      "replies": 83,
+      "replies": 93,
       "author": "Inteode",
       "lastPost": 0
     },
@@ -234,8 +234,24 @@
       "title": "[世界杯竞猜相关讨论楼] 世界杯竞猜？竞猜币和论坛金币我全都要！(参与互动赢最终幻想14角色亚克力立牌、100元京东卡等奖励)",
       "tid": 46966246,
       "link": "https://bbs.nga.cn/read.php?tid=46966246",
-      "replies": 77,
+      "replies": 78,
       "author": "埃癸斯",
+      "lastPost": 0
+    },
+    {
+      "title": "[妖星氵] b站无意刷到个国服4还是5杀绝妖开移速挂",
+      "tid": 46976745,
+      "link": "https://bbs.nga.cn/read.php?tid=46976745",
+      "replies": 77,
+      "author": "Luluthefla",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]在没人在意的角落，fflogs已经有20个职业绝妖星过本了",
+      "tid": 46969840,
+      "link": "https://bbs.nga.cn/read.php?tid=46969840",
+      "replies": 73,
+      "author": "jiongshu",
       "lastPost": 0
     },
     {
@@ -247,27 +263,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]在没人在意的角落，fflogs已经有20个职业绝妖星过本了",
-      "tid": 46969840,
-      "link": "https://bbs.nga.cn/read.php?tid=46969840",
-      "replies": 71,
-      "author": "jiongshu",
-      "lastPost": 0
-    },
-    {
-      "title": "求问，首月绝妖纯净打野过本真的可能吗？",
-      "tid": 46956836,
-      "link": "https://bbs.nga.cn/read.php?tid=46956836",
-      "replies": 67,
-      "author": "天神梦幻",
-      "lastPost": 0
-    },
-    {
-      "title": "[妖星氵] b站无意刷到个国服4还是5杀绝妖开移速挂",
-      "tid": 46976745,
-      "link": "https://bbs.nga.cn/read.php?tid=46976745",
-      "replies": 66,
-      "author": "Luluthefla",
+      "title": "首月队退了 倒点大辅黑泥",
+      "tid": 46974947,
+      "link": "https://bbs.nga.cn/read.php?tid=46974947",
+      "replies": 55,
+      "author": "意不眠",
       "lastPost": 0
     },
     {
@@ -279,14 +279,6 @@
       "lastPost": 0
     },
     {
-      "title": "首月队退了 倒点大辅黑泥",
-      "tid": 46974947,
-      "link": "https://bbs.nga.cn/read.php?tid=46974947",
-      "replies": 52,
-      "author": "意不眠",
-      "lastPost": 0
-    },
-    {
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
@@ -295,10 +287,18 @@
       "lastPost": 0
     },
     {
+      "title": "做了一个绝妖p4的宏，解放队友，只需要记住一个buff就能过",
+      "tid": 46956157,
+      "link": "https://bbs.nga.cn/read.php?tid=46956157",
+      "replies": 42,
+      "author": "观铃捏",
+      "lastPost": 0
+    },
+    {
       "title": "对绝卡夫卡产生了畏难情绪怎么办",
       "tid": 46944203,
       "link": "https://bbs.nga.cn/read.php?tid=46944203",
-      "replies": 37,
+      "replies": 38,
       "author": "永恒绽放之花",
       "lastPost": 0
     },
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
-      "title": "做了一个绝妖p4的宏，解放队友，只需要记住一个buff就能过",
-      "tid": 46956157,
-      "link": "https://bbs.nga.cn/read.php?tid=46956157",
-      "replies": 37,
-      "author": "观铃捏",
-      "lastPost": 0
-    },
-    {
       "title": "明明过了P2八塔，DPS就已经可以提前开始流口水了，让让我怎么了？",
       "tid": 46972021,
       "link": "https://bbs.nga.cn/read.php?tid=46972021",
-      "replies": 32,
+      "replies": 33,
       "author": "雾绢の妄想",
+      "lastPost": 0
+    },
+    {
+      "title": "[海外资讯] Mogtalk发布赛后总结：《妖星乱舞绝境战》赛后感想",
+      "tid": 46977752,
+      "link": "https://bbs.nga.cn/read.php?tid=46977752",
+      "replies": 32,
+      "author": "共产主义之幽灵",
       "lastPost": 0
     }
   ]
