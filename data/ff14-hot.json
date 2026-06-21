@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-06-21T15:21:10.338Z",
+  "lastUpdated": "2026-06-21T16:59:38.788Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6444,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
@@ -21,35 +13,27 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵][二周目]本狒批玩博德3各种习惯&笑话(狒+博德3严重剧透，未推完全主线+支线慎入)",
-      "tid": 43582153,
-      "link": "https://bbs.nga.cn/read.php?tid=43582153",
-      "replies": 1764,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 925,
+      "replies": 926,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
-      "lastPost": 0
-    },
-    {
-      "title": "豆芽还在跑6.0剧情，被87级维涅斯意识流片段创飞",
-      "tid": 46193942,
-      "link": "https://bbs.nga.cn/read.php?tid=46193942",
-      "replies": 526,
-      "author": "Fehu414",
       "lastPost": 0
     },
     {
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 365,
+      "replies": 370,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 255,
+      "author": "PirateSlime",
       "lastPost": 0
     },
     {
@@ -72,7 +56,7 @@
       "title": "[氵一贴]怎么没人发某位梦女拿已故亲友账号精分出轨的瓜",
       "tid": 46998104,
       "link": "https://bbs.nga.cn/read.php?tid=46998104",
-      "replies": 169,
+      "replies": 172,
       "author": "江早寒",
       "lastPost": 0
     },
@@ -80,7 +64,7 @@
       "title": "哪来这么多陪练费的。。。。。",
       "tid": 47013167,
       "link": "https://bbs.nga.cn/read.php?tid=47013167",
-      "replies": 154,
+      "replies": 158,
       "author": "堕落的风筝座",
       "lastPost": 0
     },
@@ -117,19 +101,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴]也许有人在意的地方，QQ14纳新结束",
+      "tid": 47024284,
+      "link": "https://bbs.nga.cn/read.php?tid=47024284",
+      "replies": 60,
+      "author": "一切献给心羽",
+      "lastPost": 0
+    },
+    {
       "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
       "tid": 46778449,
       "link": "https://bbs.nga.cn/read.php?tid=46778449",
       "replies": 60,
       "author": "天光老尽",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]也许有人在意的地方，QQ14纳新结束",
-      "tid": 47024284,
-      "link": "https://bbs.nga.cn/read.php?tid=47024284",
-      "replies": 59,
-      "author": "一切献给心羽",
       "lastPost": 0
     },
     {
@@ -149,32 +133,40 @@
       "lastPost": 0
     },
     {
-      "title": "认真来说，芙朵拉和夜露最大的区别是不是夜露死得干脆，芙朵拉活得赖皮",
-      "tid": 47016664,
-      "link": "https://bbs.nga.cn/read.php?tid=47016664",
-      "replies": 42,
-      "author": "Cilicia",
+      "title": "[已完结][超短篇][钓鱼安科]经常虾仁的朋友都知道",
+      "tid": 46969699,
+      "link": "https://bbs.nga.cn/read.php?tid=46969699",
+      "replies": 43,
+      "author": "沙里贝涅",
+      "lastPost": 0
+    },
+    {
+      "title": "[破水事] 为什么大家排到水晶塔都跑了",
+      "tid": 47024174,
+      "link": "https://bbs.nga.cn/read.php?tid=47024174",
+      "replies": 41,
+      "author": "咱可是赫萝啊",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]今天是父亲节，拂晓选的父亲角色是双子爹",
       "tid": 47025425,
       "link": "https://bbs.nga.cn/read.php?tid=47025425",
-      "replies": 39,
+      "replies": 41,
       "author": "繁星之愿",
+      "lastPost": 0
+    },
+    {
+      "title": "[黑泥氵]已编辑",
+      "tid": 47024364,
+      "link": "https://bbs.nga.cn/read.php?tid=47024364",
+      "replies": 34,
+      "author": "风铃伶淋",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6444,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
@@ -183,35 +175,27 @@
       "lastPost": 0
     },
     {
-      "title": "[记录氵][二周目]本狒批玩博德3各种习惯&笑话(狒+博德3严重剧透，未推完全主线+支线慎入)",
-      "tid": 43582153,
-      "link": "https://bbs.nga.cn/read.php?tid=43582153",
-      "replies": 1764,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 925,
+      "replies": 926,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
-      "lastPost": 0
-    },
-    {
-      "title": "豆芽还在跑6.0剧情，被87级维涅斯意识流片段创飞",
-      "tid": 46193942,
-      "link": "https://bbs.nga.cn/read.php?tid=46193942",
-      "replies": 526,
-      "author": "Fehu414",
       "lastPost": 0
     },
     {
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 365,
+      "replies": 370,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 255,
+      "author": "PirateSlime",
       "lastPost": 0
     },
     {
@@ -234,7 +218,7 @@
       "title": "[氵一贴]怎么没人发某位梦女拿已故亲友账号精分出轨的瓜",
       "tid": 46998104,
       "link": "https://bbs.nga.cn/read.php?tid=46998104",
-      "replies": 169,
+      "replies": 172,
       "author": "江早寒",
       "lastPost": 0
     },
@@ -242,7 +226,7 @@
       "title": "哪来这么多陪练费的。。。。。",
       "tid": 47013167,
       "link": "https://bbs.nga.cn/read.php?tid=47013167",
-      "replies": 154,
+      "replies": 158,
       "author": "堕落的风筝座",
       "lastPost": 0
     },
@@ -279,19 +263,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴]也许有人在意的地方，QQ14纳新结束",
+      "tid": 47024284,
+      "link": "https://bbs.nga.cn/read.php?tid=47024284",
+      "replies": 60,
+      "author": "一切献给心羽",
+      "lastPost": 0
+    },
+    {
       "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
       "tid": 46778449,
       "link": "https://bbs.nga.cn/read.php?tid=46778449",
       "replies": 60,
       "author": "天光老尽",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]也许有人在意的地方，QQ14纳新结束",
-      "tid": 47024284,
-      "link": "https://bbs.nga.cn/read.php?tid=47024284",
-      "replies": 59,
-      "author": "一切献给心羽",
       "lastPost": 0
     },
     {
@@ -311,19 +295,35 @@
       "lastPost": 0
     },
     {
-      "title": "认真来说，芙朵拉和夜露最大的区别是不是夜露死得干脆，芙朵拉活得赖皮",
-      "tid": 47016664,
-      "link": "https://bbs.nga.cn/read.php?tid=47016664",
-      "replies": 42,
-      "author": "Cilicia",
+      "title": "[已完结][超短篇][钓鱼安科]经常虾仁的朋友都知道",
+      "tid": 46969699,
+      "link": "https://bbs.nga.cn/read.php?tid=46969699",
+      "replies": 43,
+      "author": "沙里贝涅",
+      "lastPost": 0
+    },
+    {
+      "title": "[破水事] 为什么大家排到水晶塔都跑了",
+      "tid": 47024174,
+      "link": "https://bbs.nga.cn/read.php?tid=47024174",
+      "replies": 41,
+      "author": "咱可是赫萝啊",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]今天是父亲节，拂晓选的父亲角色是双子爹",
       "tid": 47025425,
       "link": "https://bbs.nga.cn/read.php?tid=47025425",
-      "replies": 39,
+      "replies": 41,
       "author": "繁星之愿",
+      "lastPost": 0
+    },
+    {
+      "title": "[黑泥氵]已编辑",
+      "tid": 47024364,
+      "link": "https://bbs.nga.cn/read.php?tid=47024364",
+      "replies": 34,
+      "author": "风铃伶淋",
       "lastPost": 0
     }
   ]
