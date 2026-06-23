@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-06-23T22:43:51.853Z",
+  "lastUpdated": "2026-06-23T23:49:28.746Z",
   "count": 20,
   "posts": [
     {
@@ -93,14 +93,6 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区] 绝妖星无攻略6=2 T D3",
-      "tid": 46810926,
-      "link": "https://bbs.nga.cn/read.php?tid=46810926",
-      "replies": 63,
-      "author": "ging3399",
-      "lastPost": 0
-    },
-    {
       "title": "认真来说，芙朵拉和夜露最大的区别是不是夜露死得干脆，芙朵拉活得赖皮",
       "tid": 47016664,
       "link": "https://bbs.nga.cn/read.php?tid=47016664",
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47036765",
       "replies": 34,
       "author": "leoleol",
+      "lastPost": 0
+    },
+    {
+      "title": "[国际服新闻] 6月23日热修 修复了绝妖P1箭头传送的BUG",
+      "tid": 47037189,
+      "link": "https://bbs.nga.cn/read.php?tid=47037189",
+      "replies": 30,
+      "author": "GreatGBL",
       "lastPost": 0
     }
   ],
@@ -255,14 +255,6 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区] 绝妖星无攻略6=2 T D3",
-      "tid": 46810926,
-      "link": "https://bbs.nga.cn/read.php?tid=46810926",
-      "replies": 63,
-      "author": "ging3399",
-      "lastPost": 0
-    },
-    {
       "title": "认真来说，芙朵拉和夜露最大的区别是不是夜露死得干脆，芙朵拉活得赖皮",
       "tid": 47016664,
       "link": "https://bbs.nga.cn/read.php?tid=47016664",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47036765",
       "replies": 34,
       "author": "leoleol",
+      "lastPost": 0
+    },
+    {
+      "title": "[国际服新闻] 6月23日热修 修复了绝妖P1箭头传送的BUG",
+      "tid": 47037189,
+      "link": "https://bbs.nga.cn/read.php?tid=47037189",
+      "replies": 30,
+      "author": "GreatGBL",
       "lastPost": 0
     }
   ]
