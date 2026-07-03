@@ -1,22 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-03T16:19:40.647Z",
+  "lastUpdated": "2026-07-03T17:54:45.024Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6461,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 931,
+      "replies": 932,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -24,7 +16,7 @@
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 646,
+      "replies": 647,
       "author": "莫古莫古曲奇饼",
       "lastPost": 0
     },
@@ -32,8 +24,16 @@
       "title": "[自嗨安科] 从今天开始做个观光冒险者",
       "tid": 45939623,
       "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 634,
+      "replies": 636,
       "author": "游鱼醉",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 277,
+      "author": "PirateSlime",
       "lastPost": 0
     },
     {
@@ -56,7 +56,7 @@
       "title": "新一期名单出来了，好多代打",
       "tid": 47092181,
       "link": "https://bbs.nga.cn/read.php?tid=47092181",
-      "replies": 160,
+      "replies": 162,
       "author": "云雪筝歌",
       "lastPost": 0
     },
@@ -85,14 +85,6 @@
       "lastPost": 0
     },
     {
-      "title": "再次求解p2输出",
-      "tid": 47095385,
-      "link": "https://bbs.nga.cn/read.php?tid=47095385",
-      "replies": 100,
-      "author": "被逼注册的路人某",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] 我只会打忍者真是对不起",
       "tid": 47065775,
       "link": "https://bbs.nga.cn/read.php?tid=47065775",
@@ -112,7 +104,7 @@
       "title": "[氵一贴] 所以在妖宫不跟着t走的人真的非常恶心吗",
       "tid": 47095860,
       "link": "https://bbs.nga.cn/read.php?tid=47095860",
-      "replies": 71,
+      "replies": 78,
       "author": "Viroa",
       "lastPost": 0
     },
@@ -162,23 +154,23 @@
       "link": "https://bbs.nga.cn/read.php?tid=47044902",
       "replies": 44,
       "author": "fish_chan",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
+      "tid": 47101312,
+      "link": "https://bbs.nga.cn/read.php?tid=47101312",
+      "replies": 36,
+      "author": "无影易者",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6461,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 931,
+      "replies": 932,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -186,7 +178,7 @@
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 646,
+      "replies": 647,
       "author": "莫古莫古曲奇饼",
       "lastPost": 0
     },
@@ -194,8 +186,16 @@
       "title": "[自嗨安科] 从今天开始做个观光冒险者",
       "tid": 45939623,
       "link": "https://bbs.nga.cn/read.php?tid=45939623",
-      "replies": 634,
+      "replies": 636,
       "author": "游鱼醉",
+      "lastPost": 0
+    },
+    {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 277,
+      "author": "PirateSlime",
       "lastPost": 0
     },
     {
@@ -218,7 +218,7 @@
       "title": "新一期名单出来了，好多代打",
       "tid": 47092181,
       "link": "https://bbs.nga.cn/read.php?tid=47092181",
-      "replies": 160,
+      "replies": 162,
       "author": "云雪筝歌",
       "lastPost": 0
     },
@@ -247,14 +247,6 @@
       "lastPost": 0
     },
     {
-      "title": "再次求解p2输出",
-      "tid": 47095385,
-      "link": "https://bbs.nga.cn/read.php?tid=47095385",
-      "replies": 100,
-      "author": "被逼注册的路人某",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] 我只会打忍者真是对不起",
       "tid": 47065775,
       "link": "https://bbs.nga.cn/read.php?tid=47065775",
@@ -274,7 +266,7 @@
       "title": "[氵一贴] 所以在妖宫不跟着t走的人真的非常恶心吗",
       "tid": 47095860,
       "link": "https://bbs.nga.cn/read.php?tid=47095860",
-      "replies": 71,
+      "replies": 78,
       "author": "Viroa",
       "lastPost": 0
     },
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47044902",
       "replies": 44,
       "author": "fish_chan",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
+      "tid": 47101312,
+      "link": "https://bbs.nga.cn/read.php?tid=47101312",
+      "replies": 36,
+      "author": "无影易者",
       "lastPost": 0
     }
   ]
