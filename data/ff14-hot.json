@@ -1,23 +1,47 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-04T16:55:02.271Z",
+  "lastUpdated": "2026-07-04T17:57:36.073Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6463,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
     {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2906,
+      "replies": 2907,
       "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1086,
+      "author": "Riseyic",
       "lastPost": 0
     },
     {
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 685,
+      "replies": 686,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 341,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -37,14 +61,6 @@
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY8进度 现代康复能解死宣吗",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 247,
-      "author": "Abylith",
-      "lastPost": 0
-    },
-    {
       "title": "最终幻想单机系列",
       "tid": 10436564,
       "link": "https://bbs.nga.cn/read.php?tid=10436564",
@@ -56,7 +72,7 @@
       "title": "[黑泥氵]亲亲CP受委屈了所以我先请假一天然后第二天找好下家一声不吭退队惊艳所有人",
       "tid": 47090381,
       "link": "https://bbs.nga.cn/read.php?tid=47090381",
-      "replies": 214,
+      "replies": 215,
       "author": "万长安",
       "lastPost": 0
     },
@@ -88,7 +104,7 @@
       "title": "再次求解p2输出",
       "tid": 47095385,
       "link": "https://bbs.nga.cn/read.php?tid=47095385",
-      "replies": 101,
+      "replies": 102,
       "author": "被逼注册的路人某",
       "lastPost": 0
     },
@@ -106,14 +122,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47071509",
       "replies": 78,
       "author": "SHIRUSHI",
-      "lastPost": 0
-    },
-    {
-      "title": "绝妖死刑可以向奶妈要单减吗？",
-      "tid": 47081339,
-      "link": "https://bbs.nga.cn/read.php?tid=47081339",
-      "replies": 72,
-      "author": "来感受这不逆不灭的熵增吧",
       "lastPost": 0
     },
     {
@@ -152,34 +160,50 @@
       "title": "[安科]尼姆？尼姆？！尼姆！",
       "tid": 47034067,
       "link": "https://bbs.nga.cn/read.php?tid=47034067",
-      "replies": 53,
+      "replies": 54,
       "author": "被巡航驱逐者劈飞",
-      "lastPost": 0
-    },
-    {
-      "title": "[集思广益氵]固定队打本一定要有语音吗",
-      "tid": 47103475,
-      "link": "https://bbs.nga.cn/read.php?tid=47103475",
-      "replies": 49,
-      "author": "#anony_7f10547166bfdbe85db35a3eca8dbe2f",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6463,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2906,
+      "replies": 2907,
       "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1086,
+      "author": "Riseyic",
       "lastPost": 0
     },
     {
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 685,
+      "replies": 686,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 341,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -199,14 +223,6 @@
       "lastPost": 0
     },
     {
-      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY8进度 现代康复能解死宣吗",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 247,
-      "author": "Abylith",
-      "lastPost": 0
-    },
-    {
       "title": "最终幻想单机系列",
       "tid": 10436564,
       "link": "https://bbs.nga.cn/read.php?tid=10436564",
@@ -218,7 +234,7 @@
       "title": "[黑泥氵]亲亲CP受委屈了所以我先请假一天然后第二天找好下家一声不吭退队惊艳所有人",
       "tid": 47090381,
       "link": "https://bbs.nga.cn/read.php?tid=47090381",
-      "replies": 214,
+      "replies": 215,
       "author": "万长安",
       "lastPost": 0
     },
@@ -250,7 +266,7 @@
       "title": "再次求解p2输出",
       "tid": 47095385,
       "link": "https://bbs.nga.cn/read.php?tid=47095385",
-      "replies": 101,
+      "replies": 102,
       "author": "被逼注册的路人某",
       "lastPost": 0
     },
@@ -268,14 +284,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47071509",
       "replies": 78,
       "author": "SHIRUSHI",
-      "lastPost": 0
-    },
-    {
-      "title": "绝妖死刑可以向奶妈要单减吗？",
-      "tid": 47081339,
-      "link": "https://bbs.nga.cn/read.php?tid=47081339",
-      "replies": 72,
-      "author": "来感受这不逆不灭的熵增吧",
       "lastPost": 0
     },
     {
@@ -314,16 +322,8 @@
       "title": "[安科]尼姆？尼姆？！尼姆！",
       "tid": 47034067,
       "link": "https://bbs.nga.cn/read.php?tid=47034067",
-      "replies": 53,
+      "replies": 54,
       "author": "被巡航驱逐者劈飞",
-      "lastPost": 0
-    },
-    {
-      "title": "[集思广益氵]固定队打本一定要有语音吗",
-      "tid": 47103475,
-      "link": "https://bbs.nga.cn/read.php?tid=47103475",
-      "replies": 49,
-      "author": "#anony_7f10547166bfdbe85db35a3eca8dbe2f",
       "lastPost": 0
     }
   ]
