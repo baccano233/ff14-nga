@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-05T10:36:36.493Z",
+  "lastUpdated": "2026-07-05T12:09:59.026Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6463,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[记录氵][二周目]本狒批玩博德3各种习惯&笑话(狒+博德3严重剧透，未推完全主线+支线慎入)",
       "tid": 43582153,
@@ -45,19 +37,19 @@
       "lastPost": 0
     },
     {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 280,
+      "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY8进度 现代康复能解死宣吗",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
       "replies": 249,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -93,11 +85,27 @@
       "lastPost": 0
     },
     {
+      "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
+      "tid": 47101312,
+      "link": "https://bbs.nga.cn/read.php?tid=47101312",
+      "replies": 74,
+      "author": "无影易者",
+      "lastPost": 0
+    },
+    {
       "title": "绝妖死刑可以向奶妈要单减吗？",
       "tid": 47081339,
       "link": "https://bbs.nga.cn/read.php?tid=47081339",
       "replies": 74,
       "author": "来感受这不逆不灭的熵增吧",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 过本太激动被队友喊成爆震性耳聋并因此关系破裂了怎么办",
+      "tid": 47111357,
+      "link": "https://bbs.nga.cn/read.php?tid=47111357",
+      "replies": 68,
+      "author": "FearRely",
       "lastPost": 0
     },
     {
@@ -120,23 +128,15 @@
       "title": "[集思广益氵]固定队打本一定要有语音吗",
       "tid": 47103475,
       "link": "https://bbs.nga.cn/read.php?tid=47103475",
-      "replies": 59,
+      "replies": 60,
       "author": "#anony_7f10547166bfdbe85db35a3eca8dbe2f",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 过本太激动被队友喊成爆震性耳聋并因此关系破裂了怎么办",
-      "tid": 47111357,
-      "link": "https://bbs.nga.cn/read.php?tid=47111357",
-      "replies": 57,
-      "author": "FearRely",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]绝妖星乱舞白占组合过本了",
       "tid": 47107065,
       "link": "https://bbs.nga.cn/read.php?tid=47107065",
-      "replies": 49,
+      "replies": 51,
       "author": "医生的胖次",
       "lastPost": 0
     },
@@ -144,7 +144,7 @@
       "title": "[破事氵]什么时候开始流行把讨伐本的小怪拉在一起打了",
       "tid": 47097816,
       "link": "https://bbs.nga.cn/read.php?tid=47097816",
-      "replies": 46,
+      "replies": 49,
       "author": "温栀__",
       "lastPost": 0
     },
@@ -167,14 +167,6 @@
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6463,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[记录氵][二周目]本狒批玩博德3各种习惯&笑话(狒+博德3严重剧透，未推完全主线+支线慎入)",
       "tid": 43582153,
       "link": "https://bbs.nga.cn/read.php?tid=43582153",
@@ -207,19 +199,19 @@
       "lastPost": 0
     },
     {
+      "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
+      "tid": 46663508,
+      "link": "https://bbs.nga.cn/read.php?tid=46663508",
+      "replies": 280,
+      "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY8进度 现代康复能解死宣吗",
       "tid": 46568041,
       "link": "https://bbs.nga.cn/read.php?tid=46568041",
       "replies": 249,
       "author": "Abylith",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -255,11 +247,27 @@
       "lastPost": 0
     },
     {
+      "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
+      "tid": 47101312,
+      "link": "https://bbs.nga.cn/read.php?tid=47101312",
+      "replies": 74,
+      "author": "无影易者",
+      "lastPost": 0
+    },
+    {
       "title": "绝妖死刑可以向奶妈要单减吗？",
       "tid": 47081339,
       "link": "https://bbs.nga.cn/read.php?tid=47081339",
       "replies": 74,
       "author": "来感受这不逆不灭的熵增吧",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 过本太激动被队友喊成爆震性耳聋并因此关系破裂了怎么办",
+      "tid": 47111357,
+      "link": "https://bbs.nga.cn/read.php?tid=47111357",
+      "replies": 68,
+      "author": "FearRely",
       "lastPost": 0
     },
     {
@@ -282,23 +290,15 @@
       "title": "[集思广益氵]固定队打本一定要有语音吗",
       "tid": 47103475,
       "link": "https://bbs.nga.cn/read.php?tid=47103475",
-      "replies": 59,
+      "replies": 60,
       "author": "#anony_7f10547166bfdbe85db35a3eca8dbe2f",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 过本太激动被队友喊成爆震性耳聋并因此关系破裂了怎么办",
-      "tid": 47111357,
-      "link": "https://bbs.nga.cn/read.php?tid=47111357",
-      "replies": 57,
-      "author": "FearRely",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]绝妖星乱舞白占组合过本了",
       "tid": 47107065,
       "link": "https://bbs.nga.cn/read.php?tid=47107065",
-      "replies": 49,
+      "replies": 51,
       "author": "医生的胖次",
       "lastPost": 0
     },
@@ -306,7 +306,7 @@
       "title": "[破事氵]什么时候开始流行把讨伐本的小怪拉在一起打了",
       "tid": 47097816,
       "link": "https://bbs.nga.cn/read.php?tid=47097816",
-      "replies": 46,
+      "replies": 49,
       "author": "温栀__",
       "lastPost": 0
     },
