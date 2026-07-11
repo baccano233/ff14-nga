@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-11T11:45:24.690Z",
+  "lastUpdated": "2026-07-11T12:58:38.153Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2924,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
     {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
@@ -24,8 +32,16 @@
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 811,
+      "replies": 812,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY9进度 该到了说大家一起走向未来的时候了",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 264,
+      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -56,7 +72,7 @@
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
-      "replies": 77,
+      "replies": 78,
       "author": "沁夏",
       "lastPost": 0
     },
@@ -93,19 +109,19 @@
       "lastPost": 0
     },
     {
+      "title": "[宇宙探索][生产]全星球任务收益效率与豪华禁断CAC工序码合集",
+      "tid": 46332321,
+      "link": "https://bbs.nga.cn/read.php?tid=46332321",
+      "replies": 52,
+      "author": "满杯橙子",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴]打狒的时候都吃什么零食？有无推荐",
       "tid": 47150121,
       "link": "https://bbs.nga.cn/read.php?tid=47150121",
       "replies": 52,
       "author": "防静电喷雾",
-      "lastPost": 0
-    },
-    {
-      "title": "[宇宙探索][生产]全星球任务收益效率与豪华禁断CAC工序码合集",
-      "tid": 46332321,
-      "link": "https://bbs.nga.cn/read.php?tid=46332321",
-      "replies": 51,
-      "author": "满杯橙子",
       "lastPost": 0
     },
     {
@@ -146,27 +162,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=47150510",
       "replies": 35,
       "author": "逆转丶",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 35,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自用幻化氵] 在大量碎碎念中发现了少量幻化记录",
-      "tid": 46256827,
-      "link": "https://bbs.nga.cn/read.php?tid=46256827",
-      "replies": 30,
-      "author": "NULL_APOPHENIA",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2924,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -186,8 +194,16 @@
       "title": "[持续更新]给不看球的朋友的大力神杯活动投注推荐",
       "tid": 46964786,
       "link": "https://bbs.nga.cn/read.php?tid=46964786",
-      "replies": 811,
+      "replies": 812,
       "author": "莫古莫古曲奇饼",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][绿职乱炖][群像]这次我们能拯救大家吗-DAY9进度 该到了说大家一起走向未来的时候了",
+      "tid": 46568041,
+      "link": "https://bbs.nga.cn/read.php?tid=46568041",
+      "replies": 264,
+      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -218,7 +234,7 @@
       "title": "豆芽的幻化记录…内含100%女装男精",
       "tid": 46115259,
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
-      "replies": 77,
+      "replies": 78,
       "author": "沁夏",
       "lastPost": 0
     },
@@ -255,19 +271,19 @@
       "lastPost": 0
     },
     {
+      "title": "[宇宙探索][生产]全星球任务收益效率与豪华禁断CAC工序码合集",
+      "tid": 46332321,
+      "link": "https://bbs.nga.cn/read.php?tid=46332321",
+      "replies": 52,
+      "author": "满杯橙子",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴]打狒的时候都吃什么零食？有无推荐",
       "tid": 47150121,
       "link": "https://bbs.nga.cn/read.php?tid=47150121",
       "replies": 52,
       "author": "防静电喷雾",
-      "lastPost": 0
-    },
-    {
-      "title": "[宇宙探索][生产]全星球任务收益效率与豪华禁断CAC工序码合集",
-      "tid": 46332321,
-      "link": "https://bbs.nga.cn/read.php?tid=46332321",
-      "replies": 51,
-      "author": "满杯橙子",
       "lastPost": 0
     },
     {
@@ -308,22 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47150510",
       "replies": 35,
       "author": "逆转丶",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 35,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自用幻化氵] 在大量碎碎念中发现了少量幻化记录",
-      "tid": 46256827,
-      "link": "https://bbs.nga.cn/read.php?tid=46256827",
-      "replies": 30,
-      "author": "NULL_APOPHENIA",
       "lastPost": 0
     }
   ]
