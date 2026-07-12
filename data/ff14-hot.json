@@ -1,23 +1,23 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-12T15:32:08.525Z",
+  "lastUpdated": "2026-07-12T16:49:27.494Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[完结安科][BG向公路安科]路痴黑白魔能在第五星历阻止洪水吗(更新：黑白骑特别篇)",
-      "tid": 35418052,
-      "link": "https://bbs.nga.cn/read.php?tid=35418052",
-      "replies": 4123,
-      "author": "林汝夕",
-      "lastPost": 0
-    },
     {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2926,
+      "replies": 2927,
       "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 装修小工具",
+      "tid": 32454160,
+      "link": "https://bbs.nga.cn/read.php?tid=32454160",
+      "replies": 1363,
+      "author": "狗头肥肥",
       "lastPost": 0
     },
     {
@@ -69,18 +69,10 @@
       "lastPost": 0
     },
     {
-      "title": "关于偷跑过本",
-      "tid": 47049459,
-      "link": "https://bbs.nga.cn/read.php?tid=47049459",
-      "replies": 59,
-      "author": "菅原緋矢",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴]固定队语音不开麦的都有什么原因呢",
       "tid": 47152645,
       "link": "https://bbs.nga.cn/read.php?tid=47152645",
-      "replies": 56,
+      "replies": 58,
       "author": "某不科学的傻涵",
       "lastPost": 0
     },
@@ -106,6 +98,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46015493",
       "replies": 35,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "FF14 中文输入法词库 [~7.45]",
+      "tid": 46200865,
+      "link": "https://bbs.nga.cn/read.php?tid=46200865",
+      "replies": 32,
+      "author": "A549453772",
       "lastPost": 0
     },
     {
@@ -144,7 +144,7 @@
       "title": "歪个楼下的帖 人类什么时候能征服外放的时候开麦不会收到电脑外放的声音",
       "tid": 47159711,
       "link": "https://bbs.nga.cn/read.php?tid=47159711",
-      "replies": 26,
+      "replies": 27,
       "author": "熙熙君_233",
       "lastPost": 0
     },
@@ -152,34 +152,34 @@
       "title": "[渣考据]所有我找到的FF14中的FF11",
       "tid": 46831476,
       "link": "https://bbs.nga.cn/read.php?tid=46831476",
-      "replies": 25,
+      "replies": 26,
       "author": "二次元的书架",
       "lastPost": 0
     },
     {
-      "title": "设备氵有无坛友推荐一下mini一点的外放设备",
-      "tid": 47159116,
-      "link": "https://bbs.nga.cn/read.php?tid=47159116",
-      "replies": 22,
-      "author": "云雪筝歌",
+      "title": "[氵一贴] 听说封了不少奶？",
+      "tid": 47144657,
+      "link": "https://bbs.nga.cn/read.php?tid=47144657",
+      "replies": 21,
+      "author": "NINOZJM001",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[完结安科][BG向公路安科]路痴黑白魔能在第五星历阻止洪水吗(更新：黑白骑特别篇)",
-      "tid": 35418052,
-      "link": "https://bbs.nga.cn/read.php?tid=35418052",
-      "replies": 4123,
-      "author": "林汝夕",
-      "lastPost": 0
-    },
-    {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2926,
+      "replies": 2927,
       "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] 装修小工具",
+      "tid": 32454160,
+      "link": "https://bbs.nga.cn/read.php?tid=32454160",
+      "replies": 1363,
+      "author": "狗头肥肥",
       "lastPost": 0
     },
     {
@@ -231,18 +231,10 @@
       "lastPost": 0
     },
     {
-      "title": "关于偷跑过本",
-      "tid": 47049459,
-      "link": "https://bbs.nga.cn/read.php?tid=47049459",
-      "replies": 59,
-      "author": "菅原緋矢",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴]固定队语音不开麦的都有什么原因呢",
       "tid": 47152645,
       "link": "https://bbs.nga.cn/read.php?tid=47152645",
-      "replies": 56,
+      "replies": 58,
       "author": "某不科学的傻涵",
       "lastPost": 0
     },
@@ -268,6 +260,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46015493",
       "replies": 35,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "FF14 中文输入法词库 [~7.45]",
+      "tid": 46200865,
+      "link": "https://bbs.nga.cn/read.php?tid=46200865",
+      "replies": 32,
+      "author": "A549453772",
       "lastPost": 0
     },
     {
@@ -306,7 +306,7 @@
       "title": "歪个楼下的帖 人类什么时候能征服外放的时候开麦不会收到电脑外放的声音",
       "tid": 47159711,
       "link": "https://bbs.nga.cn/read.php?tid=47159711",
-      "replies": 26,
+      "replies": 27,
       "author": "熙熙君_233",
       "lastPost": 0
     },
@@ -314,16 +314,16 @@
       "title": "[渣考据]所有我找到的FF14中的FF11",
       "tid": 46831476,
       "link": "https://bbs.nga.cn/read.php?tid=46831476",
-      "replies": 25,
+      "replies": 26,
       "author": "二次元的书架",
       "lastPost": 0
     },
     {
-      "title": "设备氵有无坛友推荐一下mini一点的外放设备",
-      "tid": 47159116,
-      "link": "https://bbs.nga.cn/read.php?tid=47159116",
-      "replies": 22,
-      "author": "云雪筝歌",
+      "title": "[氵一贴] 听说封了不少奶？",
+      "tid": 47144657,
+      "link": "https://bbs.nga.cn/read.php?tid=47144657",
+      "replies": 21,
+      "author": "NINOZJM001",
       "lastPost": 0
     }
   ]
