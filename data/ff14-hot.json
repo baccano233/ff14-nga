@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-17T15:53:30.209Z",
+  "lastUpdated": "2026-07-17T17:02:03.565Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2931,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
     {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
@@ -13,19 +21,19 @@
       "lastPost": 0
     },
     {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1715,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
+    {
       "title": "[安科] 小队里藏着连续杀人狂",
       "tid": 41577199,
       "link": "https://bbs.nga.cn/read.php?tid=41577199",
       "replies": 934,
       "author": "澜色海星",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～是寻仇还是报复，是谋杀还是求助？不请自来的绝枪战士～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 687,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -77,11 +85,11 @@
       "lastPost": 0
     },
     {
-      "title": "深夜树洞，绝妖星通关了，对中川大辅的恶感又加深了一分，感觉此人是ff14无聊机制的集大成者",
-      "tid": 47081623,
-      "link": "https://bbs.nga.cn/read.php?tid=47081623",
-      "replies": 107,
-      "author": "剑崎梨梨花",
+      "title": "[氵一贴]满贡深想战能算履历吗",
+      "tid": 45598597,
+      "link": "https://bbs.nga.cn/read.php?tid=45598597",
+      "replies": 85,
+      "author": "派塔塔·排它",
       "lastPost": 0
     },
     {
@@ -96,7 +104,7 @@
       "title": "挂人：墨染三千繁华@紫水栈桥，是真傻还是资深老赖，深究发现竟是嘴硬卖挂的",
       "tid": 47194728,
       "link": "https://bbs.nga.cn/read.php?tid=47194728",
-      "replies": 72,
+      "replies": 73,
       "author": "十七年陈酿单身狗",
       "lastPost": 0
     },
@@ -104,7 +112,7 @@
       "title": "老大们都是怎么调理自推的死的",
       "tid": 47187648,
       "link": "https://bbs.nga.cn/read.php?tid=47187648",
-      "replies": 71,
+      "replies": 72,
       "author": "激情咏唱",
       "lastPost": 0
     },
@@ -114,6 +122,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47049459",
       "replies": 67,
       "author": "菅原緋矢",
+      "lastPost": 0
+    },
+    {
+      "title": "最近没啥事儿要不分享一个各自的钓鱼栽种吧",
+      "tid": 47176794,
+      "link": "https://bbs.nga.cn/read.php?tid=47176794",
+      "replies": 51,
+      "author": "楪冰雪瑶",
       "lastPost": 0
     },
     {
@@ -146,27 +162,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=47125647",
       "replies": 32,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自用幻化氵] 在大量碎碎念中发现了少量幻化记录",
-      "tid": 46256827,
-      "link": "https://bbs.nga.cn/read.php?tid=46256827",
-      "replies": 30,
-      "author": "NULL_APOPHENIA",
-      "lastPost": 0
-    },
-    {
-      "title": "《略有不同》",
-      "tid": 47201358,
-      "link": "https://bbs.nga.cn/read.php?tid=47201358",
-      "replies": 27,
-      "author": "ul59972",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2931,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
       "link": "https://bbs.nga.cn/read.php?tid=19019884",
@@ -175,19 +183,19 @@
       "lastPost": 0
     },
     {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1715,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
+    {
       "title": "[安科] 小队里藏着连续杀人狂",
       "tid": 41577199,
       "link": "https://bbs.nga.cn/read.php?tid=41577199",
       "replies": 934,
       "author": "澜色海星",
-      "lastPost": 0
-    },
-    {
-      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～是寻仇还是报复，是谋杀还是求助？不请自来的绝枪战士～",
-      "tid": 46068125,
-      "link": "https://bbs.nga.cn/read.php?tid=46068125",
-      "replies": 687,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -239,11 +247,11 @@
       "lastPost": 0
     },
     {
-      "title": "深夜树洞，绝妖星通关了，对中川大辅的恶感又加深了一分，感觉此人是ff14无聊机制的集大成者",
-      "tid": 47081623,
-      "link": "https://bbs.nga.cn/read.php?tid=47081623",
-      "replies": 107,
-      "author": "剑崎梨梨花",
+      "title": "[氵一贴]满贡深想战能算履历吗",
+      "tid": 45598597,
+      "link": "https://bbs.nga.cn/read.php?tid=45598597",
+      "replies": 85,
+      "author": "派塔塔·排它",
       "lastPost": 0
     },
     {
@@ -258,7 +266,7 @@
       "title": "挂人：墨染三千繁华@紫水栈桥，是真傻还是资深老赖，深究发现竟是嘴硬卖挂的",
       "tid": 47194728,
       "link": "https://bbs.nga.cn/read.php?tid=47194728",
-      "replies": 72,
+      "replies": 73,
       "author": "十七年陈酿单身狗",
       "lastPost": 0
     },
@@ -266,7 +274,7 @@
       "title": "老大们都是怎么调理自推的死的",
       "tid": 47187648,
       "link": "https://bbs.nga.cn/read.php?tid=47187648",
-      "replies": 71,
+      "replies": 72,
       "author": "激情咏唱",
       "lastPost": 0
     },
@@ -276,6 +284,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47049459",
       "replies": 67,
       "author": "菅原緋矢",
+      "lastPost": 0
+    },
+    {
+      "title": "最近没啥事儿要不分享一个各自的钓鱼栽种吧",
+      "tid": 47176794,
+      "link": "https://bbs.nga.cn/read.php?tid=47176794",
+      "replies": 51,
+      "author": "楪冰雪瑶",
       "lastPost": 0
     },
     {
@@ -308,22 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47125647",
       "replies": 32,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自用幻化氵] 在大量碎碎念中发现了少量幻化记录",
-      "tid": 46256827,
-      "link": "https://bbs.nga.cn/read.php?tid=46256827",
-      "replies": 30,
-      "author": "NULL_APOPHENIA",
-      "lastPost": 0
-    },
-    {
-      "title": "《略有不同》",
-      "tid": 47201358,
-      "link": "https://bbs.nga.cn/read.php?tid=47201358",
-      "replies": 27,
-      "author": "ul59972",
       "lastPost": 0
     }
   ]
