@@ -1,15 +1,15 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-22T17:47:05.630Z",
+  "lastUpdated": "2026-07-22T18:58:56.952Z",
   "count": 20,
   "posts": [
     {
-      "title": "[安科]要不咱商量商量咋样在第八灵灾吃顿饱的(~第五章·新生~)",
-      "tid": 31939169,
-      "link": "https://bbs.nga.cn/read.php?tid=31939169",
-      "replies": 5148,
-      "author": "碳叶酸素",
+      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
+      "tid": 43021485,
+      "link": "https://bbs.nga.cn/read.php?tid=43021485",
+      "replies": 7766,
+      "author": "FIRMLYstuck",
       "lastPost": 0
     },
     {
@@ -29,19 +29,19 @@
       "lastPost": 0
     },
     {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1717,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[安科] 小队里藏着连续杀人狂",
       "tid": 41577199,
       "link": "https://bbs.nga.cn/read.php?tid=41577199",
       "replies": 943,
       "author": "澜色海星",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 358,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -128,7 +128,7 @@
       "title": "[举手提问]妖星p4到底算难还是不难？",
       "tid": 47234111,
       "link": "https://bbs.nga.cn/read.php?tid=47234111",
-      "replies": 60,
+      "replies": 63,
       "author": "大盗丶魔理沙",
       "lastPost": 0
     },
@@ -136,8 +136,16 @@
       "title": "个人统计学，整队人坚持到通过一个绝本是真是一个小概率事件",
       "tid": 47223307,
       "link": "https://bbs.nga.cn/read.php?tid=47223307",
-      "replies": 58,
+      "replies": 59,
       "author": "实在是太变态了",
+      "lastPost": 0
+    },
+    {
+      "title": "固定队水，是不是我有问题",
+      "tid": 47225326,
+      "link": "https://bbs.nga.cn/read.php?tid=47225326",
+      "replies": 44,
+      "author": "laisusoumo",
       "lastPost": 0
     },
     {
@@ -154,24 +162,16 @@
       "link": "https://bbs.nga.cn/read.php?tid=47201979",
       "replies": 41,
       "author": "二次元的书架",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 胡乱水一贴，其实我感觉缇姨的分店方向是完全错误的这是可以说的吗？",
-      "tid": 47231348,
-      "link": "https://bbs.nga.cn/read.php?tid=47231348",
-      "replies": 37,
-      "author": "司天紫成",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[安科]要不咱商量商量咋样在第八灵灾吃顿饱的(~第五章·新生~)",
-      "tid": 31939169,
-      "link": "https://bbs.nga.cn/read.php?tid=31939169",
-      "replies": 5148,
-      "author": "碳叶酸素",
+      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
+      "tid": 43021485,
+      "link": "https://bbs.nga.cn/read.php?tid=43021485",
+      "replies": 7766,
+      "author": "FIRMLYstuck",
       "lastPost": 0
     },
     {
@@ -191,19 +191,19 @@
       "lastPost": 0
     },
     {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1717,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[安科] 小队里藏着连续杀人狂",
       "tid": 41577199,
       "link": "https://bbs.nga.cn/read.php?tid=41577199",
       "replies": 943,
       "author": "澜色海星",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 358,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -290,7 +290,7 @@
       "title": "[举手提问]妖星p4到底算难还是不难？",
       "tid": 47234111,
       "link": "https://bbs.nga.cn/read.php?tid=47234111",
-      "replies": 60,
+      "replies": 63,
       "author": "大盗丶魔理沙",
       "lastPost": 0
     },
@@ -298,8 +298,16 @@
       "title": "个人统计学，整队人坚持到通过一个绝本是真是一个小概率事件",
       "tid": 47223307,
       "link": "https://bbs.nga.cn/read.php?tid=47223307",
-      "replies": 58,
+      "replies": 59,
       "author": "实在是太变态了",
+      "lastPost": 0
+    },
+    {
+      "title": "固定队水，是不是我有问题",
+      "tid": 47225326,
+      "link": "https://bbs.nga.cn/read.php?tid=47225326",
+      "replies": 44,
+      "author": "laisusoumo",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47201979",
       "replies": 41,
       "author": "二次元的书架",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 胡乱水一贴，其实我感觉缇姨的分店方向是完全错误的这是可以说的吗？",
-      "tid": 47231348,
-      "link": "https://bbs.nga.cn/read.php?tid=47231348",
-      "replies": 37,
-      "author": "司天紫成",
       "lastPost": 0
     }
   ]
