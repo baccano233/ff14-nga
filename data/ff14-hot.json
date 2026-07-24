@@ -1,9 +1,25 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-24T13:47:44.116Z",
+  "lastUpdated": "2026-07-24T15:20:48.057Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3549,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2944,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
     {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
@@ -18,22 +34,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=32328466",
       "replies": 1718,
       "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
-      "tid": 44588478,
-      "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1379,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科] 小队里藏着连续杀人狂",
-      "tid": 41577199,
-      "link": "https://bbs.nga.cn/read.php?tid=41577199",
-      "replies": 947,
-      "author": "澜色海星",
       "lastPost": 0
     },
     {
@@ -120,7 +120,7 @@
       "title": "蟠桃会氵 桃一些吉田酱估计游戏凉了都做不出来的功能",
       "tid": 47222880,
       "link": "https://bbs.nga.cn/read.php?tid=47222880",
-      "replies": 108,
+      "replies": 109,
       "author": "Luv_letter96",
       "lastPost": 0
     },
@@ -149,24 +149,40 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
+      "tid": 47247396,
+      "link": "https://bbs.nga.cn/read.php?tid=47247396",
+      "replies": 39,
+      "author": "防静电喷雾",
+      "lastPost": 0
+    },
+    {
       "title": "[海外资讯] 8.0光的新发型？",
       "tid": 47240524,
       "link": "https://bbs.nga.cn/read.php?tid=47240524",
       "replies": 39,
       "author": "故而我依憑不幸而生。",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
-      "tid": 47247396,
-      "link": "https://bbs.nga.cn/read.php?tid=47247396",
-      "replies": 37,
-      "author": "防静电喷雾",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3549,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
+      "tid": 38298599,
+      "link": "https://bbs.nga.cn/read.php?tid=38298599",
+      "replies": 2944,
+      "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
       "title": "[萌新科技][ACT] ACT.呆萌.非绿色化整合 / 国服国际服双端适配的领先ACT方案 [持续更新]",
       "tid": 19019884,
       "link": "https://bbs.nga.cn/read.php?tid=19019884",
@@ -180,22 +196,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=32328466",
       "replies": 1718,
       "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
-      "tid": 44588478,
-      "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1379,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科] 小队里藏着连续杀人狂",
-      "tid": 41577199,
-      "link": "https://bbs.nga.cn/read.php?tid=41577199",
-      "replies": 947,
-      "author": "澜色海星",
       "lastPost": 0
     },
     {
@@ -282,7 +282,7 @@
       "title": "蟠桃会氵 桃一些吉田酱估计游戏凉了都做不出来的功能",
       "tid": 47222880,
       "link": "https://bbs.nga.cn/read.php?tid=47222880",
-      "replies": 108,
+      "replies": 109,
       "author": "Luv_letter96",
       "lastPost": 0
     },
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
+      "tid": 47247396,
+      "link": "https://bbs.nga.cn/read.php?tid=47247396",
+      "replies": 39,
+      "author": "防静电喷雾",
+      "lastPost": 0
+    },
+    {
       "title": "[海外资讯] 8.0光的新发型？",
       "tid": 47240524,
       "link": "https://bbs.nga.cn/read.php?tid=47240524",
       "replies": 39,
       "author": "故而我依憑不幸而生。",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
-      "tid": 47247396,
-      "link": "https://bbs.nga.cn/read.php?tid=47247396",
-      "replies": 37,
-      "author": "防静电喷雾",
       "lastPost": 0
     }
   ]
