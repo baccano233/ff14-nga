@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-25T02:09:23.235Z",
+  "lastUpdated": "2026-07-25T05:26:53.036Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6495,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
       "tid": 44588478,
@@ -40,7 +32,7 @@
       "title": "[6.5] 艾欧泽亚萌新手册 2024",
       "tid": 15174128,
       "link": "https://bbs.nga.cn/read.php?tid=15174128",
-      "replies": 497,
+      "replies": 498,
       "author": "阿布evo",
       "lastPost": 0
     },
@@ -56,7 +48,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 341,
+      "replies": 342,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -69,10 +61,18 @@
       "lastPost": 0
     },
     {
+      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
+      "tid": 46229692,
+      "link": "https://bbs.nga.cn/read.php?tid=46229692",
+      "replies": 230,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.5鱼王)",
       "tid": 42310798,
       "link": "https://bbs.nga.cn/read.php?tid=42310798",
-      "replies": 226,
+      "replies": 228,
       "author": "闹钟钟",
       "lastPost": 0
     },
@@ -93,30 +93,6 @@
       "lastPost": 0
     },
     {
-      "title": "[世界杯竞猜相关讨论楼] 世界杯竞猜？竞猜币和论坛金币我全都要！(参与互动赢最终幻想14角色亚克力立牌、100元京东卡等奖励)",
-      "tid": 46966246,
-      "link": "https://bbs.nga.cn/read.php?tid=46966246",
-      "replies": 143,
-      "author": "埃癸斯",
-      "lastPost": 0
-    },
-    {
-      "title": "蟠桃会氵 桃一些吉田酱估计游戏凉了都做不出来的功能",
-      "tid": 47222880,
-      "link": "https://bbs.nga.cn/read.php?tid=47222880",
-      "replies": 109,
-      "author": "Luv_letter96",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
-      "tid": 46020663,
-      "link": "https://bbs.nga.cn/read.php?tid=46020663",
-      "replies": 99,
-      "author": "人活着就是为了说怪话",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴][刷光黑泥]水塔到底谁在排啊？",
       "tid": 45772480,
       "link": "https://bbs.nga.cn/read.php?tid=45772480",
@@ -128,23 +104,15 @@
       "title": "[毒奶水]水晶世界就是FF14闯移动端的牺牲品",
       "tid": 47201979,
       "link": "https://bbs.nga.cn/read.php?tid=47201979",
-      "replies": 46,
+      "replies": 48,
       "author": "二次元的书架",
-      "lastPost": 0
-    },
-    {
-      "title": "[剧情氵][含7_5剧透]所以……海德林知道大至日吗？",
-      "tid": 46756100,
-      "link": "https://bbs.nga.cn/read.php?tid=46756100",
-      "replies": 45,
-      "author": "fessus",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
       "tid": 47247396,
       "link": "https://bbs.nga.cn/read.php?tid=47247396",
-      "replies": 39,
+      "replies": 42,
       "author": "防静电喷雾",
       "lastPost": 0
     },
@@ -157,24 +125,48 @@
       "lastPost": 0
     },
     {
-      "title": "阿莉赛再次转职---弓术士！",
-      "tid": 47246537,
-      "link": "https://bbs.nga.cn/read.php?tid=47246537",
-      "replies": 33,
-      "author": "防静电喷雾",
+      "title": "[提问]绝妖星学者相关",
+      "tid": 47237767,
+      "link": "https://bbs.nga.cn/read.php?tid=47237767",
+      "replies": 36,
+      "author": "#anony_d523f7607d949d7ec316890305ae5a4f",
+      "lastPost": 0
+    },
+    {
+      "title": "[妖星记录氵] 机械凯夫卡会梦见电子光呆嘛",
+      "tid": 47057681,
+      "link": "https://bbs.nga.cn/read.php?tid=47057681",
+      "replies": 32,
+      "author": "源明圳",
+      "lastPost": 0
+    },
+    {
+      "title": "黑尖陶乐鲶不会是真鱼皇吧",
+      "tid": 47244053,
+      "link": "https://bbs.nga.cn/read.php?tid=47244053",
+      "replies": 30,
+      "author": "阿全のWiFi",
+      "lastPost": 0
+    },
+    {
+      "title": "[考据]灭绝的葡萄：第九世界的气候、作物与饮食",
+      "tid": 47184222,
+      "link": "https://bbs.nga.cn/read.php?tid=47184222",
+      "replies": 30,
+      "author": "朵法米",
+      "lastPost": 0
+    },
+    {
+      "title": "7月25日粉丝节直播讨论楼",
+      "tid": 47251005,
+      "link": "https://bbs.nga.cn/read.php?tid=47251005",
+      "replies": 27,
+      "author": "PirateSlime",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6495,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
@@ -202,7 +194,7 @@
       "title": "[6.5] 艾欧泽亚萌新手册 2024",
       "tid": 15174128,
       "link": "https://bbs.nga.cn/read.php?tid=15174128",
-      "replies": 497,
+      "replies": 498,
       "author": "阿布evo",
       "lastPost": 0
     },
@@ -218,7 +210,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 341,
+      "replies": 342,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -231,10 +223,18 @@
       "lastPost": 0
     },
     {
+      "title": "[已补完][记录]昔日重现4.0，但是光芝战士(内含芝诺斯台词/相关整理)",
+      "tid": 46229692,
+      "link": "https://bbs.nga.cn/read.php?tid=46229692",
+      "replies": 230,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.5鱼王)",
       "tid": 42310798,
       "link": "https://bbs.nga.cn/read.php?tid=42310798",
-      "replies": 226,
+      "replies": 228,
       "author": "闹钟钟",
       "lastPost": 0
     },
@@ -255,30 +255,6 @@
       "lastPost": 0
     },
     {
-      "title": "[世界杯竞猜相关讨论楼] 世界杯竞猜？竞猜币和论坛金币我全都要！(参与互动赢最终幻想14角色亚克力立牌、100元京东卡等奖励)",
-      "tid": 46966246,
-      "link": "https://bbs.nga.cn/read.php?tid=46966246",
-      "replies": 143,
-      "author": "埃癸斯",
-      "lastPost": 0
-    },
-    {
-      "title": "蟠桃会氵 桃一些吉田酱估计游戏凉了都做不出来的功能",
-      "tid": 47222880,
-      "link": "https://bbs.nga.cn/read.php?tid=47222880",
-      "replies": 109,
-      "author": "Luv_letter96",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
-      "tid": 46020663,
-      "link": "https://bbs.nga.cn/read.php?tid=46020663",
-      "replies": 99,
-      "author": "人活着就是为了说怪话",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴][刷光黑泥]水塔到底谁在排啊？",
       "tid": 45772480,
       "link": "https://bbs.nga.cn/read.php?tid=45772480",
@@ -290,23 +266,15 @@
       "title": "[毒奶水]水晶世界就是FF14闯移动端的牺牲品",
       "tid": 47201979,
       "link": "https://bbs.nga.cn/read.php?tid=47201979",
-      "replies": 46,
+      "replies": 48,
       "author": "二次元的书架",
-      "lastPost": 0
-    },
-    {
-      "title": "[剧情氵][含7_5剧透]所以……海德林知道大至日吗？",
-      "tid": 46756100,
-      "link": "https://bbs.nga.cn/read.php?tid=46756100",
-      "replies": 45,
-      "author": "fessus",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 雅典娜这个角色还挺受欢迎的？",
       "tid": 47247396,
       "link": "https://bbs.nga.cn/read.php?tid=47247396",
-      "replies": 39,
+      "replies": 42,
       "author": "防静电喷雾",
       "lastPost": 0
     },
@@ -319,11 +287,43 @@
       "lastPost": 0
     },
     {
-      "title": "阿莉赛再次转职---弓术士！",
-      "tid": 47246537,
-      "link": "https://bbs.nga.cn/read.php?tid=47246537",
-      "replies": 33,
-      "author": "防静电喷雾",
+      "title": "[提问]绝妖星学者相关",
+      "tid": 47237767,
+      "link": "https://bbs.nga.cn/read.php?tid=47237767",
+      "replies": 36,
+      "author": "#anony_d523f7607d949d7ec316890305ae5a4f",
+      "lastPost": 0
+    },
+    {
+      "title": "[妖星记录氵] 机械凯夫卡会梦见电子光呆嘛",
+      "tid": 47057681,
+      "link": "https://bbs.nga.cn/read.php?tid=47057681",
+      "replies": 32,
+      "author": "源明圳",
+      "lastPost": 0
+    },
+    {
+      "title": "黑尖陶乐鲶不会是真鱼皇吧",
+      "tid": 47244053,
+      "link": "https://bbs.nga.cn/read.php?tid=47244053",
+      "replies": 30,
+      "author": "阿全のWiFi",
+      "lastPost": 0
+    },
+    {
+      "title": "[考据]灭绝的葡萄：第九世界的气候、作物与饮食",
+      "tid": 47184222,
+      "link": "https://bbs.nga.cn/read.php?tid=47184222",
+      "replies": 30,
+      "author": "朵法米",
+      "lastPost": 0
+    },
+    {
+      "title": "7月25日粉丝节直播讨论楼",
+      "tid": 47251005,
+      "link": "https://bbs.nga.cn/read.php?tid=47251005",
+      "replies": 27,
+      "author": "PirateSlime",
       "lastPost": 0
     }
   ]
