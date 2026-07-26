@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-26T22:27:28.264Z",
+  "lastUpdated": "2026-07-26T23:27:57.746Z",
   "count": 20,
   "posts": [
     {
@@ -42,6 +42,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
       "replies": 358,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
       "lastPost": 0
     },
     {
@@ -88,7 +96,7 @@
       "title": "野排四人本抢开的奶是不是脑袋有毛病啊？",
       "tid": 47254232,
       "link": "https://bbs.nga.cn/read.php?tid=47254232",
-      "replies": 76,
+      "replies": 77,
       "author": "月照狮子头",
       "lastPost": 0
     },
@@ -120,7 +128,7 @@
       "title": "作为一名老玩家，我讨厌ff7和eva联动",
       "tid": 47257592,
       "link": "https://bbs.nga.cn/read.php?tid=47257592",
-      "replies": 51,
+      "replies": 52,
       "author": "NANTEK",
       "lastPost": 0
     },
@@ -128,7 +136,7 @@
       "title": "[氵一贴] 说一千道一万，8.0自身剧本才是关键",
       "tid": 47256884,
       "link": "https://bbs.nga.cn/read.php?tid=47256884",
-      "replies": 46,
+      "replies": 47,
       "author": "wjj1025336",
       "lastPost": 0
     },
@@ -144,7 +152,7 @@
       "title": "[黑泥氵]想问问绝妖星野队坚韧t的占比怎么样呀 今天被二究极后魔击不开黑盾的t教育了",
       "tid": 47260154,
       "link": "https://bbs.nga.cn/read.php?tid=47260154",
-      "replies": 40,
+      "replies": 41,
       "author": "yuriwww",
       "lastPost": 0
     },
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47253429",
       "replies": 36,
       "author": "黑澤琉璃",
-      "lastPost": 0
-    },
-    {
-      "title": "[妖星记录氵] 机械凯夫卡会梦见电子光呆嘛",
-      "tid": 47057681,
-      "link": "https://bbs.nga.cn/read.php?tid=47057681",
-      "replies": 34,
-      "author": "源明圳",
       "lastPost": 0
     }
   ],
@@ -207,6 +207,14 @@
       "lastPost": 0
     },
     {
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
+      "lastPost": 0
+    },
+    {
       "title": "[导随记录]终于 可以在狗区开导！",
       "tid": 37486120,
       "link": "https://bbs.nga.cn/read.php?tid=37486120",
@@ -250,7 +258,7 @@
       "title": "野排四人本抢开的奶是不是脑袋有毛病啊？",
       "tid": 47254232,
       "link": "https://bbs.nga.cn/read.php?tid=47254232",
-      "replies": 76,
+      "replies": 77,
       "author": "月照狮子头",
       "lastPost": 0
     },
@@ -282,7 +290,7 @@
       "title": "作为一名老玩家，我讨厌ff7和eva联动",
       "tid": 47257592,
       "link": "https://bbs.nga.cn/read.php?tid=47257592",
-      "replies": 51,
+      "replies": 52,
       "author": "NANTEK",
       "lastPost": 0
     },
@@ -290,7 +298,7 @@
       "title": "[氵一贴] 说一千道一万，8.0自身剧本才是关键",
       "tid": 47256884,
       "link": "https://bbs.nga.cn/read.php?tid=47256884",
-      "replies": 46,
+      "replies": 47,
       "author": "wjj1025336",
       "lastPost": 0
     },
@@ -306,7 +314,7 @@
       "title": "[黑泥氵]想问问绝妖星野队坚韧t的占比怎么样呀 今天被二究极后魔击不开黑盾的t教育了",
       "tid": 47260154,
       "link": "https://bbs.nga.cn/read.php?tid=47260154",
-      "replies": 40,
+      "replies": 41,
       "author": "yuriwww",
       "lastPost": 0
     },
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47253429",
       "replies": 36,
       "author": "黑澤琉璃",
-      "lastPost": 0
-    },
-    {
-      "title": "[妖星记录氵] 机械凯夫卡会梦见电子光呆嘛",
-      "tid": 47057681,
-      "link": "https://bbs.nga.cn/read.php?tid=47057681",
-      "replies": 34,
-      "author": "源明圳",
       "lastPost": 0
     }
   ]
