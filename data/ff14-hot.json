@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-07-31T20:14:53.560Z",
+  "lastUpdated": "2026-07-31T21:34:43.294Z",
   "count": 20,
   "posts": [
     {
@@ -18,6 +18,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47251005",
       "replies": 957,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[日区] [部队招募] Mana Chocobo&#92;Asura&#92;Pandaemonium《DOTA2》部队招新",
+      "tid": 42893247,
+      "link": "https://bbs.nga.cn/read.php?tid=42893247",
+      "replies": 761,
+      "author": "艾斯丁Astin",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47212954",
       "replies": 29,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 大家都是去了几次ce拿到了北岛的青魔和亡灵法师啊",
-      "tid": 47287909,
-      "link": "https://bbs.nga.cn/read.php?tid=47287909",
-      "replies": 29,
-      "author": "etsuko11",
       "lastPost": 0
     }
   ],
@@ -183,6 +183,14 @@
       "lastPost": 0
     },
     {
+      "title": "[日区] [部队招募] Mana Chocobo&#92;Asura&#92;Pandaemonium《DOTA2》部队招新",
+      "tid": 42893247,
+      "link": "https://bbs.nga.cn/read.php?tid=42893247",
+      "replies": 761,
+      "author": "艾斯丁Astin",
+      "lastPost": 0
+    },
+    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～应邀前来的两位客人、是LOVELOVE？还是……？！～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47212954",
       "replies": 29,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 大家都是去了几次ce拿到了北岛的青魔和亡灵法师啊",
-      "tid": 47287909,
-      "link": "https://bbs.nga.cn/read.php?tid=47287909",
-      "replies": 29,
-      "author": "etsuko11",
       "lastPost": 0
     }
   ]
