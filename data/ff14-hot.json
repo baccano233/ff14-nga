@@ -1,25 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-07T16:42:50.798Z",
+  "lastUpdated": "2026-08-07T17:41:06.398Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[新人求救] 萌新昨天在黄昏湾看到了一幕，感觉自己要被灭掉了",
-      "tid": 12614123,
-      "link": "https://bbs.nga.cn/read.php?tid=12614123",
-      "replies": 2701,
-      "author": "ljwwlj",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1724,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
     {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
@@ -32,7 +16,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 415,
+      "replies": 416,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -69,19 +53,19 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区] [绝妖星乱舞] 绝妖星+1队 7=1非战士ST",
-      "tid": 47326337,
-      "link": "https://bbs.nga.cn/read.php?tid=47326337",
-      "replies": 58,
-      "author": "卧槽有刺客",
-      "lastPost": 0
-    },
-    {
       "title": "哦豁，看来新月北岛云端接收到了一批数据，我说怎么想不起来他们是谁呢",
       "tid": 47317359,
       "link": "https://bbs.nga.cn/read.php?tid=47317359",
       "replies": 52,
       "author": "啥都不懂来瞎混",
+      "lastPost": 0
+    },
+    {
+      "title": "[求助氵] 现在石卫塔和泽梅尔要塞都是默认一波拉到底吗？",
+      "tid": 47312942,
+      "link": "https://bbs.nga.cn/read.php?tid=47312942",
+      "replies": 51,
+      "author": "阿霄君",
       "lastPost": 0
     },
     {
@@ -93,11 +77,11 @@
       "lastPost": 0
     },
     {
-      "title": "[求助氵] 现在石卫塔和泽梅尔要塞都是默认一波拉到底吗？",
-      "tid": 47312942,
-      "link": "https://bbs.nga.cn/read.php?tid=47312942",
-      "replies": 50,
-      "author": "阿霄君",
+      "title": "红职打导随时候遇到挂机的你们会怎么做？",
+      "tid": 47304983,
+      "link": "https://bbs.nga.cn/read.php?tid=47304983",
+      "replies": 49,
+      "author": "于君指上闻弦声",
       "lastPost": 0
     },
     {
@@ -144,7 +128,7 @@
       "title": "绝妖星是不是第一个主流打法用LB逃课的绝本？",
       "tid": 47330079,
       "link": "https://bbs.nga.cn/read.php?tid=47330079",
-      "replies": 29,
+      "replies": 31,
       "author": "实在是太变态了",
       "lastPost": 0
     },
@@ -160,29 +144,29 @@
       "title": "看到好多人说妖星是进化模式准备的，为什么呀",
       "tid": 47329923,
       "link": "https://bbs.nga.cn/read.php?tid=47329923",
-      "replies": 24,
+      "replies": 26,
       "author": "lxg122407",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] [绝妖星][时差]绝妖休闲时差队 招 D3 H2 零式蓝紫+非老三绝 美东晚/国内上午 进度p3",
+      "tid": 47146500,
+      "link": "https://bbs.nga.cn/read.php?tid=47146500",
+      "replies": 26,
+      "author": "佐佐木沙咲",
+      "lastPost": 0
+    },
+    {
+      "title": "[害怕氵贴]零式分成三个难度后激增工作量吗",
+      "tid": 47324133,
+      "link": "https://bbs.nga.cn/read.php?tid=47324133",
+      "replies": 22,
+      "author": "Maipok",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[新人求救] 萌新昨天在黄昏湾看到了一幕，感觉自己要被灭掉了",
-      "tid": 12614123,
-      "link": "https://bbs.nga.cn/read.php?tid=12614123",
-      "replies": 2701,
-      "author": "ljwwlj",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1724,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -194,7 +178,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 415,
+      "replies": 416,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -231,19 +215,19 @@
       "lastPost": 0
     },
     {
-      "title": "[跨大区] [绝妖星乱舞] 绝妖星+1队 7=1非战士ST",
-      "tid": 47326337,
-      "link": "https://bbs.nga.cn/read.php?tid=47326337",
-      "replies": 58,
-      "author": "卧槽有刺客",
-      "lastPost": 0
-    },
-    {
       "title": "哦豁，看来新月北岛云端接收到了一批数据，我说怎么想不起来他们是谁呢",
       "tid": 47317359,
       "link": "https://bbs.nga.cn/read.php?tid=47317359",
       "replies": 52,
       "author": "啥都不懂来瞎混",
+      "lastPost": 0
+    },
+    {
+      "title": "[求助氵] 现在石卫塔和泽梅尔要塞都是默认一波拉到底吗？",
+      "tid": 47312942,
+      "link": "https://bbs.nga.cn/read.php?tid=47312942",
+      "replies": 51,
+      "author": "阿霄君",
       "lastPost": 0
     },
     {
@@ -255,11 +239,11 @@
       "lastPost": 0
     },
     {
-      "title": "[求助氵] 现在石卫塔和泽梅尔要塞都是默认一波拉到底吗？",
-      "tid": 47312942,
-      "link": "https://bbs.nga.cn/read.php?tid=47312942",
-      "replies": 50,
-      "author": "阿霄君",
+      "title": "红职打导随时候遇到挂机的你们会怎么做？",
+      "tid": 47304983,
+      "link": "https://bbs.nga.cn/read.php?tid=47304983",
+      "replies": 49,
+      "author": "于君指上闻弦声",
       "lastPost": 0
     },
     {
@@ -306,7 +290,7 @@
       "title": "绝妖星是不是第一个主流打法用LB逃课的绝本？",
       "tid": 47330079,
       "link": "https://bbs.nga.cn/read.php?tid=47330079",
-      "replies": 29,
+      "replies": 31,
       "author": "实在是太变态了",
       "lastPost": 0
     },
@@ -322,8 +306,24 @@
       "title": "看到好多人说妖星是进化模式准备的，为什么呀",
       "tid": 47329923,
       "link": "https://bbs.nga.cn/read.php?tid=47329923",
-      "replies": 24,
+      "replies": 26,
       "author": "lxg122407",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] [绝妖星][时差]绝妖休闲时差队 招 D3 H2 零式蓝紫+非老三绝 美东晚/国内上午 进度p3",
+      "tid": 47146500,
+      "link": "https://bbs.nga.cn/read.php?tid=47146500",
+      "replies": 26,
+      "author": "佐佐木沙咲",
+      "lastPost": 0
+    },
+    {
+      "title": "[害怕氵贴]零式分成三个难度后激增工作量吗",
+      "tid": 47324133,
+      "link": "https://bbs.nga.cn/read.php?tid=47324133",
+      "replies": 22,
+      "author": "Maipok",
       "lastPost": 0
     }
   ]
