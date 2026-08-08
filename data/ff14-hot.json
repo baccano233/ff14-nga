@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-08T15:22:47.686Z",
+  "lastUpdated": "2026-08-08T15:54:00.995Z",
   "count": 20,
   "posts": [
     {
@@ -10,6 +10,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=43021485",
       "replies": 7771,
       "author": "FIRMLYstuck",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3572,
+      "author": "作恶的杏子",
       "lastPost": 0
     },
     {
@@ -29,18 +37,10 @@
       "lastPost": 0
     },
     {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 378,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 最菜王冠今日依然流连在他忠诚的钓场旁",
       "tid": 35966611,
       "link": "https://bbs.nga.cn/read.php?tid=35966611",
-      "replies": 349,
+      "replies": 350,
       "author": "逆袭的鲁鲁修",
       "lastPost": 0
     },
@@ -61,18 +61,10 @@
       "lastPost": 0
     },
     {
-      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
-      "tid": 45750820,
-      "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 141,
-      "author": "不可思议魔法",
-      "lastPost": 0
-    },
-    {
       "title": "[黑泥氵]原来履历欺诈退队不给陪练费要被挂招募处刑？",
       "tid": 47332026,
       "link": "https://bbs.nga.cn/read.php?tid=47332026",
-      "replies": 95,
+      "replies": 102,
       "author": "粉墨画生",
       "lastPost": 0
     },
@@ -82,6 +74,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
       "replies": 91,
       "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 71,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     },
     {
@@ -101,14 +101,6 @@
       "lastPost": 0
     },
     {
-      "title": "我很疑惑，这游戏的宣传是有多爱官网？",
-      "tid": 47318138,
-      "link": "https://bbs.nga.cn/read.php?tid=47318138",
-      "replies": 50,
-      "author": "路夕",
-      "lastPost": 0
-    },
-    {
       "title": "[BUG收集] BUG反馈集中楼",
       "tid": 45803928,
       "link": "https://bbs.nga.cn/read.php?tid=45803928",
@@ -120,7 +112,7 @@
       "title": "晚上和人聊天的时候梳理了一下，感觉大家可能错怪中川大辅了",
       "tid": 47332101,
       "link": "https://bbs.nga.cn/read.php?tid=47332101",
-      "replies": 44,
+      "replies": 45,
       "author": "mengliul",
       "lastPost": 0
     },
@@ -130,6 +122,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47332286",
       "replies": 38,
       "author": "#anony_01f2375b194fab19dc61e01efb1fe423",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 你休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
+      "tid": 47334369,
+      "link": "https://bbs.nga.cn/read.php?tid=47334369",
+      "replies": 35,
+      "author": "雪夜来信",
       "lastPost": 0
     },
     {
@@ -144,24 +144,24 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 33,
+      "replies": 34,
       "author": "原本平凡",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 你休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
-      "tid": 47334369,
-      "link": "https://bbs.nga.cn/read.php?tid=47334369",
-      "replies": 30,
-      "author": "雪夜来信",
+      "title": "看了盛趣最近的新发布会有感而发。",
+      "tid": 47334318,
+      "link": "https://bbs.nga.cn/read.php?tid=47334318",
+      "replies": 24,
+      "author": "olympic468",
       "lastPost": 0
     },
     {
-      "title": "[跨大区]绝巴哈p4，初见狂暴，7=1d2或者st",
-      "tid": 47313860,
-      "link": "https://bbs.nga.cn/read.php?tid=47313860",
-      "replies": 24,
-      "author": "Dest89",
+      "title": "求问一下logs是红的还有办法更新吗",
+      "tid": 47280154,
+      "link": "https://bbs.nga.cn/read.php?tid=47280154",
+      "replies": 17,
+      "author": "洛_笙",
       "lastPost": 0
     }
   ],
@@ -175,6 +175,14 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3572,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
       "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～应邀前来的两位客人、是LOVELOVE？还是……？！～",
       "tid": 46068125,
       "link": "https://bbs.nga.cn/read.php?tid=46068125",
@@ -191,18 +199,10 @@
       "lastPost": 0
     },
     {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 378,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 最菜王冠今日依然流连在他忠诚的钓场旁",
       "tid": 35966611,
       "link": "https://bbs.nga.cn/read.php?tid=35966611",
-      "replies": 349,
+      "replies": 350,
       "author": "逆袭的鲁鲁修",
       "lastPost": 0
     },
@@ -223,18 +223,10 @@
       "lastPost": 0
     },
     {
-      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
-      "tid": 45750820,
-      "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 141,
-      "author": "不可思议魔法",
-      "lastPost": 0
-    },
-    {
       "title": "[黑泥氵]原来履历欺诈退队不给陪练费要被挂招募处刑？",
       "tid": 47332026,
       "link": "https://bbs.nga.cn/read.php?tid=47332026",
-      "replies": 95,
+      "replies": 102,
       "author": "粉墨画生",
       "lastPost": 0
     },
@@ -244,6 +236,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46115259",
       "replies": 91,
       "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 71,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     },
     {
@@ -263,14 +263,6 @@
       "lastPost": 0
     },
     {
-      "title": "我很疑惑，这游戏的宣传是有多爱官网？",
-      "tid": 47318138,
-      "link": "https://bbs.nga.cn/read.php?tid=47318138",
-      "replies": 50,
-      "author": "路夕",
-      "lastPost": 0
-    },
-    {
       "title": "[BUG收集] BUG反馈集中楼",
       "tid": 45803928,
       "link": "https://bbs.nga.cn/read.php?tid=45803928",
@@ -282,7 +274,7 @@
       "title": "晚上和人聊天的时候梳理了一下，感觉大家可能错怪中川大辅了",
       "tid": 47332101,
       "link": "https://bbs.nga.cn/read.php?tid=47332101",
-      "replies": 44,
+      "replies": 45,
       "author": "mengliul",
       "lastPost": 0
     },
@@ -292,6 +284,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47332286",
       "replies": 38,
       "author": "#anony_01f2375b194fab19dc61e01efb1fe423",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 你休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
+      "tid": 47334369,
+      "link": "https://bbs.nga.cn/read.php?tid=47334369",
+      "replies": 35,
+      "author": "雪夜来信",
       "lastPost": 0
     },
     {
@@ -306,24 +306,24 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 33,
+      "replies": 34,
       "author": "原本平凡",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 你休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
-      "tid": 47334369,
-      "link": "https://bbs.nga.cn/read.php?tid=47334369",
-      "replies": 30,
-      "author": "雪夜来信",
+      "title": "看了盛趣最近的新发布会有感而发。",
+      "tid": 47334318,
+      "link": "https://bbs.nga.cn/read.php?tid=47334318",
+      "replies": 24,
+      "author": "olympic468",
       "lastPost": 0
     },
     {
-      "title": "[跨大区]绝巴哈p4，初见狂暴，7=1d2或者st",
-      "tid": 47313860,
-      "link": "https://bbs.nga.cn/read.php?tid=47313860",
-      "replies": 24,
-      "author": "Dest89",
+      "title": "求问一下logs是红的还有办法更新吗",
+      "tid": 47280154,
+      "link": "https://bbs.nga.cn/read.php?tid=47280154",
+      "replies": 17,
+      "author": "洛_笙",
       "lastPost": 0
     }
   ]
