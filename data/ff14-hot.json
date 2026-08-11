@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-11T15:52:00.218Z",
+  "lastUpdated": "2026-08-11T16:48:46.567Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1726,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
     {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
@@ -29,14 +37,6 @@
       "lastPost": 0
     },
     {
-      "title": "[自记]鸟区艾欧泽亚行迹",
-      "tid": 42746566,
-      "link": "https://bbs.nga.cn/read.php?tid=42746566",
-      "replies": 280,
-      "author": "泠峰峰峰",
-      "lastPost": 0
-    },
-    {
       "title": "最终幻想单机系列",
       "tid": 10436564,
       "link": "https://bbs.nga.cn/read.php?tid=10436564",
@@ -56,8 +56,16 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 174,
+      "replies": 176,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
+      "tid": 46310470,
+      "link": "https://bbs.nga.cn/read.php?tid=46310470",
+      "replies": 155,
+      "author": "Awiten",
       "lastPost": 0
     },
     {
@@ -72,7 +80,7 @@
       "title": "[记录贴]从0开始的探索笔记",
       "tid": 40796941,
       "link": "https://bbs.nga.cn/read.php?tid=40796941",
-      "replies": 74,
+      "replies": 76,
       "author": "゛木楠瓜、",
       "lastPost": 0
     },
@@ -96,7 +104,7 @@
       "title": "[贷款]已经能想到驯兽师应该是比无人岛还无聊的东西",
       "tid": 47344408,
       "link": "https://bbs.nga.cn/read.php?tid=47344408",
-      "replies": 51,
+      "replies": 52,
       "author": "黑尾铁朗",
       "lastPost": 0
     },
@@ -144,7 +152,7 @@
       "title": "[举手提问] 新月岛救人怎么能这么快的！！！",
       "tid": 47344569,
       "link": "https://bbs.nga.cn/read.php?tid=47344569",
-      "replies": 36,
+      "replies": 37,
       "author": "ctxctxct",
       "lastPost": 0
     },
@@ -154,19 +162,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=47349295",
       "replies": 35,
       "author": "怀疑是悲伤之源",
-      "lastPost": 0
-    },
-    {
-      "title": "记录一下个人的7.55鱼皇心得",
-      "tid": 47301069,
-      "link": "https://bbs.nga.cn/read.php?tid=47301069",
-      "replies": 35,
-      "author": "桐某人",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1726,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -191,14 +199,6 @@
       "lastPost": 0
     },
     {
-      "title": "[自记]鸟区艾欧泽亚行迹",
-      "tid": 42746566,
-      "link": "https://bbs.nga.cn/read.php?tid=42746566",
-      "replies": 280,
-      "author": "泠峰峰峰",
-      "lastPost": 0
-    },
-    {
       "title": "最终幻想单机系列",
       "tid": 10436564,
       "link": "https://bbs.nga.cn/read.php?tid=10436564",
@@ -218,8 +218,16 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 174,
+      "replies": 176,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]总之，这样那样的n芽副本大冒险",
+      "tid": 46310470,
+      "link": "https://bbs.nga.cn/read.php?tid=46310470",
+      "replies": 155,
+      "author": "Awiten",
       "lastPost": 0
     },
     {
@@ -234,7 +242,7 @@
       "title": "[记录贴]从0开始的探索笔记",
       "tid": 40796941,
       "link": "https://bbs.nga.cn/read.php?tid=40796941",
-      "replies": 74,
+      "replies": 76,
       "author": "゛木楠瓜、",
       "lastPost": 0
     },
@@ -258,7 +266,7 @@
       "title": "[贷款]已经能想到驯兽师应该是比无人岛还无聊的东西",
       "tid": 47344408,
       "link": "https://bbs.nga.cn/read.php?tid=47344408",
-      "replies": 51,
+      "replies": 52,
       "author": "黑尾铁朗",
       "lastPost": 0
     },
@@ -306,7 +314,7 @@
       "title": "[举手提问] 新月岛救人怎么能这么快的！！！",
       "tid": 47344569,
       "link": "https://bbs.nga.cn/read.php?tid=47344569",
-      "replies": 36,
+      "replies": 37,
       "author": "ctxctxct",
       "lastPost": 0
     },
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47349295",
       "replies": 35,
       "author": "怀疑是悲伤之源",
-      "lastPost": 0
-    },
-    {
-      "title": "记录一下个人的7.55鱼皇心得",
-      "tid": 47301069,
-      "link": "https://bbs.nga.cn/read.php?tid=47301069",
-      "replies": 35,
-      "author": "桐某人",
       "lastPost": 0
     }
   ]
