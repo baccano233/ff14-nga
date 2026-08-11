@@ -1,23 +1,23 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-11T12:05:39.770Z",
+  "lastUpdated": "2026-08-11T13:50:22.089Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2959,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
     {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
       "replies": 1141,
       "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～应邀前来的两位客人、是LOVELOVE？还是……？！～",
+      "tid": 46068125,
+      "link": "https://bbs.nga.cn/read.php?tid=46068125",
+      "replies": 730,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -29,18 +29,18 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥]固定队抽签手气有够烂的",
-      "tid": 46149723,
-      "link": "https://bbs.nga.cn/read.php?tid=46149723",
-      "replies": 238,
-      "author": "#anony_be19558134728ff9f1991a6372b7c5eb",
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
       "lastPost": 0
     },
     {
       "title": "想问一问招募上的4扣5赔是怎么一个赔法",
       "tid": 47314552,
       "link": "https://bbs.nga.cn/read.php?tid=47314552",
-      "replies": 228,
+      "replies": 229,
       "author": "我觉得我还能再吃点",
       "lastPost": 0
     },
@@ -48,23 +48,23 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 172,
+      "replies": 173,
       "author": "原本平凡",
       "lastPost": 0
     },
     {
-      "title": "[贤学大战]Logs的数据统计是否有意义？",
-      "tid": 47333798,
-      "link": "https://bbs.nga.cn/read.php?tid=47333798",
-      "replies": 124,
-      "author": "Natrium0000",
+      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
+      "tid": 46020663,
+      "link": "https://bbs.nga.cn/read.php?tid=46020663",
+      "replies": 104,
+      "author": "人活着就是为了说怪话",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]关于新月岛罐罐和游戏环境",
       "tid": 47347562,
       "link": "https://bbs.nga.cn/read.php?tid=47347562",
-      "replies": 69,
+      "replies": 72,
       "author": "CHIKI阿树树",
       "lastPost": 0
     },
@@ -77,6 +77,14 @@
       "lastPost": 0
     },
     {
+      "title": "剑导那1500个赞正常要多久才能获得啊",
+      "tid": 47347092,
+      "link": "https://bbs.nga.cn/read.php?tid=47347092",
+      "replies": 58,
+      "author": "御坂13023",
+      "lastPost": 0
+    },
+    {
       "title": "(搬运)ff14有可能要变成qq14了？",
       "tid": 47343869,
       "link": "https://bbs.nga.cn/read.php?tid=47343869",
@@ -85,35 +93,27 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥氵]惊喜蛋我好恨你",
-      "tid": 46756833,
-      "link": "https://bbs.nga.cn/read.php?tid=46756833",
-      "replies": 53,
-      "author": "#anony_c8f6fc104f7d28008922848ab7b3f449",
-      "lastPost": 0
-    },
-    {
-      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
-      "tid": 47333000,
-      "link": "https://bbs.nga.cn/read.php?tid=47333000",
-      "replies": 52,
-      "author": "永恒绽放之花",
-      "lastPost": 0
-    },
-    {
-      "title": "剑导那1500个赞正常要多久才能获得啊",
-      "tid": 47347092,
-      "link": "https://bbs.nga.cn/read.php?tid=47347092",
-      "replies": 50,
-      "author": "御坂13023",
-      "lastPost": 0
-    },
-    {
       "title": "[贷款]已经能想到驯兽师应该是比无人岛还无聊的东西",
       "tid": 47344408,
       "link": "https://bbs.nga.cn/read.php?tid=47344408",
-      "replies": 44,
+      "replies": 50,
       "author": "黑尾铁朗",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
+      "tid": 47334369,
+      "link": "https://bbs.nga.cn/read.php?tid=47334369",
+      "replies": 46,
+      "author": "雪夜来信",
+      "lastPost": 0
+    },
+    {
+      "title": "[钓鱼抽奖氵] 金曦之鳞达成，抽一瓶洗澡水",
+      "tid": 47347875,
+      "link": "https://bbs.nga.cn/read.php?tid=47347875",
+      "replies": 45,
+      "author": "Sun&Sky",
       "lastPost": 0
     },
     {
@@ -125,11 +125,11 @@
       "lastPost": 0
     },
     {
-      "title": "[钓鱼抽奖氵] 金曦之鳞达成，抽一瓶洗澡水",
-      "tid": 47347875,
-      "link": "https://bbs.nga.cn/read.php?tid=47347875",
-      "replies": 43,
-      "author": "Sun&Sky",
+      "title": "新月岛真的好无聊",
+      "tid": 47347874,
+      "link": "https://bbs.nga.cn/read.php?tid=47347874",
+      "replies": 37,
+      "author": "小鸡毛的小白",
       "lastPost": 0
     },
     {
@@ -149,37 +149,37 @@
       "lastPost": 0
     },
     {
-      "title": "新月岛真的好无聊",
-      "tid": 47347874,
-      "link": "https://bbs.nga.cn/read.php?tid=47347874",
-      "replies": 32,
-      "author": "小鸡毛的小白",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 我看6.0之成长的寓言：古代世界与镜像阶段",
       "tid": 47270837,
       "link": "https://bbs.nga.cn/read.php?tid=47270837",
       "replies": 28,
       "author": "朵法米",
+      "lastPost": 0
+    },
+    {
+      "title": "非常担心自己履历会被人说履历欺诈该怎么办",
+      "tid": 47342210,
+      "link": "https://bbs.nga.cn/read.php?tid=47342210",
+      "replies": 25,
+      "author": "终末之歌",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2959,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
       "replies": 1141,
       "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[赛博就诊] [自嗨安科] 占星术士似乎是在做恋爱占卜的样子～应邀前来的两位客人、是LOVELOVE？还是……？！～",
+      "tid": 46068125,
+      "link": "https://bbs.nga.cn/read.php?tid=46068125",
+      "replies": 730,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -191,18 +191,18 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥]固定队抽签手气有够烂的",
-      "tid": 46149723,
-      "link": "https://bbs.nga.cn/read.php?tid=46149723",
-      "replies": 238,
-      "author": "#anony_be19558134728ff9f1991a6372b7c5eb",
+      "title": "最终幻想单机系列",
+      "tid": 10436564,
+      "link": "https://bbs.nga.cn/read.php?tid=10436564",
+      "replies": 246,
+      "author": "morgen",
       "lastPost": 0
     },
     {
       "title": "想问一问招募上的4扣5赔是怎么一个赔法",
       "tid": 47314552,
       "link": "https://bbs.nga.cn/read.php?tid=47314552",
-      "replies": 228,
+      "replies": 229,
       "author": "我觉得我还能再吃点",
       "lastPost": 0
     },
@@ -210,23 +210,23 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 172,
+      "replies": 173,
       "author": "原本平凡",
       "lastPost": 0
     },
     {
-      "title": "[贤学大战]Logs的数据统计是否有意义？",
-      "tid": 47333798,
-      "link": "https://bbs.nga.cn/read.php?tid=47333798",
-      "replies": 124,
-      "author": "Natrium0000",
+      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
+      "tid": 46020663,
+      "link": "https://bbs.nga.cn/read.php?tid=46020663",
+      "replies": 104,
+      "author": "人活着就是为了说怪话",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]关于新月岛罐罐和游戏环境",
       "tid": 47347562,
       "link": "https://bbs.nga.cn/read.php?tid=47347562",
-      "replies": 69,
+      "replies": 72,
       "author": "CHIKI阿树树",
       "lastPost": 0
     },
@@ -239,6 +239,14 @@
       "lastPost": 0
     },
     {
+      "title": "剑导那1500个赞正常要多久才能获得啊",
+      "tid": 47347092,
+      "link": "https://bbs.nga.cn/read.php?tid=47347092",
+      "replies": 58,
+      "author": "御坂13023",
+      "lastPost": 0
+    },
+    {
       "title": "(搬运)ff14有可能要变成qq14了？",
       "tid": 47343869,
       "link": "https://bbs.nga.cn/read.php?tid=47343869",
@@ -247,35 +255,27 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥氵]惊喜蛋我好恨你",
-      "tid": 46756833,
-      "link": "https://bbs.nga.cn/read.php?tid=46756833",
-      "replies": 53,
-      "author": "#anony_c8f6fc104f7d28008922848ab7b3f449",
-      "lastPost": 0
-    },
-    {
-      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
-      "tid": 47333000,
-      "link": "https://bbs.nga.cn/read.php?tid=47333000",
-      "replies": 52,
-      "author": "永恒绽放之花",
-      "lastPost": 0
-    },
-    {
-      "title": "剑导那1500个赞正常要多久才能获得啊",
-      "tid": 47347092,
-      "link": "https://bbs.nga.cn/read.php?tid=47347092",
-      "replies": 50,
-      "author": "御坂13023",
-      "lastPost": 0
-    },
-    {
       "title": "[贷款]已经能想到驯兽师应该是比无人岛还无聊的东西",
       "tid": 47344408,
       "link": "https://bbs.nga.cn/read.php?tid=47344408",
-      "replies": 44,
+      "replies": 50,
       "author": "黑尾铁朗",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 休想将我们拒之门外——基拉巴尼亚湖区，沉默神殿斯卡拉遗迹",
+      "tid": 47334369,
+      "link": "https://bbs.nga.cn/read.php?tid=47334369",
+      "replies": 46,
+      "author": "雪夜来信",
+      "lastPost": 0
+    },
+    {
+      "title": "[钓鱼抽奖氵] 金曦之鳞达成，抽一瓶洗澡水",
+      "tid": 47347875,
+      "link": "https://bbs.nga.cn/read.php?tid=47347875",
+      "replies": 45,
+      "author": "Sun&Sky",
       "lastPost": 0
     },
     {
@@ -287,11 +287,11 @@
       "lastPost": 0
     },
     {
-      "title": "[钓鱼抽奖氵] 金曦之鳞达成，抽一瓶洗澡水",
-      "tid": 47347875,
-      "link": "https://bbs.nga.cn/read.php?tid=47347875",
-      "replies": 43,
-      "author": "Sun&Sky",
+      "title": "新月岛真的好无聊",
+      "tid": 47347874,
+      "link": "https://bbs.nga.cn/read.php?tid=47347874",
+      "replies": 37,
+      "author": "小鸡毛的小白",
       "lastPost": 0
     },
     {
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
-      "title": "新月岛真的好无聊",
-      "tid": 47347874,
-      "link": "https://bbs.nga.cn/read.php?tid=47347874",
-      "replies": 32,
-      "author": "小鸡毛的小白",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 我看6.0之成长的寓言：古代世界与镜像阶段",
       "tid": 47270837,
       "link": "https://bbs.nga.cn/read.php?tid=47270837",
       "replies": 28,
       "author": "朵法米",
+      "lastPost": 0
+    },
+    {
+      "title": "非常担心自己履历会被人说履历欺诈该怎么办",
+      "tid": 47342210,
+      "link": "https://bbs.nga.cn/read.php?tid=47342210",
+      "replies": 25,
+      "author": "终末之歌",
       "lastPost": 0
     }
   ]
