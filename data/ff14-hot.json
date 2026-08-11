@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-11T22:33:13.195Z",
+  "lastUpdated": "2026-08-11T23:31:01.731Z",
   "count": 20,
   "posts": [
     {
@@ -74,14 +74,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46020663",
       "replies": 104,
       "author": "人活着就是为了说怪话",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴]从0开始的探索笔记",
-      "tid": 40796941,
-      "link": "https://bbs.nga.cn/read.php?tid=40796941",
-      "replies": 76,
-      "author": "゛木楠瓜、",
       "lastPost": 0
     },
     {
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47301069",
       "replies": 37,
       "author": "桐某人",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 我是最后一个知道的吗？",
+      "tid": 47349069,
+      "link": "https://bbs.nga.cn/read.php?tid=47349069",
+      "replies": 22,
+      "author": "pizza999",
       "lastPost": 0
     }
   ],
@@ -239,14 +239,6 @@
       "lastPost": 0
     },
     {
-      "title": "[记录贴]从0开始的探索笔记",
-      "tid": 40796941,
-      "link": "https://bbs.nga.cn/read.php?tid=40796941",
-      "replies": 76,
-      "author": "゛木楠瓜、",
-      "lastPost": 0
-    },
-    {
       "title": "这游戏到底有没有roll点挂",
       "tid": 47322243,
       "link": "https://bbs.nga.cn/read.php?tid=47322243",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47301069",
       "replies": 37,
       "author": "桐某人",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 我是最后一个知道的吗？",
+      "tid": 47349069,
+      "link": "https://bbs.nga.cn/read.php?tid=47349069",
+      "replies": 22,
+      "author": "pizza999",
       "lastPost": 0
     }
   ]
