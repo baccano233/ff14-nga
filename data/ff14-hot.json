@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-13T17:26:25.824Z",
+  "lastUpdated": "2026-08-13T18:24:37.770Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[安科] 我们仍未知道那天在边狱所看到的固定队的名字",
-      "tid": 30764080,
-      "link": "https://bbs.nga.cn/read.php?tid=30764080",
-      "replies": 27832,
-      "author": "用爱感化加雷马",
-      "lastPost": 0
-    },
     {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
@@ -77,19 +69,19 @@
       "lastPost": 0
     },
     {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 202,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
       "replies": 187,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 144,
+      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -162,19 +154,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=45803928",
       "replies": 50,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 胡乱水一贴，其实我感觉缇姨的分店方向是完全错误的这是可以说的吗？",
+      "tid": 47231348,
+      "link": "https://bbs.nga.cn/read.php?tid=47231348",
+      "replies": 43,
+      "author": "司天紫成",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[安科] 我们仍未知道那天在边狱所看到的固定队的名字",
-      "tid": 30764080,
-      "link": "https://bbs.nga.cn/read.php?tid=30764080",
-      "replies": 27832,
-      "author": "用爱感化加雷马",
-      "lastPost": 0
-    },
-    {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
@@ -239,19 +231,19 @@
       "lastPost": 0
     },
     {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 202,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
       "replies": 187,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 144,
+      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=45803928",
       "replies": 50,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 胡乱水一贴，其实我感觉缇姨的分店方向是完全错误的这是可以说的吗？",
+      "tid": 47231348,
+      "link": "https://bbs.nga.cn/read.php?tid=47231348",
+      "replies": 43,
+      "author": "司天紫成",
       "lastPost": 0
     }
   ]
