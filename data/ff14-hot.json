@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-13T09:37:53.143Z",
+  "lastUpdated": "2026-08-13T10:54:27.115Z",
   "count": 20,
   "posts": [
     {
@@ -16,7 +16,7 @@
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1142,
+      "replies": 1143,
       "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
@@ -40,7 +40,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 449,
+      "replies": 450,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -56,7 +56,7 @@
       "title": "[导随记录]终于 可以在狗区开导！",
       "tid": 37486120,
       "link": "https://bbs.nga.cn/read.php?tid=37486120",
-      "replies": 237,
+      "replies": 238,
       "author": "等铭天过后",
       "lastPost": 0
     },
@@ -72,7 +72,7 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 185,
+      "replies": 186,
       "author": "原本平凡",
       "lastPost": 0
     },
@@ -104,8 +104,16 @@
       "title": "(普通塔黑泥氵)求求补正不高的切点辅助诗人吧",
       "tid": 47353110,
       "link": "https://bbs.nga.cn/read.php?tid=47353110",
-      "replies": 72,
+      "replies": 73,
       "author": "噗喵",
+      "lastPost": 0
+    },
+    {
+      "title": "[剧情讨论]6.0的一些争议论点讨论",
+      "tid": 47351109,
+      "link": "https://bbs.nga.cn/read.php?tid=47351109",
+      "replies": 67,
+      "author": "朵法米",
       "lastPost": 0
     },
     {
@@ -114,22 +122,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47236194",
       "replies": 67,
       "author": "枕杜记",
-      "lastPost": 0
-    },
-    {
-      "title": "[剧情讨论]6.0的一些争议论点讨论",
-      "tid": 47351109,
-      "link": "https://bbs.nga.cn/read.php?tid=47351109",
-      "replies": 65,
-      "author": "朵法米",
-      "lastPost": 0
-    },
-    {
-      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
-      "tid": 47333000,
-      "link": "https://bbs.nga.cn/read.php?tid=47333000",
-      "replies": 55,
-      "author": "永恒绽放之花",
       "lastPost": 0
     },
     {
@@ -149,10 +141,18 @@
       "lastPost": 0
     },
     {
+      "title": "[BUG收集] BUG反馈集中楼",
+      "tid": 45803928,
+      "link": "https://bbs.nga.cn/read.php?tid=45803928",
+      "replies": 50,
+      "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
       "title": "想要长久玩下去，是不是一定需要有人一起玩？",
       "tid": 47351312,
       "link": "https://bbs.nga.cn/read.php?tid=47351312",
-      "replies": 43,
+      "replies": 47,
       "author": "#anony_c7d14618cb7aa6da6a315afdc7b7f1d3",
       "lastPost": 0
     },
@@ -178,7 +178,7 @@
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
-      "replies": 1142,
+      "replies": 1143,
       "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
@@ -202,7 +202,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 449,
+      "replies": 450,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -218,7 +218,7 @@
       "title": "[导随记录]终于 可以在狗区开导！",
       "tid": 37486120,
       "link": "https://bbs.nga.cn/read.php?tid=37486120",
-      "replies": 237,
+      "replies": 238,
       "author": "等铭天过后",
       "lastPost": 0
     },
@@ -234,7 +234,7 @@
       "title": "为啥法系职业之间总有很多争议",
       "tid": 47334749,
       "link": "https://bbs.nga.cn/read.php?tid=47334749",
-      "replies": 185,
+      "replies": 186,
       "author": "原本平凡",
       "lastPost": 0
     },
@@ -266,8 +266,16 @@
       "title": "(普通塔黑泥氵)求求补正不高的切点辅助诗人吧",
       "tid": 47353110,
       "link": "https://bbs.nga.cn/read.php?tid=47353110",
-      "replies": 72,
+      "replies": 73,
       "author": "噗喵",
+      "lastPost": 0
+    },
+    {
+      "title": "[剧情讨论]6.0的一些争议论点讨论",
+      "tid": 47351109,
+      "link": "https://bbs.nga.cn/read.php?tid=47351109",
+      "replies": 67,
+      "author": "朵法米",
       "lastPost": 0
     },
     {
@@ -276,22 +284,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47236194",
       "replies": 67,
       "author": "枕杜记",
-      "lastPost": 0
-    },
-    {
-      "title": "[剧情讨论]6.0的一些争议论点讨论",
-      "tid": 47351109,
-      "link": "https://bbs.nga.cn/read.php?tid=47351109",
-      "replies": 65,
-      "author": "朵法米",
-      "lastPost": 0
-    },
-    {
-      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
-      "tid": 47333000,
-      "link": "https://bbs.nga.cn/read.php?tid=47333000",
-      "replies": 55,
-      "author": "永恒绽放之花",
       "lastPost": 0
     },
     {
@@ -311,10 +303,18 @@
       "lastPost": 0
     },
     {
+      "title": "[BUG收集] BUG反馈集中楼",
+      "tid": 45803928,
+      "link": "https://bbs.nga.cn/read.php?tid=45803928",
+      "replies": 50,
+      "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
       "title": "想要长久玩下去，是不是一定需要有人一起玩？",
       "tid": 47351312,
       "link": "https://bbs.nga.cn/read.php?tid=47351312",
-      "replies": 43,
+      "replies": 47,
       "author": "#anony_c7d14618cb7aa6da6a315afdc7b7f1d3",
       "lastPost": 0
     },
