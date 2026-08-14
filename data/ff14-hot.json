@@ -1,22 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-14T20:01:33.803Z",
+  "lastUpdated": "2026-08-14T20:53:58.746Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
-      "tid": 22986048,
-      "link": "https://bbs.nga.cn/read.php?tid=22986048",
-      "replies": 1341,
-      "author": "阿布evo",
-      "lastPost": 0
-    },
     {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 806,
+      "replies": 817,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -48,7 +40,7 @@
       "title": "剑导那1500个赞正常要多久才能获得啊",
       "tid": 47347092,
       "link": "https://bbs.nga.cn/read.php?tid=47347092",
-      "replies": 85,
+      "replies": 86,
       "author": "御坂13023",
       "lastPost": 0
     },
@@ -136,7 +128,7 @@
       "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
       "tid": 47373398,
       "link": "https://bbs.nga.cn/read.php?tid=47373398",
-      "replies": 32,
+      "replies": 33,
       "author": "mickeyli",
       "lastPost": 0
     },
@@ -144,8 +136,16 @@
       "title": "[闲聊杂谈] 近日开荒绝ed有感 “年轻时以为年纪大只是借口，现如今还真是力不从心",
       "tid": 47370042,
       "link": "https://bbs.nga.cn/read.php?tid=47370042",
-      "replies": 31,
+      "replies": 32,
       "author": "你是想和我耍蛇？",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
+      "tid": 47372868,
+      "link": "https://bbs.nga.cn/read.php?tid=47372868",
+      "replies": 29,
+      "author": "繁星之愿",
       "lastPost": 0
     },
     {
@@ -157,28 +157,20 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
-      "tid": 47372868,
-      "link": "https://bbs.nga.cn/read.php?tid=47372868",
+      "title": "我觉得版面上跟某个话题有关的帖子这么多是因为大家甚至没办法直接讨论",
+      "tid": 47372243,
+      "link": "https://bbs.nga.cn/read.php?tid=47372243",
       "replies": 28,
-      "author": "繁星之愿",
+      "author": "江早寒",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
-      "tid": 22986048,
-      "link": "https://bbs.nga.cn/read.php?tid=22986048",
-      "replies": 1341,
-      "author": "阿布evo",
-      "lastPost": 0
-    },
-    {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 806,
+      "replies": 817,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -210,7 +202,7 @@
       "title": "剑导那1500个赞正常要多久才能获得啊",
       "tid": 47347092,
       "link": "https://bbs.nga.cn/read.php?tid=47347092",
-      "replies": 85,
+      "replies": 86,
       "author": "御坂13023",
       "lastPost": 0
     },
@@ -298,7 +290,7 @@
       "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
       "tid": 47373398,
       "link": "https://bbs.nga.cn/read.php?tid=47373398",
-      "replies": 32,
+      "replies": 33,
       "author": "mickeyli",
       "lastPost": 0
     },
@@ -306,8 +298,16 @@
       "title": "[闲聊杂谈] 近日开荒绝ed有感 “年轻时以为年纪大只是借口，现如今还真是力不从心",
       "tid": 47370042,
       "link": "https://bbs.nga.cn/read.php?tid=47370042",
-      "replies": 31,
+      "replies": 32,
       "author": "你是想和我耍蛇？",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
+      "tid": 47372868,
+      "link": "https://bbs.nga.cn/read.php?tid=47372868",
+      "replies": 29,
+      "author": "繁星之愿",
       "lastPost": 0
     },
     {
@@ -319,11 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
-      "tid": 47372868,
-      "link": "https://bbs.nga.cn/read.php?tid=47372868",
+      "title": "我觉得版面上跟某个话题有关的帖子这么多是因为大家甚至没办法直接讨论",
+      "tid": 47372243,
+      "link": "https://bbs.nga.cn/read.php?tid=47372243",
       "replies": 28,
-      "author": "繁星之愿",
+      "author": "江早寒",
       "lastPost": 0
     }
   ]
