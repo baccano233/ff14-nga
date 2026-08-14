@@ -1,25 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-14T16:12:01.008Z",
+  "lastUpdated": "2026-08-14T17:24:04.070Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3579,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2964,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
     {
       "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
       "tid": 22986048,
@@ -40,7 +24,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 739,
+      "replies": 770,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -53,19 +37,19 @@
       "lastPost": 0
     },
     {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 385,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[国服剧情讨论] [有剧透] [记录]自己对古代人的评价(内含主观暴言慎入)",
       "tid": 44159644,
       "link": "https://bbs.nga.cn/read.php?tid=44159644",
       "replies": 219,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
-      "tid": 45750820,
-      "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 145,
-      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -109,6 +93,14 @@
       "lastPost": 0
     },
     {
+      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
+      "tid": 47333000,
+      "link": "https://bbs.nga.cn/read.php?tid=47333000",
+      "replies": 56,
+      "author": "永恒绽放之花",
+      "lastPost": 0
+    },
+    {
       "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
       "tid": 46681516,
       "link": "https://bbs.nga.cn/read.php?tid=46681516",
@@ -133,6 +125,14 @@
       "lastPost": 0
     },
     {
+      "title": "新月岛悬浮窗：预报罐子、监控会掉落特定半魂晶的fate/ce等",
+      "tid": 47249856,
+      "link": "https://bbs.nga.cn/read.php?tid=47249856",
+      "replies": 45,
+      "author": "黑川啓太",
+      "lastPost": 0
+    },
+    {
       "title": "啊不是 北岛CE真的有新月首饰掉落吗？",
       "tid": 47365011,
       "link": "https://bbs.nga.cn/read.php?tid=47365011",
@@ -149,40 +149,24 @@
       "lastPost": 0
     },
     {
+      "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
+      "tid": 47373398,
+      "link": "https://bbs.nga.cn/read.php?tid=47373398",
+      "replies": 28,
+      "author": "mickeyli",
+      "lastPost": 0
+    },
+    {
       "title": "我觉得版面上跟某个话题有关的帖子这么多是因为大家甚至没办法直接讨论",
       "tid": 47372243,
       "link": "https://bbs.nga.cn/read.php?tid=47372243",
       "replies": 28,
       "author": "江早寒",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 近日开荒绝ed有感 “年轻时以为年纪大只是借口，现如今还真是力不从心",
-      "tid": 47370042,
-      "link": "https://bbs.nga.cn/read.php?tid=47370042",
-      "replies": 28,
-      "author": "你是想和我耍蛇？",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3579,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2964,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
-    {
       "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
       "tid": 22986048,
       "link": "https://bbs.nga.cn/read.php?tid=22986048",
@@ -202,7 +186,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 739,
+      "replies": 770,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -215,19 +199,19 @@
       "lastPost": 0
     },
     {
+      "title": "[记录]狒相关乱七八糟的综合记录",
+      "tid": 45996085,
+      "link": "https://bbs.nga.cn/read.php?tid=45996085",
+      "replies": 385,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[国服剧情讨论] [有剧透] [记录]自己对古代人的评价(内含主观暴言慎入)",
       "tid": 44159644,
       "link": "https://bbs.nga.cn/read.php?tid=44159644",
       "replies": 219,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
-      "tid": 45750820,
-      "link": "https://bbs.nga.cn/read.php?tid=45750820",
-      "replies": 145,
-      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -271,6 +255,14 @@
       "lastPost": 0
     },
     {
+      "title": "评价绝本履历，哪些维度有含金量，哪些维度没有含金量",
+      "tid": 47333000,
+      "link": "https://bbs.nga.cn/read.php?tid=47333000",
+      "replies": 56,
+      "author": "永恒绽放之花",
+      "lastPost": 0
+    },
+    {
       "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
       "tid": 46681516,
       "link": "https://bbs.nga.cn/read.php?tid=46681516",
@@ -295,6 +287,14 @@
       "lastPost": 0
     },
     {
+      "title": "新月岛悬浮窗：预报罐子、监控会掉落特定半魂晶的fate/ce等",
+      "tid": 47249856,
+      "link": "https://bbs.nga.cn/read.php?tid=47249856",
+      "replies": 45,
+      "author": "黑川啓太",
+      "lastPost": 0
+    },
+    {
       "title": "啊不是 北岛CE真的有新月首饰掉落吗？",
       "tid": 47365011,
       "link": "https://bbs.nga.cn/read.php?tid=47365011",
@@ -311,19 +311,19 @@
       "lastPost": 0
     },
     {
+      "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
+      "tid": 47373398,
+      "link": "https://bbs.nga.cn/read.php?tid=47373398",
+      "replies": 28,
+      "author": "mickeyli",
+      "lastPost": 0
+    },
+    {
       "title": "我觉得版面上跟某个话题有关的帖子这么多是因为大家甚至没办法直接讨论",
       "tid": 47372243,
       "link": "https://bbs.nga.cn/read.php?tid=47372243",
       "replies": 28,
       "author": "江早寒",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 近日开荒绝ed有感 “年轻时以为年纪大只是借口，现如今还真是力不从心",
-      "tid": 47370042,
-      "link": "https://bbs.nga.cn/read.php?tid=47370042",
-      "replies": 28,
-      "author": "你是想和我耍蛇？",
       "lastPost": 0
     }
   ]
