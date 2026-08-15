@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-15T18:53:34.001Z",
+  "lastUpdated": "2026-08-15T19:15:12.402Z",
   "count": 20,
   "posts": [
     {
@@ -10,6 +10,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
       "replies": 2965,
       "author": "芝芝01111",
+      "lastPost": 0
+    },
+    {
+      "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
+      "tid": 22986048,
+      "link": "https://bbs.nga.cn/read.php?tid=22986048",
+      "replies": 1342,
+      "author": "阿布evo",
       "lastPost": 0
     },
     {
@@ -24,7 +32,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1111,
+      "replies": 1112,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -80,7 +88,7 @@
       "title": "非挂人 法系：远敏：近战：tn 的犯错比例多少为合理区间？ 或者说“皇帝位”有没有“压力”别人的资格？",
       "tid": 46293464,
       "link": "https://bbs.nga.cn/read.php?tid=46293464",
-      "replies": 86,
+      "replies": 87,
       "author": "非遗轻创",
       "lastPost": 0
     },
@@ -149,19 +157,11 @@
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 现在才开始补无人岛，请问大佬们有从0开始的攻略或技巧吗？",
-      "tid": 47374535,
-      "link": "https://bbs.nga.cn/read.php?tid=47374535",
-      "replies": 23,
-      "author": "肥洛特",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问]速刷普通魔之塔推荐用什么红色职业呢",
-      "tid": 47348739,
-      "link": "https://bbs.nga.cn/read.php?tid=47348739",
-      "replies": 21,
-      "author": "啥都不懂来瞎混",
+      "title": "[幻想科技][mod][字体] MI SANS字体 + 战斗字体补充包",
+      "tid": 46838342,
+      "link": "https://bbs.nga.cn/read.php?tid=46838342",
+      "replies": 26,
+      "author": "猫作鬼记",
       "lastPost": 0
     }
   ],
@@ -175,6 +175,14 @@
       "lastPost": 0
     },
     {
+      "title": "[翻译错误反馈] 国服翻译问题错误集中反馈贴",
+      "tid": 22986048,
+      "link": "https://bbs.nga.cn/read.php?tid=22986048",
+      "replies": 1342,
+      "author": "阿布evo",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -186,7 +194,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1111,
+      "replies": 1112,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -242,7 +250,7 @@
       "title": "非挂人 法系：远敏：近战：tn 的犯错比例多少为合理区间？ 或者说“皇帝位”有没有“压力”别人的资格？",
       "tid": 46293464,
       "link": "https://bbs.nga.cn/read.php?tid=46293464",
-      "replies": 86,
+      "replies": 87,
       "author": "非遗轻创",
       "lastPost": 0
     },
@@ -311,19 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 现在才开始补无人岛，请问大佬们有从0开始的攻略或技巧吗？",
-      "tid": 47374535,
-      "link": "https://bbs.nga.cn/read.php?tid=47374535",
-      "replies": 23,
-      "author": "肥洛特",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问]速刷普通魔之塔推荐用什么红色职业呢",
-      "tid": 47348739,
-      "link": "https://bbs.nga.cn/read.php?tid=47348739",
-      "replies": 21,
-      "author": "啥都不懂来瞎混",
+      "title": "[幻想科技][mod][字体] MI SANS字体 + 战斗字体补充包",
+      "tid": 46838342,
+      "link": "https://bbs.nga.cn/read.php?tid=46838342",
+      "replies": 26,
+      "author": "猫作鬼记",
       "lastPost": 0
     }
   ]
