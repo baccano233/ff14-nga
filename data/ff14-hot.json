@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-15T13:49:20.382Z",
+  "lastUpdated": "2026-08-15T14:13:24.391Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[幻想科技] 装修小工具",
-      "tid": 32454160,
-      "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1366,
-      "author": "狗头肥肥",
-      "lastPost": 0
-    },
     {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
@@ -24,7 +16,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1072,
+      "replies": 1074,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -101,18 +93,10 @@
       "lastPost": 0
     },
     {
-      "title": "[闲聊杂谈]pvp是不是有挂",
-      "tid": 47343111,
-      "link": "https://bbs.nga.cn/read.php?tid=47343111",
-      "replies": 53,
-      "author": "AL_TY",
-      "lastPost": 0
-    },
-    {
       "title": "经常打战场的人现在还怕踩到侍吗",
       "tid": 47374627,
       "link": "https://bbs.nga.cn/read.php?tid=47374627",
-      "replies": 50,
+      "replies": 51,
       "author": "AccFRE",
       "lastPost": 0
     },
@@ -162,19 +146,27 @@
       "link": "https://bbs.nga.cn/read.php?tid=46648459",
       "replies": 36,
       "author": "LKshij",
+      "lastPost": 0
+    },
+    {
+      "title": "[寻人]找到了！",
+      "tid": 47378401,
+      "link": "https://bbs.nga.cn/read.php?tid=47378401",
+      "replies": 35,
+      "author": "用心做粥",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机黑魔占。",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 30,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[幻想科技] 装修小工具",
-      "tid": 32454160,
-      "link": "https://bbs.nga.cn/read.php?tid=32454160",
-      "replies": 1366,
-      "author": "狗头肥肥",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -186,7 +178,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1072,
+      "replies": 1074,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -263,18 +255,10 @@
       "lastPost": 0
     },
     {
-      "title": "[闲聊杂谈]pvp是不是有挂",
-      "tid": 47343111,
-      "link": "https://bbs.nga.cn/read.php?tid=47343111",
-      "replies": 53,
-      "author": "AL_TY",
-      "lastPost": 0
-    },
-    {
       "title": "经常打战场的人现在还怕踩到侍吗",
       "tid": 47374627,
       "link": "https://bbs.nga.cn/read.php?tid=47374627",
-      "replies": 50,
+      "replies": 51,
       "author": "AccFRE",
       "lastPost": 0
     },
@@ -324,6 +308,22 @@
       "link": "https://bbs.nga.cn/read.php?tid=46648459",
       "replies": 36,
       "author": "LKshij",
+      "lastPost": 0
+    },
+    {
+      "title": "[寻人]找到了！",
+      "tid": 47378401,
+      "link": "https://bbs.nga.cn/read.php?tid=47378401",
+      "replies": 35,
+      "author": "用心做粥",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机黑魔占。",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 30,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     }
   ]
