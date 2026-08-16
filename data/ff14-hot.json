@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-16T07:07:13.776Z",
+  "lastUpdated": "2026-08-16T07:51:39.422Z",
   "count": 20,
   "posts": [
     {
@@ -16,7 +16,7 @@
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3580,
+      "replies": 3581,
       "author": "作恶的杏子",
       "lastPost": 0
     },
@@ -40,7 +40,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1132,
+      "replies": 1135,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -88,7 +88,7 @@
       "title": "经常打战场的人现在还怕踩到侍吗",
       "tid": 47374627,
       "link": "https://bbs.nga.cn/read.php?tid=47374627",
-      "replies": 61,
+      "replies": 62,
       "author": "AccFRE",
       "lastPost": 0
     },
@@ -96,7 +96,7 @@
       "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
       "tid": 47372868,
       "link": "https://bbs.nga.cn/read.php?tid=47372868",
-      "replies": 56,
+      "replies": 58,
       "author": "繁星之愿",
       "lastPost": 0
     },
@@ -109,19 +109,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴]你不要把固定队打法带到野队来",
+      "tid": 47381423,
+      "link": "https://bbs.nga.cn/read.php?tid=47381423",
+      "replies": 42,
+      "author": "Kuugo",
+      "lastPost": 0
+    },
+    {
       "title": "啊不是 北岛CE真的有新月首饰掉落吗？",
       "tid": 47365011,
       "link": "https://bbs.nga.cn/read.php?tid=47365011",
       "replies": 41,
       "author": "泽拉托尔",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]你不要把固定队打法带到野队来",
-      "tid": 47381423,
-      "link": "https://bbs.nga.cn/read.php?tid=47381423",
-      "replies": 35,
-      "author": "Kuugo",
       "lastPost": 0
     },
     {
@@ -144,8 +144,16 @@
       "title": "那个犯错系数统计你们不觉得很神秘吗",
       "tid": 47381199,
       "link": "https://bbs.nga.cn/read.php?tid=47381199",
-      "replies": 29,
+      "replies": 31,
       "author": "catfish-",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机黑魔占。",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 31,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47378178",
       "replies": 28,
       "author": "血色气球鱼",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 现在才开始补无人岛，请问大佬们有从0开始的攻略或技巧吗？",
-      "tid": 47374535,
-      "link": "https://bbs.nga.cn/read.php?tid=47374535",
-      "replies": 27,
-      "author": "肥洛特",
       "lastPost": 0
     }
   ],
@@ -178,7 +178,7 @@
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3580,
+      "replies": 3581,
       "author": "作恶的杏子",
       "lastPost": 0
     },
@@ -202,7 +202,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1132,
+      "replies": 1135,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -250,7 +250,7 @@
       "title": "经常打战场的人现在还怕踩到侍吗",
       "tid": 47374627,
       "link": "https://bbs.nga.cn/read.php?tid=47374627",
-      "replies": 61,
+      "replies": 62,
       "author": "AccFRE",
       "lastPost": 0
     },
@@ -258,7 +258,7 @@
       "title": "[氵一贴]有一说一吃C罗主播的瓜感觉莫名其妙的被踹了一脚",
       "tid": 47372868,
       "link": "https://bbs.nga.cn/read.php?tid=47372868",
-      "replies": 56,
+      "replies": 58,
       "author": "繁星之愿",
       "lastPost": 0
     },
@@ -271,19 +271,19 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴]你不要把固定队打法带到野队来",
+      "tid": 47381423,
+      "link": "https://bbs.nga.cn/read.php?tid=47381423",
+      "replies": 42,
+      "author": "Kuugo",
+      "lastPost": 0
+    },
+    {
       "title": "啊不是 北岛CE真的有新月首饰掉落吗？",
       "tid": 47365011,
       "link": "https://bbs.nga.cn/read.php?tid=47365011",
       "replies": 41,
       "author": "泽拉托尔",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]你不要把固定队打法带到野队来",
-      "tid": 47381423,
-      "link": "https://bbs.nga.cn/read.php?tid=47381423",
-      "replies": 35,
-      "author": "Kuugo",
       "lastPost": 0
     },
     {
@@ -306,8 +306,16 @@
       "title": "那个犯错系数统计你们不觉得很神秘吗",
       "tid": 47381199,
       "link": "https://bbs.nga.cn/read.php?tid=47381199",
-      "replies": 29,
+      "replies": 31,
       "author": "catfish-",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机黑魔占。",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 31,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47378178",
       "replies": 28,
       "author": "血色气球鱼",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 现在才开始补无人岛，请问大佬们有从0开始的攻略或技巧吗？",
-      "tid": 47374535,
-      "link": "https://bbs.nga.cn/read.php?tid=47374535",
-      "replies": 27,
-      "author": "肥洛特",
       "lastPost": 0
     }
   ]
