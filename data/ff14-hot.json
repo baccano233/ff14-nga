@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-17T09:31:54.189Z",
+  "lastUpdated": "2026-08-17T10:23:05.747Z",
   "count": 20,
   "posts": [
     {
@@ -16,7 +16,7 @@
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1399,
+      "replies": 1401,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -24,7 +24,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1264,
+      "replies": 1268,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -40,7 +40,7 @@
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 1011,
+      "replies": 1012,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -80,7 +80,7 @@
       "title": "[氵一贴] [避雷贴]一觉醒来怎么爆炸了我也来加个码",
       "tid": 47387490,
       "link": "https://bbs.nga.cn/read.php?tid=47387490",
-      "replies": 98,
+      "replies": 102,
       "author": "狐狸kaze",
       "lastPost": 0
     },
@@ -112,8 +112,16 @@
       "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
       "tid": 47373398,
       "link": "https://bbs.nga.cn/read.php?tid=47373398",
-      "replies": 55,
+      "replies": 58,
       "author": "mickeyli",
+      "lastPost": 0
+    },
+    {
+      "title": "这下是真是官方出背书了嘛",
+      "tid": 47387540,
+      "link": "https://bbs.nga.cn/read.php?tid=47387540",
+      "replies": 55,
+      "author": "Luv_letter96",
       "lastPost": 0
     },
     {
@@ -122,22 +130,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47381419",
       "replies": 54,
       "author": "已保存到手机相册",
-      "lastPost": 0
-    },
-    {
-      "title": "这下是真是官方出背书了嘛",
-      "tid": 47387540,
-      "link": "https://bbs.nga.cn/read.php?tid=47387540",
-      "replies": 52,
-      "author": "Luv_letter96",
-      "lastPost": 0
-    },
-    {
-      "title": "那个犯错系数统计你们不觉得很神秘吗",
-      "tid": 47381199,
-      "link": "https://bbs.nga.cn/read.php?tid=47381199",
-      "replies": 52,
-      "author": "catfish-",
       "lastPost": 0
     },
     {
@@ -154,6 +146,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47387095",
       "replies": 42,
       "author": "Polarmosh",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区]绝妖星P3开荒接受从零6=2 D1 D2 晚9-11休周四和日",
+      "tid": 47320319,
+      "link": "https://bbs.nga.cn/read.php?tid=47320319",
+      "replies": 41,
+      "author": "A-Rorua",
       "lastPost": 0
     },
     {
@@ -178,7 +178,7 @@
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1399,
+      "replies": 1401,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -186,7 +186,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1264,
+      "replies": 1268,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -202,7 +202,7 @@
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 1011,
+      "replies": 1012,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -242,7 +242,7 @@
       "title": "[氵一贴] [避雷贴]一觉醒来怎么爆炸了我也来加个码",
       "tid": 47387490,
       "link": "https://bbs.nga.cn/read.php?tid=47387490",
-      "replies": 98,
+      "replies": 102,
       "author": "狐狸kaze",
       "lastPost": 0
     },
@@ -274,8 +274,16 @@
       "title": "是我的错觉吗，新月岛现在好像相当的不喜欢组队了啊",
       "tid": 47373398,
       "link": "https://bbs.nga.cn/read.php?tid=47373398",
-      "replies": 55,
+      "replies": 58,
       "author": "mickeyli",
+      "lastPost": 0
+    },
+    {
+      "title": "这下是真是官方出背书了嘛",
+      "tid": 47387540,
+      "link": "https://bbs.nga.cn/read.php?tid=47387540",
+      "replies": 55,
+      "author": "Luv_letter96",
       "lastPost": 0
     },
     {
@@ -284,22 +292,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47381419",
       "replies": 54,
       "author": "已保存到手机相册",
-      "lastPost": 0
-    },
-    {
-      "title": "这下是真是官方出背书了嘛",
-      "tid": 47387540,
-      "link": "https://bbs.nga.cn/read.php?tid=47387540",
-      "replies": 52,
-      "author": "Luv_letter96",
-      "lastPost": 0
-    },
-    {
-      "title": "那个犯错系数统计你们不觉得很神秘吗",
-      "tid": 47381199,
-      "link": "https://bbs.nga.cn/read.php?tid=47381199",
-      "replies": 52,
-      "author": "catfish-",
       "lastPost": 0
     },
     {
@@ -316,6 +308,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47387095",
       "replies": 42,
       "author": "Polarmosh",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区]绝妖星P3开荒接受从零6=2 D1 D2 晚9-11休周四和日",
+      "tid": 47320319,
+      "link": "https://bbs.nga.cn/read.php?tid=47320319",
+      "replies": 41,
+      "author": "A-Rorua",
       "lastPost": 0
     },
     {
