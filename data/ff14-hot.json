@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-19T19:51:38.615Z",
+  "lastUpdated": "2026-08-19T20:17:19.919Z",
   "count": 20,
   "posts": [
     {
@@ -58,14 +58,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=10436564",
       "replies": 246,
       "author": "morgen",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.55鱼皇)",
-      "tid": 42310798,
-      "link": "https://bbs.nga.cn/read.php?tid=42310798",
-      "replies": 239,
-      "author": "闹钟钟",
       "lastPost": 0
     },
     {
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47276838",
       "replies": 23,
       "author": "ratarata",
+      "lastPost": 0
+    },
+    {
+      "title": "(妖星氵)如果野队算炼狱，那固定队算什么？",
+      "tid": 47228384,
+      "link": "https://bbs.nga.cn/read.php?tid=47228384",
+      "replies": 21,
+      "author": "kabul",
       "lastPost": 0
     }
   ],
@@ -223,14 +223,6 @@
       "lastPost": 0
     },
     {
-      "title": "[幻想书库] [采集] [钓鱼] [捕鱼人] 全版本全鱼王鱼皇大型攻略——7.0新技能的应用与革新(更新至7.55鱼皇)",
-      "tid": 42310798,
-      "link": "https://bbs.nga.cn/read.php?tid=42310798",
-      "replies": 239,
-      "author": "闹钟钟",
-      "lastPost": 0
-    },
-    {
       "title": "[闲聊杂谈] 关于100w交易限制、未来高难招募环境、国服特供游戏经济的矛盾",
       "tid": 47356290,
       "link": "https://bbs.nga.cn/read.php?tid=47356290",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47276838",
       "replies": 23,
       "author": "ratarata",
+      "lastPost": 0
+    },
+    {
+      "title": "(妖星氵)如果野队算炼狱，那固定队算什么？",
+      "tid": 47228384,
+      "link": "https://bbs.nga.cn/read.php?tid=47228384",
+      "replies": 21,
+      "author": "kabul",
       "lastPost": 0
     }
   ]
