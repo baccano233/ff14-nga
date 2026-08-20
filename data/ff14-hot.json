@@ -1,15 +1,23 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-20T09:57:36.975Z",
+  "lastUpdated": "2026-08-20T10:26:36.604Z",
   "count": 20,
   "posts": [
     {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1385,
+      "replies": 1387,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 开个帖子记录一下剧情",
+      "tid": 40038249,
+      "link": "https://bbs.nga.cn/read.php?tid=40038249",
+      "replies": 1153,
+      "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
     {
@@ -18,6 +26,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
       "replies": 472,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[国服剧情讨论] [有剧透] [记录]自己对古代人的评价(内含主观暴言慎入)",
+      "tid": 44159644,
+      "link": "https://bbs.nga.cn/read.php?tid=44159644",
+      "replies": 223,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -45,14 +61,6 @@
       "lastPost": 0
     },
     {
-      "title": "(普通塔黑泥氵)求求补正不高的切点辅助诗人吧",
-      "tid": 47353110,
-      "link": "https://bbs.nga.cn/read.php?tid=47353110",
-      "replies": 86,
-      "author": "噗喵",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] __的意志",
       "tid": 47390554,
       "link": "https://bbs.nga.cn/read.php?tid=47390554",
@@ -66,14 +74,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47367506",
       "replies": 73,
       "author": "Iceini",
-      "lastPost": 0
-    },
-    {
-      "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
-      "tid": 46778449,
-      "link": "https://bbs.nga.cn/read.php?tid=46778449",
-      "replies": 69,
-      "author": "天光老尽",
       "lastPost": 0
     },
     {
@@ -125,6 +125,22 @@
       "lastPost": 0
     },
     {
+      "title": "[黑泥氵] 非挂人 但我已经如此尝试避免神人召p进队还能被碰瓷吗",
+      "tid": 47407117,
+      "link": "https://bbs.nga.cn/read.php?tid=47407117",
+      "replies": 38,
+      "author": "冰奶茶丶",
+      "lastPost": 0
+    },
+    {
+      "title": "26年新生祭活动奖励出了",
+      "tid": 47406804,
+      "link": "https://bbs.nga.cn/read.php?tid=47406804",
+      "replies": 36,
+      "author": "olympic468",
+      "lastPost": 0
+    },
+    {
       "title": "我以为蹭岛是为了不和永久人一个岛这样打的快",
       "tid": 47399559,
       "link": "https://bbs.nga.cn/read.php?tid=47399559",
@@ -133,35 +149,19 @@
       "lastPost": 0
     },
     {
+      "title": "[剧情讨论] 我看6.0之成长的寓言：古代世界与镜像阶段",
+      "tid": 47270837,
+      "link": "https://bbs.nga.cn/read.php?tid=47270837",
+      "replies": 32,
+      "author": "朵法米",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 难道在任何地图喊话都可以完成周年喊话活动任务？测试中",
       "tid": 47393381,
       "link": "https://bbs.nga.cn/read.php?tid=47393381",
       "replies": 30,
       "author": "Effulgenta",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 已知21:9是“物理外挂”，那么",
-      "tid": 47400423,
-      "link": "https://bbs.nga.cn/read.php?tid=47400423",
-      "replies": 29,
-      "author": "lxxy3673",
-      "lastPost": 0
-    },
-    {
-      "title": "26年新生祭活动奖励出了",
-      "tid": 47406804,
-      "link": "https://bbs.nga.cn/read.php?tid=47406804",
-      "replies": 26,
-      "author": "olympic468",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵] 非挂人 但我已经如此尝试避免神人召p进队还能被碰瓷吗",
-      "tid": 47407117,
-      "link": "https://bbs.nga.cn/read.php?tid=47407117",
-      "replies": 25,
-      "author": "冰奶茶丶",
       "lastPost": 0
     }
   ],
@@ -170,8 +170,16 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1385,
+      "replies": 1387,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 开个帖子记录一下剧情",
+      "tid": 40038249,
+      "link": "https://bbs.nga.cn/read.php?tid=40038249",
+      "replies": 1153,
+      "author": "阿伊欧伊亚拉",
       "lastPost": 0
     },
     {
@@ -180,6 +188,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
       "replies": 472,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[国服剧情讨论] [有剧透] [记录]自己对古代人的评价(内含主观暴言慎入)",
+      "tid": 44159644,
+      "link": "https://bbs.nga.cn/read.php?tid=44159644",
+      "replies": 223,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -207,14 +223,6 @@
       "lastPost": 0
     },
     {
-      "title": "(普通塔黑泥氵)求求补正不高的切点辅助诗人吧",
-      "tid": 47353110,
-      "link": "https://bbs.nga.cn/read.php?tid=47353110",
-      "replies": 86,
-      "author": "噗喵",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] __的意志",
       "tid": 47390554,
       "link": "https://bbs.nga.cn/read.php?tid=47390554",
@@ -228,14 +236,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47367506",
       "replies": 73,
       "author": "Iceini",
-      "lastPost": 0
-    },
-    {
-      "title": "[R房破防氵]记录犭区鬼服留守老人R房日常",
-      "tid": 46778449,
-      "link": "https://bbs.nga.cn/read.php?tid=46778449",
-      "replies": 69,
-      "author": "天光老尽",
       "lastPost": 0
     },
     {
@@ -287,6 +287,22 @@
       "lastPost": 0
     },
     {
+      "title": "[黑泥氵] 非挂人 但我已经如此尝试避免神人召p进队还能被碰瓷吗",
+      "tid": 47407117,
+      "link": "https://bbs.nga.cn/read.php?tid=47407117",
+      "replies": 38,
+      "author": "冰奶茶丶",
+      "lastPost": 0
+    },
+    {
+      "title": "26年新生祭活动奖励出了",
+      "tid": 47406804,
+      "link": "https://bbs.nga.cn/read.php?tid=47406804",
+      "replies": 36,
+      "author": "olympic468",
+      "lastPost": 0
+    },
+    {
       "title": "我以为蹭岛是为了不和永久人一个岛这样打的快",
       "tid": 47399559,
       "link": "https://bbs.nga.cn/read.php?tid=47399559",
@@ -295,35 +311,19 @@
       "lastPost": 0
     },
     {
+      "title": "[剧情讨论] 我看6.0之成长的寓言：古代世界与镜像阶段",
+      "tid": 47270837,
+      "link": "https://bbs.nga.cn/read.php?tid=47270837",
+      "replies": 32,
+      "author": "朵法米",
+      "lastPost": 0
+    },
+    {
       "title": "[氵一贴] 难道在任何地图喊话都可以完成周年喊话活动任务？测试中",
       "tid": 47393381,
       "link": "https://bbs.nga.cn/read.php?tid=47393381",
       "replies": 30,
       "author": "Effulgenta",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 已知21:9是“物理外挂”，那么",
-      "tid": 47400423,
-      "link": "https://bbs.nga.cn/read.php?tid=47400423",
-      "replies": 29,
-      "author": "lxxy3673",
-      "lastPost": 0
-    },
-    {
-      "title": "26年新生祭活动奖励出了",
-      "tid": 47406804,
-      "link": "https://bbs.nga.cn/read.php?tid=47406804",
-      "replies": 26,
-      "author": "olympic468",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵] 非挂人 但我已经如此尝试避免神人召p进队还能被碰瓷吗",
-      "tid": 47407117,
-      "link": "https://bbs.nga.cn/read.php?tid=47407117",
-      "replies": 25,
-      "author": "冰奶茶丶",
       "lastPost": 0
     }
   ]
