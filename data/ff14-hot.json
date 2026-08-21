@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-21T19:44:57.305Z",
+  "lastUpdated": "2026-08-21T20:15:29.359Z",
   "count": 20,
   "posts": [
     {
@@ -42,6 +42,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=44159644",
       "replies": 223,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[新人安科] [自嗨安科][枪黑]鬼魂很少回家",
+      "tid": 43696129,
+      "link": "https://bbs.nga.cn/read.php?tid=43696129",
+      "replies": 153,
+      "author": "15984356172x",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47396710",
       "replies": 48,
       "author": "reno绫",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] FFTCG相关事件，请求关注，可能会连坐FF14",
-      "tid": 47387095,
-      "link": "https://bbs.nga.cn/read.php?tid=47387095",
-      "replies": 47,
-      "author": "Polarmosh",
       "lastPost": 0
     }
   ],
@@ -207,6 +207,14 @@
       "lastPost": 0
     },
     {
+      "title": "[新人安科] [自嗨安科][枪黑]鬼魂很少回家",
+      "tid": 43696129,
+      "link": "https://bbs.nga.cn/read.php?tid=43696129",
+      "replies": 153,
+      "author": "15984356172x",
+      "lastPost": 0
+    },
+    {
       "title": "[同人创作] 你可能不认识我但是你说不定看过我画的阿卡狄亚同人",
       "tid": 45073918,
       "link": "https://bbs.nga.cn/read.php?tid=45073918",
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47396710",
       "replies": 48,
       "author": "reno绫",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] FFTCG相关事件，请求关注，可能会连坐FF14",
-      "tid": 47387095,
-      "link": "https://bbs.nga.cn/read.php?tid=47387095",
-      "replies": 47,
-      "author": "Polarmosh",
       "lastPost": 0
     }
   ]
