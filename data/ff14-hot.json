@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-22T10:46:41.620Z",
+  "lastUpdated": "2026-08-22T11:12:43.541Z",
   "count": 20,
   "posts": [
     {
@@ -50,14 +50,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47411546",
       "replies": 135,
       "author": "Askture",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] __的意志",
-      "tid": 47390554,
-      "link": "https://bbs.nga.cn/read.php?tid=47390554",
-      "replies": 124,
-      "author": "Rhnull",
       "lastPost": 0
     },
     {
@@ -112,7 +104,7 @@
       "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
       "tid": 47413082,
       "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 54,
+      "replies": 55,
       "author": "炽焰之诗",
       "lastPost": 0
     },
@@ -120,8 +112,24 @@
       "title": "都在讨论代打，我有一个很好奇的问题",
       "tid": 47412287,
       "link": "https://bbs.nga.cn/read.php?tid=47412287",
-      "replies": 43,
+      "replies": 44,
       "author": "携风追月",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星绿玩清CD6=2 D3,D4，已清9周(含这周)",
+      "tid": 47319879,
+      "link": "https://bbs.nga.cn/read.php?tid=47319879",
+      "replies": 34,
+      "author": "2iY0n9",
+      "lastPost": 0
+    },
+    {
+      "title": "感觉7.0鱼皇鱼王难度调整了",
+      "tid": 47417981,
+      "link": "https://bbs.nga.cn/read.php?tid=47417981",
+      "replies": 23,
+      "author": "原本平凡",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47403139",
       "replies": 20,
       "author": "沙漠一只diao",
-      "lastPost": 0
-    },
-    {
-      "title": "感觉7.0鱼皇鱼王难度调整了",
-      "tid": 47417981,
-      "link": "https://bbs.nga.cn/read.php?tid=47417981",
-      "replies": 20,
-      "author": "原本平凡",
       "lastPost": 0
     }
   ],
@@ -215,14 +215,6 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] __的意志",
-      "tid": 47390554,
-      "link": "https://bbs.nga.cn/read.php?tid=47390554",
-      "replies": 124,
-      "author": "Rhnull",
-      "lastPost": 0
-    },
-    {
       "title": "[绝龙诗氵]我们真的不可以打一辈子固定队吗",
       "tid": 47169405,
       "link": "https://bbs.nga.cn/read.php?tid=47169405",
@@ -274,7 +266,7 @@
       "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
       "tid": 47413082,
       "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 54,
+      "replies": 55,
       "author": "炽焰之诗",
       "lastPost": 0
     },
@@ -282,8 +274,24 @@
       "title": "都在讨论代打，我有一个很好奇的问题",
       "tid": 47412287,
       "link": "https://bbs.nga.cn/read.php?tid=47412287",
-      "replies": 43,
+      "replies": 44,
       "author": "携风追月",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星绿玩清CD6=2 D3,D4，已清9周(含这周)",
+      "tid": 47319879,
+      "link": "https://bbs.nga.cn/read.php?tid=47319879",
+      "replies": 34,
+      "author": "2iY0n9",
+      "lastPost": 0
+    },
+    {
+      "title": "感觉7.0鱼皇鱼王难度调整了",
+      "tid": 47417981,
+      "link": "https://bbs.nga.cn/read.php?tid=47417981",
+      "replies": 23,
+      "author": "原本平凡",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47403139",
       "replies": 20,
       "author": "沙漠一只diao",
-      "lastPost": 0
-    },
-    {
-      "title": "感觉7.0鱼皇鱼王难度调整了",
-      "tid": 47417981,
-      "link": "https://bbs.nga.cn/read.php?tid=47417981",
-      "replies": 20,
-      "author": "原本平凡",
       "lastPost": 0
     }
   ]
