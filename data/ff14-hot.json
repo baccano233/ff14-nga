@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-23T15:43:52.957Z",
+  "lastUpdated": "2026-08-23T16:14:25.156Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6551,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
@@ -26,6 +18,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
       "replies": 1431,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1413,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -53,19 +53,11 @@
       "lastPost": 0
     },
     {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 205,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 锤芽从零开始的烟波记录",
-      "tid": 39024124,
-      "link": "https://bbs.nga.cn/read.php?tid=39024124",
-      "replies": 154,
-      "author": "eslgf",
+      "title": "[记录贴] 吸血鬼与绅士的奇妙冒险",
+      "tid": 44229958,
+      "link": "https://bbs.nga.cn/read.php?tid=44229958",
+      "replies": 132,
+      "author": "巧克力色波纹疾走",
       "lastPost": 0
     },
     {
@@ -146,6 +138,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47400327",
       "replies": 67,
       "author": "虾虾的球",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机占黑，一CD内清完",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 51,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     },
     {
@@ -167,14 +167,6 @@
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6551,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
       "tid": 38298599,
       "link": "https://bbs.nga.cn/read.php?tid=38298599",
@@ -188,6 +180,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
       "replies": 1431,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1413,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -215,19 +215,11 @@
       "lastPost": 0
     },
     {
-      "title": "[导随记录]易伤如巨石雨落下",
-      "tid": 45716863,
-      "link": "https://bbs.nga.cn/read.php?tid=45716863",
-      "replies": 205,
-      "author": "fangwild",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录贴] 锤芽从零开始的烟波记录",
-      "tid": 39024124,
-      "link": "https://bbs.nga.cn/read.php?tid=39024124",
-      "replies": 154,
-      "author": "eslgf",
+      "title": "[记录贴] 吸血鬼与绅士的奇妙冒险",
+      "tid": 44229958,
+      "link": "https://bbs.nga.cn/read.php?tid=44229958",
+      "replies": 132,
+      "author": "巧克力色波纹疾走",
       "lastPost": 0
     },
     {
@@ -308,6 +300,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47400327",
       "replies": 67,
       "author": "虾虾的球",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星+1队 7=1 招H2 晚8点开打，黑白骑蛇镰机占黑，一CD内清完",
+      "tid": 47236645,
+      "link": "https://bbs.nga.cn/read.php?tid=47236645",
+      "replies": 51,
+      "author": "Bns丶剑舞樱落",
       "lastPost": 0
     },
     {
