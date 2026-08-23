@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-23T22:45:01.190Z",
+  "lastUpdated": "2026-08-23T23:12:20.660Z",
   "count": 20,
   "posts": [
     {
@@ -26,14 +26,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=32328466",
       "replies": 1732,
       "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
-      "title": "揭露主播暨言千百回(青瓜)的真面目",
-      "tid": 47371934,
-      "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1431,
-      "author": "SarielyuiU",
       "lastPost": 0
     },
     {
@@ -88,7 +80,7 @@
       "title": "贴吧600多人投票狒狒练级最不舒服的职业",
       "tid": 47423696,
       "link": "https://bbs.nga.cn/read.php?tid=47423696",
-      "replies": 95,
+      "replies": 97,
       "author": "多汁公牛",
       "lastPost": 0
     },
@@ -96,7 +88,7 @@
       "title": "7.0这个肝武模式算不算最优解？",
       "tid": 47269073,
       "link": "https://bbs.nga.cn/read.php?tid=47269073",
-      "replies": 95,
+      "replies": 96,
       "author": "apeon",
       "lastPost": 0
     },
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
       "replies": 31,
       "author": "原型洛浦肯",
+      "lastPost": 0
+    },
+    {
+      "title": "[宇宙探索][社区数据分析]奥克塞西亚行星游玩体验调研 - 问卷数据公布及浅析(施工完毕)",
+      "tid": 47419808,
+      "link": "https://bbs.nga.cn/read.php?tid=47419808",
+      "replies": 24,
+      "author": "C.E.晴羽",
       "lastPost": 0
     }
   ],
@@ -191,14 +191,6 @@
       "lastPost": 0
     },
     {
-      "title": "揭露主播暨言千百回(青瓜)的真面目",
-      "tid": 47371934,
-      "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1431,
-      "author": "SarielyuiU",
-      "lastPost": 0
-    },
-    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -250,7 +242,7 @@
       "title": "贴吧600多人投票狒狒练级最不舒服的职业",
       "tid": 47423696,
       "link": "https://bbs.nga.cn/read.php?tid=47423696",
-      "replies": 95,
+      "replies": 97,
       "author": "多汁公牛",
       "lastPost": 0
     },
@@ -258,7 +250,7 @@
       "title": "7.0这个肝武模式算不算最优解？",
       "tid": 47269073,
       "link": "https://bbs.nga.cn/read.php?tid=47269073",
-      "replies": 95,
+      "replies": 96,
       "author": "apeon",
       "lastPost": 0
     },
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
       "replies": 31,
       "author": "原型洛浦肯",
+      "lastPost": 0
+    },
+    {
+      "title": "[宇宙探索][社区数据分析]奥克塞西亚行星游玩体验调研 - 问卷数据公布及浅析(施工完毕)",
+      "tid": 47419808,
+      "link": "https://bbs.nga.cn/read.php?tid=47419808",
+      "replies": 24,
+      "author": "C.E.晴羽",
       "lastPost": 0
     }
   ]
