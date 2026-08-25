@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-25T00:44:20.953Z",
+  "lastUpdated": "2026-08-25T02:14:32.801Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6554,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
     {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
@@ -16,7 +24,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1693,
+      "replies": 1711,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -64,7 +72,7 @@
       "title": "7.0这个肝武模式算不算最优解？",
       "tid": 47269073,
       "link": "https://bbs.nga.cn/read.php?tid=47269073",
-      "replies": 120,
+      "replies": 122,
       "author": "apeon",
       "lastPost": 0
     },
@@ -88,7 +96,7 @@
       "title": "[闲聊杂谈] 没人觉得FFLOGS已经影响游戏环境到了需要被处理的地步了吗",
       "tid": 47427513,
       "link": "https://bbs.nga.cn/read.php?tid=47427513",
-      "replies": 85,
+      "replies": 88,
       "author": "灯里里",
       "lastPost": 0
     },
@@ -96,7 +104,7 @@
       "title": "都在冲青瓜，那我们来回顾一下刘俊运营的精彩操作吧",
       "tid": 47432784,
       "link": "https://bbs.nga.cn/read.php?tid=47432784",
-      "replies": 80,
+      "replies": 84,
       "author": "sunller",
       "lastPost": 0
     },
@@ -112,7 +120,7 @@
       "title": "[举手提问] 请问搭幻化有什么技巧或底层逻辑",
       "tid": 47427745,
       "link": "https://bbs.nga.cn/read.php?tid=47427745",
-      "replies": 61,
+      "replies": 63,
       "author": "yolanda096",
       "lastPost": 0
     },
@@ -120,8 +128,16 @@
       "title": "[黑泥氵]感觉前排进度团不可避免的全是代打尼特团",
       "tid": 47432829,
       "link": "https://bbs.nga.cn/read.php?tid=47432829",
-      "replies": 54,
+      "replies": 60,
       "author": "#anony_21f53f6bfd63df5e893833a17e8d5bab",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星绿玩清CD6=2 D3,D4，已清9周(含这周)",
+      "tid": 47319879,
+      "link": "https://bbs.nga.cn/read.php?tid=47319879",
+      "replies": 53,
+      "author": "2iY0n9",
       "lastPost": 0
     },
     {
@@ -130,14 +146,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46624269",
       "replies": 49,
       "author": "永恆之槍",
-      "lastPost": 0
-    },
-    {
-      "title": "各位钓鱼人更讨厌那种鱼皇",
-      "tid": 47431982,
-      "link": "https://bbs.nga.cn/read.php?tid=47431982",
-      "replies": 45,
-      "author": "原本平凡",
       "lastPost": 0
     },
     {
@@ -154,19 +162,19 @@
       "link": "https://bbs.nga.cn/read.php?tid=47429454",
       "replies": 41,
       "author": "Arweiya",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 39,
-      "author": "异瞳之观测者",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
+      "tid": 34881695,
+      "link": "https://bbs.nga.cn/read.php?tid=34881695",
+      "replies": 6554,
+      "author": "正经竹子",
+      "lastPost": 0
+    },
+    {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
@@ -178,7 +186,7 @@
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 1693,
+      "replies": 1711,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -226,7 +234,7 @@
       "title": "7.0这个肝武模式算不算最优解？",
       "tid": 47269073,
       "link": "https://bbs.nga.cn/read.php?tid=47269073",
-      "replies": 120,
+      "replies": 122,
       "author": "apeon",
       "lastPost": 0
     },
@@ -250,7 +258,7 @@
       "title": "[闲聊杂谈] 没人觉得FFLOGS已经影响游戏环境到了需要被处理的地步了吗",
       "tid": 47427513,
       "link": "https://bbs.nga.cn/read.php?tid=47427513",
-      "replies": 85,
+      "replies": 88,
       "author": "灯里里",
       "lastPost": 0
     },
@@ -258,7 +266,7 @@
       "title": "都在冲青瓜，那我们来回顾一下刘俊运营的精彩操作吧",
       "tid": 47432784,
       "link": "https://bbs.nga.cn/read.php?tid=47432784",
-      "replies": 80,
+      "replies": 84,
       "author": "sunller",
       "lastPost": 0
     },
@@ -274,7 +282,7 @@
       "title": "[举手提问] 请问搭幻化有什么技巧或底层逻辑",
       "tid": 47427745,
       "link": "https://bbs.nga.cn/read.php?tid=47427745",
-      "replies": 61,
+      "replies": 63,
       "author": "yolanda096",
       "lastPost": 0
     },
@@ -282,8 +290,16 @@
       "title": "[黑泥氵]感觉前排进度团不可避免的全是代打尼特团",
       "tid": 47432829,
       "link": "https://bbs.nga.cn/read.php?tid=47432829",
-      "replies": 54,
+      "replies": 60,
       "author": "#anony_21f53f6bfd63df5e893833a17e8d5bab",
+      "lastPost": 0
+    },
+    {
+      "title": "[陆行鸟/鸟区] [跨大区] 绝妖星绿玩清CD6=2 D3,D4，已清9周(含这周)",
+      "tid": 47319879,
+      "link": "https://bbs.nga.cn/read.php?tid=47319879",
+      "replies": 53,
+      "author": "2iY0n9",
       "lastPost": 0
     },
     {
@@ -292,14 +308,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=46624269",
       "replies": 49,
       "author": "永恆之槍",
-      "lastPost": 0
-    },
-    {
-      "title": "各位钓鱼人更讨厌那种鱼皇",
-      "tid": 47431982,
-      "link": "https://bbs.nga.cn/read.php?tid=47431982",
-      "replies": 45,
-      "author": "原本平凡",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47429454",
       "replies": 41,
       "author": "Arweiya",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 39,
-      "author": "异瞳之观测者",
       "lastPost": 0
     }
   ]
