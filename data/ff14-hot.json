@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-25T23:46:14.836Z",
+  "lastUpdated": "2026-08-26T00:45:46.022Z",
   "count": 20,
   "posts": [
     {
@@ -37,14 +37,6 @@
       "lastPost": 0
     },
     {
-      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
-      "tid": 45719200,
-      "link": "https://bbs.nga.cn/read.php?tid=45719200",
-      "replies": 191,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[初次安科] [自嗨安科] 蓝职宿舍听说国服零式天狱要开了",
       "tid": 38141617,
       "link": "https://bbs.nga.cn/read.php?tid=38141617",
@@ -66,6 +58,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47432784",
       "replies": 134,
       "author": "sunller",
+      "lastPost": 0
+    },
+    {
+      "title": "[绝龙诗氵]我们真的不可以打一辈子固定队吗",
+      "tid": 47169405,
+      "link": "https://bbs.nga.cn/read.php?tid=47169405",
+      "replies": 120,
+      "author": "崎睇子",
       "lastPost": 0
     },
     {
@@ -112,8 +112,16 @@
       "title": "跨大区关闭之后的猪区给我气笑了",
       "tid": 47439630,
       "link": "https://bbs.nga.cn/read.php?tid=47439630",
-      "replies": 65,
+      "replies": 69,
       "author": "Kane_Cyin",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]虽然说和ff14无关，但是现在有一个你当小吉的机会，你会比小吉做的更好吗",
+      "tid": 47432185,
+      "link": "https://bbs.nga.cn/read.php?tid=47432185",
+      "replies": 57,
+      "author": "繁星之愿",
       "lastPost": 0
     },
     {
@@ -125,18 +133,10 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]虽然说和ff14无关，但是现在有一个你当小吉的机会，你会比小吉做的更好吗",
-      "tid": 47432185,
-      "link": "https://bbs.nga.cn/read.php?tid=47432185",
-      "replies": 56,
-      "author": "繁星之愿",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] FFTCG相关事件，请求关注，可能会连坐FF14",
       "tid": 47387095,
       "link": "https://bbs.nga.cn/read.php?tid=47387095",
-      "replies": 55,
+      "replies": 56,
       "author": "Polarmosh",
       "lastPost": 0
     },
@@ -199,14 +199,6 @@
       "lastPost": 0
     },
     {
-      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
-      "tid": 45719200,
-      "link": "https://bbs.nga.cn/read.php?tid=45719200",
-      "replies": 191,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "[初次安科] [自嗨安科] 蓝职宿舍听说国服零式天狱要开了",
       "tid": 38141617,
       "link": "https://bbs.nga.cn/read.php?tid=38141617",
@@ -228,6 +220,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47432784",
       "replies": 134,
       "author": "sunller",
+      "lastPost": 0
+    },
+    {
+      "title": "[绝龙诗氵]我们真的不可以打一辈子固定队吗",
+      "tid": 47169405,
+      "link": "https://bbs.nga.cn/read.php?tid=47169405",
+      "replies": 120,
+      "author": "崎睇子",
       "lastPost": 0
     },
     {
@@ -274,8 +274,16 @@
       "title": "跨大区关闭之后的猪区给我气笑了",
       "tid": 47439630,
       "link": "https://bbs.nga.cn/read.php?tid=47439630",
-      "replies": 65,
+      "replies": 69,
       "author": "Kane_Cyin",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]虽然说和ff14无关，但是现在有一个你当小吉的机会，你会比小吉做的更好吗",
+      "tid": 47432185,
+      "link": "https://bbs.nga.cn/read.php?tid=47432185",
+      "replies": 57,
+      "author": "繁星之愿",
       "lastPost": 0
     },
     {
@@ -287,18 +295,10 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴]虽然说和ff14无关，但是现在有一个你当小吉的机会，你会比小吉做的更好吗",
-      "tid": 47432185,
-      "link": "https://bbs.nga.cn/read.php?tid=47432185",
-      "replies": 56,
-      "author": "繁星之愿",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] FFTCG相关事件，请求关注，可能会连坐FF14",
       "tid": 47387095,
       "link": "https://bbs.nga.cn/read.php?tid=47387095",
-      "replies": 55,
+      "replies": 56,
       "author": "Polarmosh",
       "lastPost": 0
     },
