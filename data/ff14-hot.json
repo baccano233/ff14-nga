@@ -1,22 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-08-30T18:06:49.715Z",
+  "lastUpdated": "2026-08-30T21:17:59.029Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3605,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
     {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 3292,
+      "replies": 3294,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -45,10 +37,18 @@
       "lastPost": 0
     },
     {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 152,
+      "author": "不可思议魔法",
+      "lastPost": 0
+    },
+    {
       "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
       "tid": 47413082,
       "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 150,
+      "replies": 151,
       "author": "炽焰之诗",
       "lastPost": 0
     },
@@ -64,7 +64,7 @@
       "title": "刚看了DLSS5演示，太吊了，将来要是你游能支持的话，画质都不用升级了",
       "tid": 47457814,
       "link": "https://bbs.nga.cn/read.php?tid=47457814",
-      "replies": 100,
+      "replies": 103,
       "author": "guyingyi",
       "lastPost": 0
     },
@@ -72,7 +72,7 @@
       "title": "[氵一贴] [马鸟速报] 日本网友对这次代打封号事件的评价",
       "tid": 47458083,
       "link": "https://bbs.nga.cn/read.php?tid=47458083",
-      "replies": 94,
+      "replies": 95,
       "author": "wjy212",
       "lastPost": 0
     },
@@ -80,7 +80,7 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 78,
+      "replies": 79,
       "author": "原型洛浦肯",
       "lastPost": 0
     },
@@ -136,7 +136,7 @@
       "title": "大佬求问，角色不说话怎么办",
       "tid": 47428635,
       "link": "https://bbs.nga.cn/read.php?tid=47428635",
-      "replies": 30,
+      "replies": 31,
       "author": "阿董懂不懂",
       "lastPost": 0
     },
@@ -167,18 +167,10 @@
   ],
   "data": [
     {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3605,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
-    {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
-      "replies": 3292,
+      "replies": 3294,
       "author": "SarielyuiU",
       "lastPost": 0
     },
@@ -207,10 +199,18 @@
       "lastPost": 0
     },
     {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 152,
+      "author": "不可思议魔法",
+      "lastPost": 0
+    },
+    {
       "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
       "tid": 47413082,
       "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 150,
+      "replies": 151,
       "author": "炽焰之诗",
       "lastPost": 0
     },
@@ -226,7 +226,7 @@
       "title": "刚看了DLSS5演示，太吊了，将来要是你游能支持的话，画质都不用升级了",
       "tid": 47457814,
       "link": "https://bbs.nga.cn/read.php?tid=47457814",
-      "replies": 100,
+      "replies": 103,
       "author": "guyingyi",
       "lastPost": 0
     },
@@ -234,7 +234,7 @@
       "title": "[氵一贴] [马鸟速报] 日本网友对这次代打封号事件的评价",
       "tid": 47458083,
       "link": "https://bbs.nga.cn/read.php?tid=47458083",
-      "replies": 94,
+      "replies": 95,
       "author": "wjy212",
       "lastPost": 0
     },
@@ -242,7 +242,7 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 78,
+      "replies": 79,
       "author": "原型洛浦肯",
       "lastPost": 0
     },
@@ -298,7 +298,7 @@
       "title": "大佬求问，角色不说话怎么办",
       "tid": 47428635,
       "link": "https://bbs.nga.cn/read.php?tid=47428635",
-      "replies": 30,
+      "replies": 31,
       "author": "阿董懂不懂",
       "lastPost": 0
     },
