@@ -1,23 +1,23 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-03T17:23:52.047Z",
+  "lastUpdated": "2026-09-03T19:58:58.795Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6569,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
     {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
       "replies": 3662,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "基于弹道凝胶原理的灵魂水晶塞进O眼子测评",
+      "tid": 41529640,
+      "link": "https://bbs.nga.cn/read.php?tid=41529640",
+      "replies": 1945,
+      "author": "吞噬众神的咸鱼",
       "lastPost": 0
     },
     {
@@ -56,8 +56,16 @@
       "title": "[求助贴]在固定队打贤学奶，舞者和学者说我是压榨学者",
       "tid": 47489842,
       "link": "https://bbs.nga.cn/read.php?tid=47489842",
-      "replies": 151,
+      "replies": 157,
       "author": "桃笙丷",
+      "lastPost": 0
+    },
+    {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 156,
+      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -72,7 +80,7 @@
       "title": "[闲聊杂谈] 锐评FF14所有位移技能(满分5分)",
       "tid": 47488534,
       "link": "https://bbs.nga.cn/read.php?tid=47488534",
-      "replies": 134,
+      "replies": 137,
       "author": "maxhonor",
       "lastPost": 0
     },
@@ -88,7 +96,7 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 121,
+      "replies": 122,
       "author": "原型洛浦肯",
       "lastPost": 0
     },
@@ -125,6 +133,14 @@
       "lastPost": 0
     },
     {
+      "title": "又拿下了一个白魔",
+      "tid": 47492236,
+      "link": "https://bbs.nga.cn/read.php?tid=47492236",
+      "replies": 74,
+      "author": "一个黑魔法师",
+      "lastPost": 0
+    },
+    {
       "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
       "tid": 45900524,
       "link": "https://bbs.nga.cn/read.php?tid=45900524",
@@ -133,18 +149,10 @@
       "lastPost": 0
     },
     {
-      "title": "又拿下了一个白魔",
-      "tid": 47492236,
-      "link": "https://bbs.nga.cn/read.php?tid=47492236",
-      "replies": 73,
-      "author": "一个黑魔法师",
-      "lastPost": 0
-    },
-    {
       "title": "七绝加豆芽队打副职搞了会不会被蛐蛐",
       "tid": 47482406,
       "link": "https://bbs.nga.cn/read.php?tid=47482406",
-      "replies": 68,
+      "replies": 69,
       "author": "朝希望前行",
       "lastPost": 0
     },
@@ -152,34 +160,26 @@
       "title": "[自嗨安科] 什么叫除了我你们身上全是红线",
       "tid": 47292318,
       "link": "https://bbs.nga.cn/read.php?tid=47292318",
-      "replies": 67,
+      "replies": 68,
       "author": "游鱼醉",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]昔日重现2.4-3.3，但是少年芝",
-      "tid": 47194047,
-      "link": "https://bbs.nga.cn/read.php?tid=47194047",
-      "replies": 60,
-      "author": "异瞳之观测者",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] 总之是想到哪写到哪的群像职业文学！",
-      "tid": 34881695,
-      "link": "https://bbs.nga.cn/read.php?tid=34881695",
-      "replies": 6569,
-      "author": "正经竹子",
-      "lastPost": 0
-    },
-    {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
       "replies": 3662,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "基于弹道凝胶原理的灵魂水晶塞进O眼子测评",
+      "tid": 41529640,
+      "link": "https://bbs.nga.cn/read.php?tid=41529640",
+      "replies": 1945,
+      "author": "吞噬众神的咸鱼",
       "lastPost": 0
     },
     {
@@ -218,8 +218,16 @@
       "title": "[求助贴]在固定队打贤学奶，舞者和学者说我是压榨学者",
       "tid": 47489842,
       "link": "https://bbs.nga.cn/read.php?tid=47489842",
-      "replies": 151,
+      "replies": 157,
       "author": "桃笙丷",
+      "lastPost": 0
+    },
+    {
+      "title": "[新人安科][随时提桶]请给最终幻想14打五星好评……吗？",
+      "tid": 45750820,
+      "link": "https://bbs.nga.cn/read.php?tid=45750820",
+      "replies": 156,
+      "author": "不可思议魔法",
       "lastPost": 0
     },
     {
@@ -234,7 +242,7 @@
       "title": "[闲聊杂谈] 锐评FF14所有位移技能(满分5分)",
       "tid": 47488534,
       "link": "https://bbs.nga.cn/read.php?tid=47488534",
-      "replies": 134,
+      "replies": 137,
       "author": "maxhonor",
       "lastPost": 0
     },
@@ -250,7 +258,7 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 121,
+      "replies": 122,
       "author": "原型洛浦肯",
       "lastPost": 0
     },
@@ -287,6 +295,14 @@
       "lastPost": 0
     },
     {
+      "title": "又拿下了一个白魔",
+      "tid": 47492236,
+      "link": "https://bbs.nga.cn/read.php?tid=47492236",
+      "replies": 74,
+      "author": "一个黑魔法师",
+      "lastPost": 0
+    },
+    {
       "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
       "tid": 45900524,
       "link": "https://bbs.nga.cn/read.php?tid=45900524",
@@ -295,18 +311,10 @@
       "lastPost": 0
     },
     {
-      "title": "又拿下了一个白魔",
-      "tid": 47492236,
-      "link": "https://bbs.nga.cn/read.php?tid=47492236",
-      "replies": 73,
-      "author": "一个黑魔法师",
-      "lastPost": 0
-    },
-    {
       "title": "七绝加豆芽队打副职搞了会不会被蛐蛐",
       "tid": 47482406,
       "link": "https://bbs.nga.cn/read.php?tid=47482406",
-      "replies": 68,
+      "replies": 69,
       "author": "朝希望前行",
       "lastPost": 0
     },
@@ -314,16 +322,8 @@
       "title": "[自嗨安科] 什么叫除了我你们身上全是红线",
       "tid": 47292318,
       "link": "https://bbs.nga.cn/read.php?tid=47292318",
-      "replies": 67,
+      "replies": 68,
       "author": "游鱼醉",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]昔日重现2.4-3.3，但是少年芝",
-      "tid": 47194047,
-      "link": "https://bbs.nga.cn/read.php?tid=47194047",
-      "replies": 60,
-      "author": "异瞳之观测者",
       "lastPost": 0
     }
   ]
