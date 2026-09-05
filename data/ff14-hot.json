@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-05T20:36:48.749Z",
+  "lastUpdated": "2026-09-05T22:30:14.205Z",
   "count": 20,
   "posts": [
     {
@@ -18,6 +18,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
       "replies": 3669,
       "author": "SarielyuiU",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3635,
+      "author": "作恶的杏子",
       "lastPost": 0
     },
     {
@@ -50,14 +58,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47489842",
       "replies": 257,
       "author": "桃笙丷",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
-      "tid": 47413082,
-      "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 185,
-      "author": "炽焰之诗",
       "lastPost": 0
     },
     {
@@ -96,7 +96,7 @@
       "title": "大伙觉得现在高难里面有哪些难得比较有印象的机制吗",
       "tid": 47484796,
       "link": "https://bbs.nga.cn/read.php?tid=47484796",
-      "replies": 106,
+      "replies": 107,
       "author": "被遗忘的公式",
       "lastPost": 0
     },
@@ -183,6 +183,14 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3635,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~为了狩猎强大猎物不断拯救世界之旅",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
@@ -212,14 +220,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47489842",
       "replies": 257,
       "author": "桃笙丷",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
-      "tid": 47413082,
-      "link": "https://bbs.nga.cn/read.php?tid=47413082",
-      "replies": 185,
-      "author": "炽焰之诗",
       "lastPost": 0
     },
     {
@@ -258,7 +258,7 @@
       "title": "大伙觉得现在高难里面有哪些难得比较有印象的机制吗",
       "tid": 47484796,
       "link": "https://bbs.nga.cn/read.php?tid=47484796",
-      "replies": 106,
+      "replies": 107,
       "author": "被遗忘的公式",
       "lastPost": 0
     },
