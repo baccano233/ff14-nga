@@ -1,14 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-06T20:37:27.394Z",
+  "lastUpdated": "2026-09-06T22:34:53.843Z",
   "count": 20,
   "posts": [
     {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3644,
+      "replies": 3646,
       "author": "作恶的杏子",
       "lastPost": 0
     },
@@ -24,7 +24,7 @@
       "title": "[黑泥水]说实话，看到最新的蘑菇活动我是真的有点怨气溢出来了",
       "tid": 47488522,
       "link": "https://bbs.nga.cn/read.php?tid=47488522",
-      "replies": 183,
+      "replies": 184,
       "author": "司天紫成",
       "lastPost": 0
     },
@@ -117,14 +117,6 @@
       "lastPost": 0
     },
     {
-      "title": "一直很费解，运营总是不喜欢让玩家玩着舒服",
-      "tid": 47510296,
-      "link": "https://bbs.nga.cn/read.php?tid=47510296",
-      "replies": 30,
-      "author": "禾 软足",
-      "lastPost": 0
-    },
-    {
       "title": "[杂谈] 艾欧泽亚笼子评测",
       "tid": 47506609,
       "link": "https://bbs.nga.cn/read.php?tid=47506609",
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47503721",
       "replies": 23,
       "author": "Mhakaracca",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]三周豆芽，绝神兵开荒小记",
+      "tid": 47504903,
+      "link": "https://bbs.nga.cn/read.php?tid=47504903",
+      "replies": 22,
+      "author": "伊云流苏",
       "lastPost": 0
     }
   ],
@@ -170,7 +170,7 @@
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3644,
+      "replies": 3646,
       "author": "作恶的杏子",
       "lastPost": 0
     },
@@ -186,7 +186,7 @@
       "title": "[黑泥水]说实话，看到最新的蘑菇活动我是真的有点怨气溢出来了",
       "tid": 47488522,
       "link": "https://bbs.nga.cn/read.php?tid=47488522",
-      "replies": 183,
+      "replies": 184,
       "author": "司天紫成",
       "lastPost": 0
     },
@@ -279,14 +279,6 @@
       "lastPost": 0
     },
     {
-      "title": "一直很费解，运营总是不喜欢让玩家玩着舒服",
-      "tid": 47510296,
-      "link": "https://bbs.nga.cn/read.php?tid=47510296",
-      "replies": 30,
-      "author": "禾 软足",
-      "lastPost": 0
-    },
-    {
       "title": "[杂谈] 艾欧泽亚笼子评测",
       "tid": 47506609,
       "link": "https://bbs.nga.cn/read.php?tid=47506609",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47503721",
       "replies": 23,
       "author": "Mhakaracca",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]三周豆芽，绝神兵开荒小记",
+      "tid": 47504903,
+      "link": "https://bbs.nga.cn/read.php?tid=47504903",
+      "replies": 22,
+      "author": "伊云流苏",
       "lastPost": 0
     }
   ]
