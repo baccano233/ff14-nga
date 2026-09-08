@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-08T20:46:51.272Z",
+  "lastUpdated": "2026-09-08T23:04:23.547Z",
   "count": 20,
   "posts": [
     {
@@ -64,7 +64,7 @@
       "title": "[黑泥氵] 这破驯兽师升级又是一坨",
       "tid": 47521565,
       "link": "https://bbs.nga.cn/read.php?tid=47521565",
-      "replies": 72,
+      "replies": 73,
       "author": "暗火挽歌",
       "lastPost": 0
     },
@@ -88,8 +88,16 @@
       "title": "[氵一贴] 7.56新增称号一览(全是驯兽师)",
       "tid": 47520198,
       "link": "https://bbs.nga.cn/read.php?tid=47520198",
-      "replies": 36,
+      "replies": 37,
       "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] 特殊规则副本训练团 4=4",
+      "tid": 47291447,
+      "link": "https://bbs.nga.cn/read.php?tid=47291447",
+      "replies": 33,
+      "author": "soul52913",
       "lastPost": 0
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47521267",
       "replies": 32,
       "author": "诗乃家的猫",
-      "lastPost": 0
-    },
-    {
-      "title": "[驯兽师氵] 下了个本结果只有一个人捉到(已判明同步进本也是概率捕捉)",
-      "tid": 47521703,
-      "link": "https://bbs.nga.cn/read.php?tid=47521703",
-      "replies": 29,
-      "author": "降行",
       "lastPost": 0
     },
     {
@@ -120,7 +120,7 @@
       "title": "[含7_5剧透] 7.56主线个人吐槽",
       "tid": 47520813,
       "link": "https://bbs.nga.cn/read.php?tid=47520813",
-      "replies": 22,
+      "replies": 25,
       "author": "lunulunu",
       "lastPost": 0
     },
@@ -136,16 +136,24 @@
       "title": "[7.56剧情氵]日本人也玩刻舟求剑这一套",
       "tid": 47521077,
       "link": "https://bbs.nga.cn/read.php?tid=47521077",
-      "replies": 13,
+      "replies": 14,
       "author": "武装学徒。",
       "lastPost": 0
     },
     {
-      "title": "有人知道这篇安科怎么了嘛",
-      "tid": 47515872,
-      "link": "https://bbs.nga.cn/read.php?tid=47515872",
-      "replies": 13,
-      "author": "江羡秋",
+      "title": "驯兽师都能用什么加经验装备",
+      "tid": 47522737,
+      "link": "https://bbs.nga.cn/read.php?tid=47522737",
+      "replies": 14,
+      "author": "健胃消食片2",
+      "lastPost": 0
+    },
+    {
+      "title": "贤者什么时候能把那个b群心关取消距离限制？？？",
+      "tid": 46973784,
+      "link": "https://bbs.nga.cn/read.php?tid=46973784",
+      "replies": 12,
+      "author": "黑夜学派",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47521607",
       "replies": 12,
       "author": "黑狗与布谷鸟",
-      "lastPost": 0
-    },
-    {
-      "title": "驯兽师都能用什么加经验装备",
-      "tid": 47522737,
-      "link": "https://bbs.nga.cn/read.php?tid=47522737",
-      "replies": 11,
-      "author": "健胃消食片2",
       "lastPost": 0
     }
   ],
@@ -226,7 +226,7 @@
       "title": "[黑泥氵] 这破驯兽师升级又是一坨",
       "tid": 47521565,
       "link": "https://bbs.nga.cn/read.php?tid=47521565",
-      "replies": 72,
+      "replies": 73,
       "author": "暗火挽歌",
       "lastPost": 0
     },
@@ -250,8 +250,16 @@
       "title": "[氵一贴] 7.56新增称号一览(全是驯兽师)",
       "tid": 47520198,
       "link": "https://bbs.nga.cn/read.php?tid=47520198",
-      "replies": 36,
+      "replies": 37,
       "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "[跨大区] 特殊规则副本训练团 4=4",
+      "tid": 47291447,
+      "link": "https://bbs.nga.cn/read.php?tid=47291447",
+      "replies": 33,
+      "author": "soul52913",
       "lastPost": 0
     },
     {
@@ -260,14 +268,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47521267",
       "replies": 32,
       "author": "诗乃家的猫",
-      "lastPost": 0
-    },
-    {
-      "title": "[驯兽师氵] 下了个本结果只有一个人捉到(已判明同步进本也是概率捕捉)",
-      "tid": 47521703,
-      "link": "https://bbs.nga.cn/read.php?tid=47521703",
-      "replies": 29,
-      "author": "降行",
       "lastPost": 0
     },
     {
@@ -282,7 +282,7 @@
       "title": "[含7_5剧透] 7.56主线个人吐槽",
       "tid": 47520813,
       "link": "https://bbs.nga.cn/read.php?tid=47520813",
-      "replies": 22,
+      "replies": 25,
       "author": "lunulunu",
       "lastPost": 0
     },
@@ -298,16 +298,24 @@
       "title": "[7.56剧情氵]日本人也玩刻舟求剑这一套",
       "tid": 47521077,
       "link": "https://bbs.nga.cn/read.php?tid=47521077",
-      "replies": 13,
+      "replies": 14,
       "author": "武装学徒。",
       "lastPost": 0
     },
     {
-      "title": "有人知道这篇安科怎么了嘛",
-      "tid": 47515872,
-      "link": "https://bbs.nga.cn/read.php?tid=47515872",
-      "replies": 13,
-      "author": "江羡秋",
+      "title": "驯兽师都能用什么加经验装备",
+      "tid": 47522737,
+      "link": "https://bbs.nga.cn/read.php?tid=47522737",
+      "replies": 14,
+      "author": "健胃消食片2",
+      "lastPost": 0
+    },
+    {
+      "title": "贤者什么时候能把那个b群心关取消距离限制？？？",
+      "tid": 46973784,
+      "link": "https://bbs.nga.cn/read.php?tid=46973784",
+      "replies": 12,
+      "author": "黑夜学派",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47521607",
       "replies": 12,
       "author": "黑狗与布谷鸟",
-      "lastPost": 0
-    },
-    {
-      "title": "驯兽师都能用什么加经验装备",
-      "tid": 47522737,
-      "link": "https://bbs.nga.cn/read.php?tid=47522737",
-      "replies": 11,
-      "author": "健胃消食片2",
       "lastPost": 0
     }
   ]
