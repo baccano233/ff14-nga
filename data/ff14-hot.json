@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-18T09:56:26.397Z",
+  "lastUpdated": "2026-09-18T14:01:57.241Z",
   "count": 20,
   "posts": [
     {
@@ -29,18 +29,10 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥]我是那个因为抢开1s和挂人被喷了一百多楼的DK。我觉得隔壁楼已经变成了一场小型社会学实验。所以我用 claude 总结了至今为止的所有讨论内容",
-      "tid": 47552641,
-      "link": "https://bbs.nga.cn/read.php?tid=47552641",
-      "replies": 178,
-      "author": "水长东4997",
-      "lastPost": 0
-    },
-    {
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 173,
+      "replies": 196,
       "author": "zmy567",
       "lastPost": 0
     },
@@ -48,40 +40,24 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 173,
+      "replies": 176,
       "author": "原型洛浦肯",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
-      "tid": 46020663,
-      "link": "https://bbs.nga.cn/read.php?tid=46020663",
-      "replies": 123,
-      "author": "人活着就是为了说怪话",
       "lastPost": 0
     },
     {
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 117,
+      "replies": 118,
       "author": "人造花",
       "lastPost": 0
     },
     {
-      "title": "[6.x][战职][数据]再谈随机副本经验机制",
-      "tid": 30991264,
-      "link": "https://bbs.nga.cn/read.php?tid=30991264",
-      "replies": 89,
-      "author": "蜡笔桶",
-      "lastPost": 0
-    },
-    {
-      "title": "[驯兽师] 驯兽师装备BIS (已更新)",
-      "tid": 47524068,
-      "link": "https://bbs.nga.cn/read.php?tid=47524068",
-      "replies": 68,
-      "author": "GreatGBL",
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 76,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     },
     {
@@ -109,19 +85,19 @@
       "lastPost": 0
     },
     {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 43,
-      "author": "异瞳之观测者",
+      "title": "隔壁怀旧服出了个神奇的幻化机制，允许玩家在不roll到装备的情况下直接解锁幻化",
+      "tid": 47578184,
+      "link": "https://bbs.nga.cn/read.php?tid=47578184",
+      "replies": 44,
+      "author": "风花雪月斩",
       "lastPost": 0
     },
     {
-      "title": "[记录氵]只是为了给自己找点盼头的挖宝记录贴",
-      "tid": 46883771,
-      "link": "https://bbs.nga.cn/read.php?tid=46883771",
-      "replies": 41,
-      "author": "极东净土",
+      "title": "(含驯兽师50级职业任务剧透)只有我觉得最后一个任务剧情不太对吗",
+      "tid": 47546267,
+      "link": "https://bbs.nga.cn/read.php?tid=47546267",
+      "replies": 37,
+      "author": "冰光镜影",
       "lastPost": 0
     },
     {
@@ -133,27 +109,35 @@
       "lastPost": 0
     },
     {
-      "title": "隔壁怀旧服出了个神奇的幻化机制，允许玩家在不roll到装备的情况下直接解锁幻化",
-      "tid": 47578184,
-      "link": "https://bbs.nga.cn/read.php?tid=47578184",
-      "replies": 35,
-      "author": "风花雪月斩",
-      "lastPost": 0
-    },
-    {
-      "title": "(含驯兽师50级职业任务剧透)只有我觉得最后一个任务剧情不太对吗",
-      "tid": 47546267,
-      "link": "https://bbs.nga.cn/read.php?tid=47546267",
-      "replies": 33,
-      "author": "冰光镜影",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] 还不到半个月就三次维护……",
       "tid": 47572289,
       "link": "https://bbs.nga.cn/read.php?tid=47572289",
-      "replies": 32,
+      "replies": 35,
       "author": "肥洛特",
+      "lastPost": 0
+    },
+    {
+      "title": "小吉是怎么想出来驯兽师一个单机玩法也整排行榜的",
+      "tid": 47255839,
+      "link": "https://bbs.nga.cn/read.php?tid=47255839",
+      "replies": 35,
+      "author": "Eyemedia",
+      "lastPost": 0
+    },
+    {
+      "title": "为什么吉田总喜欢设置一些无意义的重复劳动玩法……",
+      "tid": 47577425,
+      "link": "https://bbs.nga.cn/read.php?tid=47577425",
+      "replies": 33,
+      "author": "楪冰雪瑶",
+      "lastPost": 0
+    },
+    {
+      "title": "跨大区功能以后有没有可能让繁中简中互通",
+      "tid": 47571213,
+      "link": "https://bbs.nga.cn/read.php?tid=47571213",
+      "replies": 32,
+      "author": "あさ熄polaris",
       "lastPost": 0
     },
     {
@@ -162,6 +146,22 @@
       "link": "https://bbs.nga.cn/read.php?tid=47525674",
       "replies": 31,
       "author": "Valano",
+      "lastPost": 0
+    },
+    {
+      "title": "这键盘我是真想要啊",
+      "tid": 47579900,
+      "link": "https://bbs.nga.cn/read.php?tid=47579900",
+      "replies": 26,
+      "author": "yurica_hana",
+      "lastPost": 0
+    },
+    {
+      "title": "[空岛钓鱼][攻略心得]7.0云冠群岛捕鱼人全成就摆烂宏法轮椅攻略",
+      "tid": 42903644,
+      "link": "https://bbs.nga.cn/read.php?tid=42903644",
+      "replies": 25,
+      "author": "曲奇小熊饼",
       "lastPost": 0
     }
   ],
@@ -191,18 +191,10 @@
       "lastPost": 0
     },
     {
-      "title": "[黑泥]我是那个因为抢开1s和挂人被喷了一百多楼的DK。我觉得隔壁楼已经变成了一场小型社会学实验。所以我用 claude 总结了至今为止的所有讨论内容",
-      "tid": 47552641,
-      "link": "https://bbs.nga.cn/read.php?tid=47552641",
-      "replies": 178,
-      "author": "水长东4997",
-      "lastPost": 0
-    },
-    {
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 173,
+      "replies": 196,
       "author": "zmy567",
       "lastPost": 0
     },
@@ -210,40 +202,24 @@
       "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
       "tid": 47414568,
       "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 173,
+      "replies": 176,
       "author": "原型洛浦肯",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
-      "tid": 46020663,
-      "link": "https://bbs.nga.cn/read.php?tid=46020663",
-      "replies": 123,
-      "author": "人活着就是为了说怪话",
       "lastPost": 0
     },
     {
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 117,
+      "replies": 118,
       "author": "人造花",
       "lastPost": 0
     },
     {
-      "title": "[6.x][战职][数据]再谈随机副本经验机制",
-      "tid": 30991264,
-      "link": "https://bbs.nga.cn/read.php?tid=30991264",
-      "replies": 89,
-      "author": "蜡笔桶",
-      "lastPost": 0
-    },
-    {
-      "title": "[驯兽师] 驯兽师装备BIS (已更新)",
-      "tid": 47524068,
-      "link": "https://bbs.nga.cn/read.php?tid=47524068",
-      "replies": 68,
-      "author": "GreatGBL",
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 76,
+      "author": "希斯特利亚马乌罗提",
       "lastPost": 0
     },
     {
@@ -271,19 +247,19 @@
       "lastPost": 0
     },
     {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 43,
-      "author": "异瞳之观测者",
+      "title": "隔壁怀旧服出了个神奇的幻化机制，允许玩家在不roll到装备的情况下直接解锁幻化",
+      "tid": 47578184,
+      "link": "https://bbs.nga.cn/read.php?tid=47578184",
+      "replies": 44,
+      "author": "风花雪月斩",
       "lastPost": 0
     },
     {
-      "title": "[记录氵]只是为了给自己找点盼头的挖宝记录贴",
-      "tid": 46883771,
-      "link": "https://bbs.nga.cn/read.php?tid=46883771",
-      "replies": 41,
-      "author": "极东净土",
+      "title": "(含驯兽师50级职业任务剧透)只有我觉得最后一个任务剧情不太对吗",
+      "tid": 47546267,
+      "link": "https://bbs.nga.cn/read.php?tid=47546267",
+      "replies": 37,
+      "author": "冰光镜影",
       "lastPost": 0
     },
     {
@@ -295,27 +271,35 @@
       "lastPost": 0
     },
     {
-      "title": "隔壁怀旧服出了个神奇的幻化机制，允许玩家在不roll到装备的情况下直接解锁幻化",
-      "tid": 47578184,
-      "link": "https://bbs.nga.cn/read.php?tid=47578184",
-      "replies": 35,
-      "author": "风花雪月斩",
-      "lastPost": 0
-    },
-    {
-      "title": "(含驯兽师50级职业任务剧透)只有我觉得最后一个任务剧情不太对吗",
-      "tid": 47546267,
-      "link": "https://bbs.nga.cn/read.php?tid=47546267",
-      "replies": 33,
-      "author": "冰光镜影",
-      "lastPost": 0
-    },
-    {
       "title": "[氵一贴] 还不到半个月就三次维护……",
       "tid": 47572289,
       "link": "https://bbs.nga.cn/read.php?tid=47572289",
-      "replies": 32,
+      "replies": 35,
       "author": "肥洛特",
+      "lastPost": 0
+    },
+    {
+      "title": "小吉是怎么想出来驯兽师一个单机玩法也整排行榜的",
+      "tid": 47255839,
+      "link": "https://bbs.nga.cn/read.php?tid=47255839",
+      "replies": 35,
+      "author": "Eyemedia",
+      "lastPost": 0
+    },
+    {
+      "title": "为什么吉田总喜欢设置一些无意义的重复劳动玩法……",
+      "tid": 47577425,
+      "link": "https://bbs.nga.cn/read.php?tid=47577425",
+      "replies": 33,
+      "author": "楪冰雪瑶",
+      "lastPost": 0
+    },
+    {
+      "title": "跨大区功能以后有没有可能让繁中简中互通",
+      "tid": 47571213,
+      "link": "https://bbs.nga.cn/read.php?tid=47571213",
+      "replies": 32,
+      "author": "あさ熄polaris",
       "lastPost": 0
     },
     {
@@ -324,6 +308,22 @@
       "link": "https://bbs.nga.cn/read.php?tid=47525674",
       "replies": 31,
       "author": "Valano",
+      "lastPost": 0
+    },
+    {
+      "title": "这键盘我是真想要啊",
+      "tid": 47579900,
+      "link": "https://bbs.nga.cn/read.php?tid=47579900",
+      "replies": 26,
+      "author": "yurica_hana",
+      "lastPost": 0
+    },
+    {
+      "title": "[空岛钓鱼][攻略心得]7.0云冠群岛捕鱼人全成就摆烂宏法轮椅攻略",
+      "tid": 42903644,
+      "link": "https://bbs.nga.cn/read.php?tid=42903644",
+      "replies": 25,
+      "author": "曲奇小熊饼",
       "lastPost": 0
     }
   ]
