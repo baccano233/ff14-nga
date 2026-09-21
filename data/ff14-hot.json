@@ -1,22 +1,30 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-20T23:43:50.706Z",
+  "lastUpdated": "2026-09-21T02:31:10.686Z",
   "count": 20,
   "posts": [
     {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3716,
+      "replies": 3718,
       "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1483,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 599,
+      "replies": 600,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -24,7 +32,7 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 419,
+      "replies": 420,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -32,7 +40,7 @@
       "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
       "tid": 47101312,
       "link": "https://bbs.nga.cn/read.php?tid=47101312",
-      "replies": 281,
+      "replies": 282,
       "author": "无影易者",
       "lastPost": 0
     },
@@ -40,40 +48,32 @@
       "title": "[驯兽师相关]大家能不能多体验一下再来评论",
       "tid": 47523765,
       "link": "https://bbs.nga.cn/read.php?tid=47523765",
-      "replies": 277,
+      "replies": 278,
       "author": "RussellWestbrook",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 235,
+      "replies": 239,
       "author": "zmy567",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 183,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
       "title": "好像一直没人发外网前天的技改泄露",
       "tid": 47592234,
       "link": "https://bbs.nga.cn/read.php?tid=47592234",
-      "replies": 146,
+      "replies": 156,
       "author": "cherylcho",
+      "lastPost": 0
+    },
+    {
+      "title": "[举手提问]现在固定队开荒绝妖星的话推荐什么打法",
+      "tid": 47556551,
+      "link": "https://bbs.nga.cn/read.php?tid=47556551",
+      "replies": 115,
+      "author": "后悔的颜色w",
       "lastPost": 0
     },
     {
@@ -101,19 +101,27 @@
       "lastPost": 0
     },
     {
-      "title": "大伙对七个绝本最终p转场动画演出的喜爱程度怎么排名？",
-      "tid": 47582185,
-      "link": "https://bbs.nga.cn/read.php?tid=47582185",
-      "replies": 57,
-      "author": "被遗忘的公式",
-      "lastPost": 0
-    },
-    {
       "title": "[国际服新闻翻译] “大区内自由匹配”功能将率先在日本数据中心实装！",
       "tid": 47562053,
       "link": "https://bbs.nga.cn/read.php?tid=47562053",
       "replies": 52,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]总之，从零开始的7.0生活",
+      "tid": 47404229,
+      "link": "https://bbs.nga.cn/read.php?tid=47404229",
+      "replies": 51,
+      "author": "Awiten",
+      "lastPost": 0
+    },
+    {
+      "title": "绝妖星p4初见7=1非dk mt",
+      "tid": 47563663,
+      "link": "https://bbs.nga.cn/read.php?tid=47563663",
+      "replies": 50,
+      "author": "撒比蓝",
       "lastPost": 0
     },
     {
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47488903",
       "replies": 39,
       "author": "shirlech",
-      "lastPost": 0
-    },
-    {
-      "title": "跨大区功能以后有没有可能让繁中简中互通",
-      "tid": 47571213,
-      "link": "https://bbs.nga.cn/read.php?tid=47571213",
-      "replies": 36,
-      "author": "あさ熄polaris",
       "lastPost": 0
     }
   ],
@@ -170,15 +170,23 @@
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3716,
+      "replies": 3718,
       "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1483,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 599,
+      "replies": 600,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -186,7 +194,7 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 419,
+      "replies": 420,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -194,7 +202,7 @@
       "title": "[安科] [梦到哪写到哪] 前略，你是纷争前线技改师傅",
       "tid": 47101312,
       "link": "https://bbs.nga.cn/read.php?tid=47101312",
-      "replies": 281,
+      "replies": 282,
       "author": "无影易者",
       "lastPost": 0
     },
@@ -202,40 +210,32 @@
       "title": "[驯兽师相关]大家能不能多体验一下再来评论",
       "tid": 47523765,
       "link": "https://bbs.nga.cn/read.php?tid=47523765",
-      "replies": 277,
+      "replies": 278,
       "author": "RussellWestbrook",
-      "lastPost": 0
-    },
-    {
-      "title": "最终幻想单机系列",
-      "tid": 10436564,
-      "link": "https://bbs.nga.cn/read.php?tid=10436564",
-      "replies": 246,
-      "author": "morgen",
       "lastPost": 0
     },
     {
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 235,
+      "replies": 239,
       "author": "zmy567",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 183,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
       "title": "好像一直没人发外网前天的技改泄露",
       "tid": 47592234,
       "link": "https://bbs.nga.cn/read.php?tid=47592234",
-      "replies": 146,
+      "replies": 156,
       "author": "cherylcho",
+      "lastPost": 0
+    },
+    {
+      "title": "[举手提问]现在固定队开荒绝妖星的话推荐什么打法",
+      "tid": 47556551,
+      "link": "https://bbs.nga.cn/read.php?tid=47556551",
+      "replies": 115,
+      "author": "后悔的颜色w",
       "lastPost": 0
     },
     {
@@ -263,19 +263,27 @@
       "lastPost": 0
     },
     {
-      "title": "大伙对七个绝本最终p转场动画演出的喜爱程度怎么排名？",
-      "tid": 47582185,
-      "link": "https://bbs.nga.cn/read.php?tid=47582185",
-      "replies": 57,
-      "author": "被遗忘的公式",
-      "lastPost": 0
-    },
-    {
       "title": "[国际服新闻翻译] “大区内自由匹配”功能将率先在日本数据中心实装！",
       "tid": 47562053,
       "link": "https://bbs.nga.cn/read.php?tid=47562053",
       "replies": 52,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]总之，从零开始的7.0生活",
+      "tid": 47404229,
+      "link": "https://bbs.nga.cn/read.php?tid=47404229",
+      "replies": 51,
+      "author": "Awiten",
+      "lastPost": 0
+    },
+    {
+      "title": "绝妖星p4初见7=1非dk mt",
+      "tid": 47563663,
+      "link": "https://bbs.nga.cn/read.php?tid=47563663",
+      "replies": 50,
+      "author": "撒比蓝",
       "lastPost": 0
     },
     {
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47488903",
       "replies": 39,
       "author": "shirlech",
-      "lastPost": 0
-    },
-    {
-      "title": "跨大区功能以后有没有可能让繁中简中互通",
-      "tid": 47571213,
-      "link": "https://bbs.nga.cn/read.php?tid=47571213",
-      "replies": 36,
-      "author": "あさ熄polaris",
       "lastPost": 0
     }
   ]
