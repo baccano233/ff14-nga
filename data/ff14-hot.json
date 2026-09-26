@@ -1,22 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-26T05:13:45.005Z",
+  "lastUpdated": "2026-09-26T10:01:14.640Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2973,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1504,
+      "replies": 1505,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -24,7 +16,7 @@
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 1077,
+      "replies": 1078,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -32,7 +24,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 613,
+      "replies": 614,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -40,7 +32,7 @@
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 292,
+      "replies": 293,
       "author": "zmy567",
       "lastPost": 0
     },
@@ -53,11 +45,27 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
+      "tid": 47414568,
+      "link": "https://bbs.nga.cn/read.php?tid=47414568",
+      "replies": 196,
+      "author": "原型洛浦肯",
+      "lastPost": 0
+    },
+    {
       "title": "好像一直没人发外网前天的技改泄露",
       "tid": 47592234,
       "link": "https://bbs.nga.cn/read.php?tid=47592234",
       "replies": 186,
       "author": "cherylcho",
+      "lastPost": 0
+    },
+    {
+      "title": "堆堆 大概是什么都有的自嗨楼？",
+      "tid": 45027959,
+      "link": "https://bbs.nga.cn/read.php?tid=45027959",
+      "replies": 183,
+      "author": "盐巴寒",
       "lastPost": 0
     },
     {
@@ -69,19 +77,27 @@
       "lastPost": 0
     },
     {
-      "title": "[幻想科技] [DPS悬浮窗]老酒新发，Horizoverlay悬浮窗个人修改版",
-      "tid": 35378160,
-      "link": "https://bbs.nga.cn/read.php?tid=35378160",
-      "replies": 146,
-      "author": "冬日梦白鸽",
-      "lastPost": 0
-    },
-    {
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 142,
+      "replies": 149,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
+      "tid": 46020663,
+      "link": "https://bbs.nga.cn/read.php?tid=46020663",
+      "replies": 123,
+      "author": "人活着就是为了说怪话",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]随手记录一下7.2开始的豆花/豆芽生活",
+      "tid": 47407569,
+      "link": "https://bbs.nga.cn/read.php?tid=47407569",
+      "replies": 91,
+      "author": "不聋不哑",
       "lastPost": 0
     },
     {
@@ -96,8 +112,16 @@
       "title": "[记录氵] 从莫古力开始的钓鱼记录",
       "tid": 47550580,
       "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 61,
+      "replies": 62,
       "author": "我难道不是咸鱼么",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 丝瓜你在看吗？关于驯兽师给你支个招",
+      "tid": 47575222,
+      "link": "https://bbs.nga.cn/read.php?tid=47575222",
+      "replies": 46,
+      "author": "柚原",
       "lastPost": 0
     },
     {
@@ -109,26 +133,26 @@
       "lastPost": 0
     },
     {
-      "title": "求助 新配的电脑出现莫名卡顿 掉帧 抽帧 采用了各种方案都无法解决",
-      "tid": 47595329,
-      "link": "https://bbs.nga.cn/read.php?tid=47595329",
-      "replies": 46,
-      "author": "kiyyle",
+      "title": "[MOD]苹方+SF Pro字体MOD，精调适配国服7.1",
+      "tid": 43601857,
+      "link": "https://bbs.nga.cn/read.php?tid=43601857",
+      "replies": 43,
+      "author": "maplerecall",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 丝瓜你在看吗？关于驯兽师给你支个招",
-      "tid": 47575222,
-      "link": "https://bbs.nga.cn/read.php?tid=47575222",
+      "title": "[图楼]自己的安科/oc插画存档",
+      "tid": 46015493,
+      "link": "https://bbs.nga.cn/read.php?tid=46015493",
       "replies": 43,
-      "author": "柚原",
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "包庇开挂的钻石狼王这就是拂晓你的正义裁决吗？举报开挂的正常玩家就得被封？",
       "tid": 47624132,
       "link": "https://bbs.nga.cn/read.php?tid=47624132",
-      "replies": 40,
+      "replies": 42,
       "author": "狂奔的洋葱小鱿",
       "lastPost": 0
     },
@@ -138,47 +162,15 @@
       "link": "https://bbs.nga.cn/read.php?tid=47590040",
       "replies": 40,
       "author": "daniels7",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 还不到半个月就三次维护……",
-      "tid": 47572289,
-      "link": "https://bbs.nga.cn/read.php?tid=47572289",
-      "replies": 37,
-      "author": "肥洛特",
-      "lastPost": 0
-    },
-    {
-      "title": "小吉是怎么想出来驯兽师一个单机玩法也整排行榜的",
-      "tid": 47255839,
-      "link": "https://bbs.nga.cn/read.php?tid=47255839",
-      "replies": 36,
-      "author": "Eyemedia",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 骑士无敌+保护能同时顶住魔法易伤的伤害吗",
-      "tid": 47580561,
-      "link": "https://bbs.nga.cn/read.php?tid=47580561",
-      "replies": 24,
-      "author": "lx365839",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2973,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
-    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1504,
+      "replies": 1505,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -186,7 +178,7 @@
       "title": "[故事氵][黑泥]谢谢你给我 一段快乐的梦游",
       "tid": 44803833,
       "link": "https://bbs.nga.cn/read.php?tid=44803833",
-      "replies": 1077,
+      "replies": 1078,
       "author": "#anony_3cd9b4de1dc999f6dfd4b89355a2bc8a",
       "lastPost": 0
     },
@@ -194,7 +186,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 613,
+      "replies": 614,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -202,7 +194,7 @@
       "title": "4人本比T走快3秒的步程等于抢开，恳请为我解答。",
       "tid": 47576969,
       "link": "https://bbs.nga.cn/read.php?tid=47576969",
-      "replies": 292,
+      "replies": 293,
       "author": "zmy567",
       "lastPost": 0
     },
@@ -215,11 +207,27 @@
       "lastPost": 0
     },
     {
+      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
+      "tid": 47414568,
+      "link": "https://bbs.nga.cn/read.php?tid=47414568",
+      "replies": 196,
+      "author": "原型洛浦肯",
+      "lastPost": 0
+    },
+    {
       "title": "好像一直没人发外网前天的技改泄露",
       "tid": 47592234,
       "link": "https://bbs.nga.cn/read.php?tid=47592234",
       "replies": 186,
       "author": "cherylcho",
+      "lastPost": 0
+    },
+    {
+      "title": "堆堆 大概是什么都有的自嗨楼？",
+      "tid": 45027959,
+      "link": "https://bbs.nga.cn/read.php?tid=45027959",
+      "replies": 183,
+      "author": "盐巴寒",
       "lastPost": 0
     },
     {
@@ -231,19 +239,27 @@
       "lastPost": 0
     },
     {
-      "title": "[幻想科技] [DPS悬浮窗]老酒新发，Horizoverlay悬浮窗个人修改版",
-      "tid": 35378160,
-      "link": "https://bbs.nga.cn/read.php?tid=35378160",
-      "replies": 146,
-      "author": "冬日梦白鸽",
-      "lastPost": 0
-    },
-    {
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 142,
+      "replies": 149,
       "author": "人造花",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]玩舞者对近战们产生感情算人之常情吗",
+      "tid": 46020663,
+      "link": "https://bbs.nga.cn/read.php?tid=46020663",
+      "replies": 123,
+      "author": "人活着就是为了说怪话",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录氵]随手记录一下7.2开始的豆花/豆芽生活",
+      "tid": 47407569,
+      "link": "https://bbs.nga.cn/read.php?tid=47407569",
+      "replies": 91,
+      "author": "不聋不哑",
       "lastPost": 0
     },
     {
@@ -258,8 +274,16 @@
       "title": "[记录氵] 从莫古力开始的钓鱼记录",
       "tid": 47550580,
       "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 61,
+      "replies": 62,
       "author": "我难道不是咸鱼么",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 丝瓜你在看吗？关于驯兽师给你支个招",
+      "tid": 47575222,
+      "link": "https://bbs.nga.cn/read.php?tid=47575222",
+      "replies": 46,
+      "author": "柚原",
       "lastPost": 0
     },
     {
@@ -271,26 +295,26 @@
       "lastPost": 0
     },
     {
-      "title": "求助 新配的电脑出现莫名卡顿 掉帧 抽帧 采用了各种方案都无法解决",
-      "tid": 47595329,
-      "link": "https://bbs.nga.cn/read.php?tid=47595329",
-      "replies": 46,
-      "author": "kiyyle",
+      "title": "[MOD]苹方+SF Pro字体MOD，精调适配国服7.1",
+      "tid": 43601857,
+      "link": "https://bbs.nga.cn/read.php?tid=43601857",
+      "replies": 43,
+      "author": "maplerecall",
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 丝瓜你在看吗？关于驯兽师给你支个招",
-      "tid": 47575222,
-      "link": "https://bbs.nga.cn/read.php?tid=47575222",
+      "title": "[图楼]自己的安科/oc插画存档",
+      "tid": 46015493,
+      "link": "https://bbs.nga.cn/read.php?tid=46015493",
       "replies": 43,
-      "author": "柚原",
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "包庇开挂的钻石狼王这就是拂晓你的正义裁决吗？举报开挂的正常玩家就得被封？",
       "tid": 47624132,
       "link": "https://bbs.nga.cn/read.php?tid=47624132",
-      "replies": 40,
+      "replies": 42,
       "author": "狂奔的洋葱小鱿",
       "lastPost": 0
     },
@@ -300,30 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47590040",
       "replies": 40,
       "author": "daniels7",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 还不到半个月就三次维护……",
-      "tid": 47572289,
-      "link": "https://bbs.nga.cn/read.php?tid=47572289",
-      "replies": 37,
-      "author": "肥洛特",
-      "lastPost": 0
-    },
-    {
-      "title": "小吉是怎么想出来驯兽师一个单机玩法也整排行榜的",
-      "tid": 47255839,
-      "link": "https://bbs.nga.cn/read.php?tid=47255839",
-      "replies": 36,
-      "author": "Eyemedia",
-      "lastPost": 0
-    },
-    {
-      "title": "[举手提问] 骑士无敌+保护能同时顶住魔法易伤的伤害吗",
-      "tid": 47580561,
-      "link": "https://bbs.nga.cn/read.php?tid=47580561",
-      "replies": 24,
-      "author": "lx365839",
       "lastPost": 0
     }
   ]
