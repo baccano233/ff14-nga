@@ -1,17 +1,9 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-09-27T18:33:42.346Z",
+  "lastUpdated": "2026-09-27T21:44:29.649Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3769,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
@@ -45,6 +37,14 @@
       "lastPost": 0
     },
     {
+      "title": "[便宜安科][混沌cp]关于成为便宜爱情小说家的梦想被稿子固定队绊倒于是开始构队友的史这件事",
+      "tid": 44641994,
+      "link": "https://bbs.nga.cn/read.php?tid=44641994",
+      "replies": 249,
+      "author": "ciaian",
+      "lastPost": 0
+    },
+    {
       "title": "[女人扯头花安科] [其他随缘] 绿寝皆是修罗场",
       "tid": 44406342,
       "link": "https://bbs.nga.cn/read.php?tid=44406342",
@@ -69,10 +69,18 @@
       "lastPost": 0
     },
     {
+      "title": "[流程攻略] 从零开始一口气完成的讨伐笔记攻略！(含全部怪物点位配图)(7月6日更新：修正错误)",
+      "tid": 22438565,
+      "link": "https://bbs.nga.cn/read.php?tid=22438565",
+      "replies": 144,
+      "author": "Sirei",
+      "lastPost": 0
+    },
+    {
       "title": "我不明白，装修线下付现怎么就不算RMT？",
       "tid": 47601740,
       "link": "https://bbs.nga.cn/read.php?tid=47601740",
-      "replies": 109,
+      "replies": 110,
       "author": "携风追月",
       "lastPost": 0
     },
@@ -85,18 +93,18 @@
       "lastPost": 0
     },
     {
-      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
-      "tid": 47477282,
-      "link": "https://bbs.nga.cn/read.php?tid=47477282",
-      "replies": 62,
-      "author": "艾斯丁Astin",
+      "title": "[萌新向][全职业]战斗职业1~90练级手法指北",
+      "tid": 31658940,
+      "link": "https://bbs.nga.cn/read.php?tid=31658940",
+      "replies": 60,
+      "author": "阿布evo",
       "lastPost": 0
     },
     {
       "title": "[破事氵]关于日随抢开的情况的纯主观分析(纯主观，纯个人见解，您有任何不同意见都是你对)",
       "tid": 47606602,
       "link": "https://bbs.nga.cn/read.php?tid=47606602",
-      "replies": 50,
+      "replies": 52,
       "author": "某科学的魔王大人",
       "lastPost": 0
     },
@@ -104,7 +112,7 @@
       "title": "无聊氵，有哪些职业如果换个职能你会更喜欢/觉得更受欢迎",
       "tid": 47613514,
       "link": "https://bbs.nga.cn/read.php?tid=47613514",
-      "replies": 50,
+      "replies": 52,
       "author": "片手剑使Aug",
       "lastPost": 0
     },
@@ -154,27 +162,11 @@
       "link": "https://bbs.nga.cn/read.php?tid=47613948",
       "replies": 24,
       "author": "#anony_2c2873b9648b18c585be068991a10bbc",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 又来问地雷套了",
-      "tid": 47622572,
-      "link": "https://bbs.nga.cn/read.php?tid=47622572",
-      "replies": 21,
-      "author": "轻扬lu",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
-      "tid": 42180352,
-      "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 3769,
-      "author": "作恶的杏子",
-      "lastPost": 0
-    },
-    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
@@ -207,6 +199,14 @@
       "lastPost": 0
     },
     {
+      "title": "[便宜安科][混沌cp]关于成为便宜爱情小说家的梦想被稿子固定队绊倒于是开始构队友的史这件事",
+      "tid": 44641994,
+      "link": "https://bbs.nga.cn/read.php?tid=44641994",
+      "replies": 249,
+      "author": "ciaian",
+      "lastPost": 0
+    },
+    {
       "title": "[女人扯头花安科] [其他随缘] 绿寝皆是修罗场",
       "tid": 44406342,
       "link": "https://bbs.nga.cn/read.php?tid=44406342",
@@ -231,10 +231,18 @@
       "lastPost": 0
     },
     {
+      "title": "[流程攻略] 从零开始一口气完成的讨伐笔记攻略！(含全部怪物点位配图)(7月6日更新：修正错误)",
+      "tid": 22438565,
+      "link": "https://bbs.nga.cn/read.php?tid=22438565",
+      "replies": 144,
+      "author": "Sirei",
+      "lastPost": 0
+    },
+    {
       "title": "我不明白，装修线下付现怎么就不算RMT？",
       "tid": 47601740,
       "link": "https://bbs.nga.cn/read.php?tid=47601740",
-      "replies": 109,
+      "replies": 110,
       "author": "携风追月",
       "lastPost": 0
     },
@@ -247,18 +255,18 @@
       "lastPost": 0
     },
     {
-      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
-      "tid": 47477282,
-      "link": "https://bbs.nga.cn/read.php?tid=47477282",
-      "replies": 62,
-      "author": "艾斯丁Astin",
+      "title": "[萌新向][全职业]战斗职业1~90练级手法指北",
+      "tid": 31658940,
+      "link": "https://bbs.nga.cn/read.php?tid=31658940",
+      "replies": 60,
+      "author": "阿布evo",
       "lastPost": 0
     },
     {
       "title": "[破事氵]关于日随抢开的情况的纯主观分析(纯主观，纯个人见解，您有任何不同意见都是你对)",
       "tid": 47606602,
       "link": "https://bbs.nga.cn/read.php?tid=47606602",
-      "replies": 50,
+      "replies": 52,
       "author": "某科学的魔王大人",
       "lastPost": 0
     },
@@ -266,7 +274,7 @@
       "title": "无聊氵，有哪些职业如果换个职能你会更喜欢/觉得更受欢迎",
       "tid": 47613514,
       "link": "https://bbs.nga.cn/read.php?tid=47613514",
-      "replies": 50,
+      "replies": 52,
       "author": "片手剑使Aug",
       "lastPost": 0
     },
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47613948",
       "replies": 24,
       "author": "#anony_2c2873b9648b18c585be068991a10bbc",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 又来问地雷套了",
-      "tid": 47622572,
-      "link": "https://bbs.nga.cn/read.php?tid=47622572",
-      "replies": 21,
-      "author": "轻扬lu",
       "lastPost": 0
     }
   ]
