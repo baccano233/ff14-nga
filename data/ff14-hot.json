@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-03T18:35:33.725Z",
+  "lastUpdated": "2026-10-03T21:54:37.231Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
+      "tid": 43021485,
+      "link": "https://bbs.nga.cn/read.php?tid=43021485",
+      "replies": 7790,
+      "author": "FIRMLYstuck",
+      "lastPost": 0
+    },
     {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
@@ -37,14 +45,6 @@
       "lastPost": 0
     },
     {
-      "title": "[记录向]要来讲个怪谈吗？[更新至第二十四个故事][这次的更新在544L！]",
-      "tid": 19635252,
-      "link": "https://bbs.nga.cn/read.php?tid=19635252",
-      "replies": 590,
-      "author": "龙潜廿九",
-      "lastPost": 0
-    },
-    {
       "title": "丢5张网抑云黑胶体验卡",
       "tid": 37883000,
       "link": "https://bbs.nga.cn/read.php?tid=37883000",
@@ -58,14 +58,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
       "replies": 433,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[完结安科][绿职乱炖][群像]这次我们能拯救大家吗-恭喜过本！现在是后日谈！",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 315,
-      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -120,7 +112,7 @@
       "title": "[氵一贴] 到底是我不适合这个游戏还是大家都在坐牢",
       "tid": 47561988,
       "link": "https://bbs.nga.cn/read.php?tid=47561988",
-      "replies": 74,
+      "replies": 75,
       "author": "周秦漢",
       "lastPost": 0
     },
@@ -162,11 +154,27 @@
       "link": "https://bbs.nga.cn/read.php?tid=47590040",
       "replies": 45,
       "author": "daniels7",
+      "lastPost": 0
+    },
+    {
+      "title": "[杂谈]主线任务给的系统金是不是太少了",
+      "tid": 47661330,
+      "link": "https://bbs.nga.cn/read.php?tid=47661330",
+      "replies": 42,
+      "author": "Kabike",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
+      "tid": 43021485,
+      "link": "https://bbs.nga.cn/read.php?tid=43021485",
+      "replies": 7790,
+      "author": "FIRMLYstuck",
+      "lastPost": 0
+    },
+    {
       "title": "揭露主播暨言千百回(青瓜)的真面目",
       "tid": 47371934,
       "link": "https://bbs.nga.cn/read.php?tid=47371934",
@@ -199,14 +207,6 @@
       "lastPost": 0
     },
     {
-      "title": "[记录向]要来讲个怪谈吗？[更新至第二十四个故事][这次的更新在544L！]",
-      "tid": 19635252,
-      "link": "https://bbs.nga.cn/read.php?tid=19635252",
-      "replies": 590,
-      "author": "龙潜廿九",
-      "lastPost": 0
-    },
-    {
       "title": "丢5张网抑云黑胶体验卡",
       "tid": 37883000,
       "link": "https://bbs.nga.cn/read.php?tid=37883000",
@@ -220,14 +220,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
       "replies": 433,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[完结安科][绿职乱炖][群像]这次我们能拯救大家吗-恭喜过本！现在是后日谈！",
-      "tid": 46568041,
-      "link": "https://bbs.nga.cn/read.php?tid=46568041",
-      "replies": 315,
-      "author": "Abylith",
       "lastPost": 0
     },
     {
@@ -282,7 +274,7 @@
       "title": "[氵一贴] 到底是我不适合这个游戏还是大家都在坐牢",
       "tid": 47561988,
       "link": "https://bbs.nga.cn/read.php?tid=47561988",
-      "replies": 74,
+      "replies": 75,
       "author": "周秦漢",
       "lastPost": 0
     },
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47590040",
       "replies": 45,
       "author": "daniels7",
+      "lastPost": 0
+    },
+    {
+      "title": "[杂谈]主线任务给的系统金是不是太少了",
+      "tid": 47661330,
+      "link": "https://bbs.nga.cn/read.php?tid=47661330",
+      "replies": 42,
+      "author": "Kabike",
       "lastPost": 0
     }
   ]
