@@ -1,14 +1,30 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-06T13:48:24.996Z",
+  "lastUpdated": "2026-10-06T19:14:51.587Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[完结安科][BG向公路安科]路痴黑白魔能在第五星历阻止洪水吗(更新：归途)",
+      "tid": 35418052,
+      "link": "https://bbs.nga.cn/read.php?tid=35418052",
+      "replies": 4152,
+      "author": "林汝夕",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3802,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1552,
+      "replies": 1554,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -18,6 +34,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
       "replies": 1175,
       "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科] 从今天开始做个观光冒险者",
+      "tid": 45939623,
+      "link": "https://bbs.nga.cn/read.php?tid=45939623",
+      "replies": 660,
+      "author": "游鱼醉",
       "lastPost": 0
     },
     {
@@ -56,16 +80,8 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 438,
+      "replies": 439,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 230,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
@@ -74,14 +90,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45027959",
       "replies": 183,
       "author": "盐巴寒",
-      "lastPost": 0
-    },
-    {
-      "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
-      "tid": 47472831,
-      "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 173,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -120,7 +128,7 @@
       "title": "[记录氵] 从莫古力开始的钓鱼记录",
       "tid": 47550580,
       "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 84,
+      "replies": 85,
       "author": "我难道不是咸鱼么",
       "lastPost": 0
     },
@@ -149,28 +157,36 @@
       "lastPost": 0
     },
     {
-      "title": "[可能无关氵][含6.0剧透] 糟糕的防剧透 be like",
-      "tid": 47648218,
-      "link": "https://bbs.nga.cn/read.php?tid=47648218",
-      "replies": 60,
-      "author": "娉娉袅袅十三余",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵]红丸压力哥能不能自己组7个红丸魔法对轰",
-      "tid": 47631729,
-      "link": "https://bbs.nga.cn/read.php?tid=47631729",
-      "replies": 56,
-      "author": "垃圾也要生活",
+      "title": "新上手哪个奶简单点",
+      "tid": 47659532,
+      "link": "https://bbs.nga.cn/read.php?tid=47659532",
+      "replies": 49,
+      "author": "svizzero",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[完结安科][BG向公路安科]路痴黑白魔能在第五星历阻止洪水吗(更新：归途)",
+      "tid": 35418052,
+      "link": "https://bbs.nga.cn/read.php?tid=35418052",
+      "replies": 4152,
+      "author": "林汝夕",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
+      "tid": 42180352,
+      "link": "https://bbs.nga.cn/read.php?tid=42180352",
+      "replies": 3802,
+      "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1552,
+      "replies": 1554,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -180,6 +196,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
       "replies": 1175,
       "author": "阿伊欧伊亚拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[自嗨安科] 从今天开始做个观光冒险者",
+      "tid": 45939623,
+      "link": "https://bbs.nga.cn/read.php?tid=45939623",
+      "replies": 660,
+      "author": "游鱼醉",
       "lastPost": 0
     },
     {
@@ -218,16 +242,8 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 438,
+      "replies": 439,
       "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 230,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
@@ -236,14 +252,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=45027959",
       "replies": 183,
       "author": "盐巴寒",
-      "lastPost": 0
-    },
-    {
-      "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
-      "tid": 47472831,
-      "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 173,
-      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -282,7 +290,7 @@
       "title": "[记录氵] 从莫古力开始的钓鱼记录",
       "tid": 47550580,
       "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 84,
+      "replies": 85,
       "author": "我难道不是咸鱼么",
       "lastPost": 0
     },
@@ -311,19 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[可能无关氵][含6.0剧透] 糟糕的防剧透 be like",
-      "tid": 47648218,
-      "link": "https://bbs.nga.cn/read.php?tid=47648218",
-      "replies": 60,
-      "author": "娉娉袅袅十三余",
-      "lastPost": 0
-    },
-    {
-      "title": "[黑泥氵]红丸压力哥能不能自己组7个红丸魔法对轰",
-      "tid": 47631729,
-      "link": "https://bbs.nga.cn/read.php?tid=47631729",
-      "replies": 56,
-      "author": "垃圾也要生活",
+      "title": "新上手哪个奶简单点",
+      "tid": 47659532,
+      "link": "https://bbs.nga.cn/read.php?tid=47659532",
+      "replies": 49,
+      "author": "svizzero",
       "lastPost": 0
     }
   ]
