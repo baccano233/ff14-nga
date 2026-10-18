@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-18T19:53:25.081Z",
+  "lastUpdated": "2026-10-18T22:05:26.417Z",
   "count": 20,
   "posts": [
     {
@@ -101,6 +101,14 @@
       "lastPost": 0
     },
     {
+      "title": "[Reddit红迪搬运]某第三方“插件”导致绝本Boss出现站桩bug不释放机制",
+      "tid": 47694466,
+      "link": "https://bbs.nga.cn/read.php?tid=47694466",
+      "replies": 74,
+      "author": "yfnew",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
@@ -144,7 +152,7 @@
       "title": "现在PVP的简化技能和进化模式是不是也蛮像的",
       "tid": 47717591,
       "link": "https://bbs.nga.cn/read.php?tid=47717591",
-      "replies": 43,
+      "replies": 46,
       "author": "rurikooo",
       "lastPost": 0
     },
@@ -154,14 +162,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47718017",
       "replies": 40,
       "author": "ztw2285",
-      "lastPost": 0
-    },
-    {
-      "title": "14现在在史克威尔地位高吗",
-      "tid": 47740292,
-      "link": "https://bbs.nga.cn/read.php?tid=47740292",
-      "replies": 30,
-      "author": "非完全人工智能",
       "lastPost": 0
     }
   ],
@@ -263,6 +263,14 @@
       "lastPost": 0
     },
     {
+      "title": "[Reddit红迪搬运]某第三方“插件”导致绝本Boss出现站桩bug不释放机制",
+      "tid": 47694466,
+      "link": "https://bbs.nga.cn/read.php?tid=47694466",
+      "replies": 74,
+      "author": "yfnew",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
@@ -306,7 +314,7 @@
       "title": "现在PVP的简化技能和进化模式是不是也蛮像的",
       "tid": 47717591,
       "link": "https://bbs.nga.cn/read.php?tid=47717591",
-      "replies": 43,
+      "replies": 46,
       "author": "rurikooo",
       "lastPost": 0
     },
@@ -316,14 +324,6 @@
       "link": "https://bbs.nga.cn/read.php?tid=47718017",
       "replies": 40,
       "author": "ztw2285",
-      "lastPost": 0
-    },
-    {
-      "title": "14现在在史克威尔地位高吗",
-      "tid": 47740292,
-      "link": "https://bbs.nga.cn/read.php?tid=47740292",
-      "replies": 30,
-      "author": "非完全人工智能",
       "lastPost": 0
     }
   ]
