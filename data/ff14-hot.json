@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-19T21:38:16.354Z",
+  "lastUpdated": "2026-10-20T00:50:03.208Z",
   "count": 20,
   "posts": [
     {
@@ -10,6 +10,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
       "replies": 3865,
       "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1594,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
@@ -29,27 +37,19 @@
       "lastPost": 0
     },
     {
+      "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
+      "tid": 47413082,
+      "link": "https://bbs.nga.cn/read.php?tid=47413082",
+      "replies": 350,
+      "author": "炽焰之诗",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想科技] [抬走GShade] ReShade-CN2自改汉化整合包(现已升级为AuroraShade)",
       "tid": 36012572,
       "link": "https://bbs.nga.cn/read.php?tid=36012572",
       "replies": 304,
       "author": "路障MKXX",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][已完结]我在艾欧泽亚搞无形之术",
-      "tid": 46455836,
-      "link": "https://bbs.nga.cn/read.php?tid=46455836",
-      "replies": 290,
-      "author": "Vilolili",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 265,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
@@ -93,14 +93,6 @@
       "lastPost": 0
     },
     {
-      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
-      "tid": 47477282,
-      "link": "https://bbs.nga.cn/read.php?tid=47477282",
-      "replies": 102,
-      "author": "艾斯丁Astin",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
@@ -112,7 +104,7 @@
       "title": "解限真是太好了之自用幻化记录贴",
       "tid": 45836789,
       "link": "https://bbs.nga.cn/read.php?tid=45836789",
-      "replies": 63,
+      "replies": 64,
       "author": "盐巴寒",
       "lastPost": 0
     },
@@ -149,6 +141,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 版本末讨论一下技改与副本设计问题",
+      "tid": 47745831,
+      "link": "https://bbs.nga.cn/read.php?tid=47745831",
+      "replies": 43,
+      "author": "nbwjh0630",
+      "lastPost": 0
+    },
+    {
       "title": "草原还有人类吗",
       "tid": 47743662,
       "link": "https://bbs.nga.cn/read.php?tid=47743662",
@@ -157,11 +157,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 版本末讨论一下技改与副本设计问题",
-      "tid": 47745831,
-      "link": "https://bbs.nga.cn/read.php?tid=47745831",
+      "title": "[记录氵] 唉！结果还是充了月卡之我居然不是豆芽？(琐碎的单机型游戏记录)",
+      "tid": 47609925,
+      "link": "https://bbs.nga.cn/read.php?tid=47609925",
       "replies": 39,
-      "author": "nbwjh0630",
+      "author": "Cight",
       "lastPost": 0
     }
   ],
@@ -175,6 +175,14 @@
       "lastPost": 0
     },
     {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1594,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
       "title": "[记录贴] 开个帖子记录一下剧情",
       "tid": 40038249,
       "link": "https://bbs.nga.cn/read.php?tid=40038249",
@@ -191,27 +199,19 @@
       "lastPost": 0
     },
     {
+      "title": "[安科] 神人TV：招了七个神人能过绝亚吗",
+      "tid": 47413082,
+      "link": "https://bbs.nga.cn/read.php?tid=47413082",
+      "replies": 350,
+      "author": "炽焰之诗",
+      "lastPost": 0
+    },
+    {
       "title": "[幻想科技] [抬走GShade] ReShade-CN2自改汉化整合包(现已升级为AuroraShade)",
       "tid": 36012572,
       "link": "https://bbs.nga.cn/read.php?tid=36012572",
       "replies": 304,
       "author": "路障MKXX",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][已完结]我在艾欧泽亚搞无形之术",
-      "tid": 46455836,
-      "link": "https://bbs.nga.cn/read.php?tid=46455836",
-      "replies": 290,
-      "author": "Vilolili",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科][黑召中心]什么叫失忆后和死对头谈上了？",
-      "tid": 47414568,
-      "link": "https://bbs.nga.cn/read.php?tid=47414568",
-      "replies": 265,
-      "author": "原型洛浦肯",
       "lastPost": 0
     },
     {
@@ -255,14 +255,6 @@
       "lastPost": 0
     },
     {
-      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
-      "tid": 47477282,
-      "link": "https://bbs.nga.cn/read.php?tid=47477282",
-      "replies": 102,
-      "author": "艾斯丁Astin",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
@@ -274,7 +266,7 @@
       "title": "解限真是太好了之自用幻化记录贴",
       "tid": 45836789,
       "link": "https://bbs.nga.cn/read.php?tid=45836789",
-      "replies": 63,
+      "replies": 64,
       "author": "盐巴寒",
       "lastPost": 0
     },
@@ -311,6 +303,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 版本末讨论一下技改与副本设计问题",
+      "tid": 47745831,
+      "link": "https://bbs.nga.cn/read.php?tid=47745831",
+      "replies": 43,
+      "author": "nbwjh0630",
+      "lastPost": 0
+    },
+    {
       "title": "草原还有人类吗",
       "tid": 47743662,
       "link": "https://bbs.nga.cn/read.php?tid=47743662",
@@ -319,11 +319,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 版本末讨论一下技改与副本设计问题",
-      "tid": 47745831,
-      "link": "https://bbs.nga.cn/read.php?tid=47745831",
+      "title": "[记录氵] 唉！结果还是充了月卡之我居然不是豆芽？(琐碎的单机型游戏记录)",
+      "tid": 47609925,
+      "link": "https://bbs.nga.cn/read.php?tid=47609925",
       "replies": 39,
-      "author": "nbwjh0630",
+      "author": "Cight",
       "lastPost": 0
     }
   ]
