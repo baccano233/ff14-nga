@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-20T19:29:59.738Z",
+  "lastUpdated": "2026-10-20T22:32:28.560Z",
   "count": 20,
   "posts": [
     {
@@ -72,7 +72,7 @@
       "title": "搞了一把招募写的要开荒的进度，有事急着出本直接xkl，结果被挂了",
       "tid": 47745945,
       "link": "https://bbs.nga.cn/read.php?tid=47745945",
-      "replies": 374,
+      "replies": 378,
       "author": "我保证这个人是天使",
       "lastPost": 0
     },
@@ -141,14 +141,6 @@
       "lastPost": 0
     },
     {
-      "title": "2.X主线有简化过吗，现在是个什么体量",
-      "tid": 47746171,
-      "link": "https://bbs.nga.cn/read.php?tid=47746171",
-      "replies": 26,
-      "author": "HimenoAkito",
-      "lastPost": 0
-    },
-    {
       "title": "[大坑] RelicHelper(肝武Helper) — 记录·攻略·实用工具一体化",
       "tid": 47283251,
       "link": "https://bbs.nga.cn/read.php?tid=47283251",
@@ -162,6 +154,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47577465",
       "replies": 24,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "求双人坐骑推荐",
+      "tid": 47745395,
+      "link": "https://bbs.nga.cn/read.php?tid=47745395",
+      "replies": 23,
+      "author": "HimenoAkito",
       "lastPost": 0
     }
   ],
@@ -234,7 +234,7 @@
       "title": "搞了一把招募写的要开荒的进度，有事急着出本直接xkl，结果被挂了",
       "tid": 47745945,
       "link": "https://bbs.nga.cn/read.php?tid=47745945",
-      "replies": 374,
+      "replies": 378,
       "author": "我保证这个人是天使",
       "lastPost": 0
     },
@@ -303,14 +303,6 @@
       "lastPost": 0
     },
     {
-      "title": "2.X主线有简化过吗，现在是个什么体量",
-      "tid": 47746171,
-      "link": "https://bbs.nga.cn/read.php?tid=47746171",
-      "replies": 26,
-      "author": "HimenoAkito",
-      "lastPost": 0
-    },
-    {
       "title": "[大坑] RelicHelper(肝武Helper) — 记录·攻略·实用工具一体化",
       "tid": 47283251,
       "link": "https://bbs.nga.cn/read.php?tid=47283251",
@@ -324,6 +316,14 @@
       "link": "https://bbs.nga.cn/read.php?tid=47577465",
       "replies": 24,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "求双人坐骑推荐",
+      "tid": 47745395,
+      "link": "https://bbs.nga.cn/read.php?tid=47745395",
+      "replies": 23,
+      "author": "HimenoAkito",
       "lastPost": 0
     }
   ]
