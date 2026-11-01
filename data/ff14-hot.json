@@ -1,71 +1,39 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-10-31T22:38:49.393Z",
+  "lastUpdated": "2026-11-01T01:42:10.782Z",
   "count": 20,
   "posts": [
-    {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7806,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2988,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
-      "tid": 44588478,
-      "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1628,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
     {
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 690,
+      "replies": 694,
       "author": "浮砂",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 469,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "问问大伙对8.0的期待度以及是否会买ea提前玩",
       "tid": 47819780,
       "link": "https://bbs.nga.cn/read.php?tid=47819780",
-      "replies": 171,
+      "replies": 177,
       "author": "Demuri",
+      "lastPost": 0
+    },
+    {
+      "title": "[同人创作] 你可能不认识我但是你说不定看过我画的阿卡狄亚同人",
+      "tid": 45073918,
+      "link": "https://bbs.nga.cn/read.php?tid=45073918",
+      "replies": 160,
+      "author": "水白巴",
       "lastPost": 0
     },
     {
       "title": "这一跳票都干到明年3月了快。。",
       "tid": 47818693,
       "link": "https://bbs.nga.cn/read.php?tid=47818693",
-      "replies": 133,
+      "replies": 134,
       "author": "克劳德-斯特莱夫",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] 魔光键影超干净无其他干扰的词库使用",
-      "tid": 47801678,
-      "link": "https://bbs.nga.cn/read.php?tid=47801678",
-      "replies": 132,
-      "author": "眠眠不休",
       "lastPost": 0
     },
     {
@@ -80,7 +48,7 @@
       "title": "[氵一贴] 128也没强迫别人买吧。。魔怔到这种地步了吗",
       "tid": 47821078,
       "link": "https://bbs.nga.cn/read.php?tid=47821078",
-      "replies": 117,
+      "replies": 119,
       "author": "氪金羊",
       "lastPost": 0
     },
@@ -88,8 +56,32 @@
       "title": "[疑惑氵]为什么会有人抱怨奇数版本增负呢？",
       "tid": 47820463,
       "link": "https://bbs.nga.cn/read.php?tid=47820463",
-      "replies": 82,
+      "replies": 84,
       "author": "考斯茅斯",
+      "lastPost": 0
+    },
+    {
+      "title": "丝瓜笑传之斗兽严打工作室",
+      "tid": 47798399,
+      "link": "https://bbs.nga.cn/read.php?tid=47798399",
+      "replies": 78,
+      "author": "zzuozhua",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]肝了一车金蝶点冷静下来想想，接下来要不考虑一下以后的事情",
+      "tid": 47803640,
+      "link": "https://bbs.nga.cn/read.php?tid=47803640",
+      "replies": 67,
+      "author": "繁星之愿",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] bis自动计算",
+      "tid": 47515001,
+      "link": "https://bbs.nga.cn/read.php?tid=47515001",
+      "replies": 60,
+      "author": "东风有意",
       "lastPost": 0
     },
     {
@@ -112,16 +104,8 @@
       "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
       "tid": 47821738,
       "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 52,
+      "replies": 53,
       "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "[跨大区] 长期固定队备战8.0招募T，治疗和D3",
-      "tid": 47599468,
-      "link": "https://bbs.nga.cn/read.php?tid=47599468",
-      "replies": 50,
-      "author": "一只扭动的触手",
       "lastPost": 0
     },
     {
@@ -136,8 +120,16 @@
       "title": "[氵一贴] 这8.0海报是不是少了一个人？",
       "tid": 47819836,
       "link": "https://bbs.nga.cn/read.php?tid=47819836",
-      "replies": 45,
+      "replies": 47,
       "author": "pizza999",
+      "lastPost": 0
+    },
+    {
+      "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
+      "tid": 47821822,
+      "link": "https://bbs.nga.cn/read.php?tid=47821822",
+      "replies": 46,
+      "author": "幻魔梦魇",
       "lastPost": 0
     },
     {
@@ -149,85 +141,61 @@
       "lastPost": 0
     },
     {
-      "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
-      "tid": 47821822,
-      "link": "https://bbs.nga.cn/read.php?tid=47821822",
-      "replies": 41,
-      "author": "幻魔梦魇",
-      "lastPost": 0
-    },
-    {
       "title": "房屋系统终于学隔壁了",
       "tid": 47819445,
       "link": "https://bbs.nga.cn/read.php?tid=47819445",
-      "replies": 36,
+      "replies": 42,
       "author": "阿斯特隆",
+      "lastPost": 0
+    },
+    {
+      "title": "好怀念当初镰刀贤者横空出世时的兴奋",
+      "tid": 47821290,
+      "link": "https://bbs.nga.cn/read.php?tid=47821290",
+      "replies": 38,
+      "author": "墨利诺厄",
+      "lastPost": 0
+    },
+    {
+      "title": "谁还有丝瓜说那个自己已经知道了部分8.0内容，非常成功的那个消息来源",
+      "tid": 47821892,
+      "link": "https://bbs.nga.cn/read.php?tid=47821892",
+      "replies": 37,
+      "author": "Deuce丶",
       "lastPost": 0
     }
   ],
   "data": [
     {
-      "title": "[拼好饭安科]《重生之FF14：开局logs100》FF14入侵现实，我却因早前卖号退坑沦为蝼蚁，重来一世的我决定带着绝境末日登出游戏！(~蛇剑的任务？狼王的工作~)",
-      "tid": 43021485,
-      "link": "https://bbs.nga.cn/read.php?tid=43021485",
-      "replies": 7806,
-      "author": "FIRMLYstuck",
-      "lastPost": 0
-    },
-    {
-      "title": "[自嗨安科] [安科/安价] 朋友你的醒脾真的好怪哦(确实是银趴文学)",
-      "tid": 38298599,
-      "link": "https://bbs.nga.cn/read.php?tid=38298599",
-      "replies": 2988,
-      "author": "芝芝01111",
-      "lastPost": 0
-    },
-    {
-      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
-      "tid": 44588478,
-      "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1628,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 690,
+      "replies": 694,
       "author": "浮砂",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录]狒相关乱七八糟的综合记录",
-      "tid": 45996085,
-      "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 469,
-      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "问问大伙对8.0的期待度以及是否会买ea提前玩",
       "tid": 47819780,
       "link": "https://bbs.nga.cn/read.php?tid=47819780",
-      "replies": 171,
+      "replies": 177,
       "author": "Demuri",
+      "lastPost": 0
+    },
+    {
+      "title": "[同人创作] 你可能不认识我但是你说不定看过我画的阿卡狄亚同人",
+      "tid": 45073918,
+      "link": "https://bbs.nga.cn/read.php?tid=45073918",
+      "replies": 160,
+      "author": "水白巴",
       "lastPost": 0
     },
     {
       "title": "这一跳票都干到明年3月了快。。",
       "tid": 47818693,
       "link": "https://bbs.nga.cn/read.php?tid=47818693",
-      "replies": 133,
+      "replies": 134,
       "author": "克劳德-斯特莱夫",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] 魔光键影超干净无其他干扰的词库使用",
-      "tid": 47801678,
-      "link": "https://bbs.nga.cn/read.php?tid=47801678",
-      "replies": 132,
-      "author": "眠眠不休",
       "lastPost": 0
     },
     {
@@ -242,7 +210,7 @@
       "title": "[氵一贴] 128也没强迫别人买吧。。魔怔到这种地步了吗",
       "tid": 47821078,
       "link": "https://bbs.nga.cn/read.php?tid=47821078",
-      "replies": 117,
+      "replies": 119,
       "author": "氪金羊",
       "lastPost": 0
     },
@@ -250,8 +218,32 @@
       "title": "[疑惑氵]为什么会有人抱怨奇数版本增负呢？",
       "tid": 47820463,
       "link": "https://bbs.nga.cn/read.php?tid=47820463",
-      "replies": 82,
+      "replies": 84,
       "author": "考斯茅斯",
+      "lastPost": 0
+    },
+    {
+      "title": "丝瓜笑传之斗兽严打工作室",
+      "tid": 47798399,
+      "link": "https://bbs.nga.cn/read.php?tid=47798399",
+      "replies": 78,
+      "author": "zzuozhua",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]肝了一车金蝶点冷静下来想想，接下来要不考虑一下以后的事情",
+      "tid": 47803640,
+      "link": "https://bbs.nga.cn/read.php?tid=47803640",
+      "replies": 67,
+      "author": "繁星之愿",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻想科技] bis自动计算",
+      "tid": 47515001,
+      "link": "https://bbs.nga.cn/read.php?tid=47515001",
+      "replies": 60,
+      "author": "东风有意",
       "lastPost": 0
     },
     {
@@ -274,16 +266,8 @@
       "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
       "tid": 47821738,
       "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 52,
+      "replies": 53,
       "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "[跨大区] 长期固定队备战8.0招募T，治疗和D3",
-      "tid": 47599468,
-      "link": "https://bbs.nga.cn/read.php?tid=47599468",
-      "replies": 50,
-      "author": "一只扭动的触手",
       "lastPost": 0
     },
     {
@@ -298,8 +282,16 @@
       "title": "[氵一贴] 这8.0海报是不是少了一个人？",
       "tid": 47819836,
       "link": "https://bbs.nga.cn/read.php?tid=47819836",
-      "replies": 45,
+      "replies": 47,
       "author": "pizza999",
+      "lastPost": 0
+    },
+    {
+      "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
+      "tid": 47821822,
+      "link": "https://bbs.nga.cn/read.php?tid=47821822",
+      "replies": 46,
+      "author": "幻魔梦魇",
       "lastPost": 0
     },
     {
@@ -311,19 +303,27 @@
       "lastPost": 0
     },
     {
-      "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
-      "tid": 47821822,
-      "link": "https://bbs.nga.cn/read.php?tid=47821822",
-      "replies": 41,
-      "author": "幻魔梦魇",
-      "lastPost": 0
-    },
-    {
       "title": "房屋系统终于学隔壁了",
       "tid": 47819445,
       "link": "https://bbs.nga.cn/read.php?tid=47819445",
-      "replies": 36,
+      "replies": 42,
       "author": "阿斯特隆",
+      "lastPost": 0
+    },
+    {
+      "title": "好怀念当初镰刀贤者横空出世时的兴奋",
+      "tid": 47821290,
+      "link": "https://bbs.nga.cn/read.php?tid=47821290",
+      "replies": 38,
+      "author": "墨利诺厄",
+      "lastPost": 0
+    },
+    {
+      "title": "谁还有丝瓜说那个自己已经知道了部分8.0内容，非常成功的那个消息来源",
+      "tid": 47821892,
+      "link": "https://bbs.nga.cn/read.php?tid=47821892",
+      "replies": 37,
+      "author": "Deuce丶",
       "lastPost": 0
     }
   ]
