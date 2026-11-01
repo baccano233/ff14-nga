@@ -1,54 +1,38 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-01T01:42:10.782Z",
+  "lastUpdated": "2026-11-01T08:28:01.890Z",
   "count": 20,
   "posts": [
     {
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 694,
+      "replies": 757,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[7.X] 面向萌新的潜水艇从零开始攻略",
+      "tid": 32976973,
+      "link": "https://bbs.nga.cn/read.php?tid=32976973",
+      "replies": 458,
+      "author": "易水无乱",
       "lastPost": 0
     },
     {
       "title": "问问大伙对8.0的期待度以及是否会买ea提前玩",
       "tid": 47819780,
       "link": "https://bbs.nga.cn/read.php?tid=47819780",
-      "replies": 177,
+      "replies": 184,
       "author": "Demuri",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作] 你可能不认识我但是你说不定看过我画的阿卡狄亚同人",
-      "tid": 45073918,
-      "link": "https://bbs.nga.cn/read.php?tid=45073918",
-      "replies": 160,
-      "author": "水白巴",
-      "lastPost": 0
-    },
-    {
-      "title": "这一跳票都干到明年3月了快。。",
-      "tid": 47818693,
-      "link": "https://bbs.nga.cn/read.php?tid=47818693",
-      "replies": 134,
-      "author": "克劳德-斯特莱夫",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作][龙诗龙][烟波吊图]森都搞笑艺人与伊村海归谐星",
-      "tid": 40549871,
-      "link": "https://bbs.nga.cn/read.php?tid=40549871",
-      "replies": 127,
-      "author": "磁浮呆毛",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 128也没强迫别人买吧。。魔怔到这种地步了吗",
       "tid": 47821078,
       "link": "https://bbs.nga.cn/read.php?tid=47821078",
-      "replies": 119,
+      "replies": 125,
       "author": "氪金羊",
       "lastPost": 0
     },
@@ -56,112 +40,128 @@
       "title": "[疑惑氵]为什么会有人抱怨奇数版本增负呢？",
       "tid": 47820463,
       "link": "https://bbs.nga.cn/read.php?tid=47820463",
-      "replies": 84,
+      "replies": 106,
       "author": "考斯茅斯",
-      "lastPost": 0
-    },
-    {
-      "title": "丝瓜笑传之斗兽严打工作室",
-      "tid": 47798399,
-      "link": "https://bbs.nga.cn/read.php?tid=47798399",
-      "replies": 78,
-      "author": "zzuozhua",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]肝了一车金蝶点冷静下来想想，接下来要不考虑一下以后的事情",
-      "tid": 47803640,
-      "link": "https://bbs.nga.cn/read.php?tid=47803640",
-      "replies": 67,
-      "author": "繁星之愿",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] bis自动计算",
-      "tid": 47515001,
-      "link": "https://bbs.nga.cn/read.php?tid=47515001",
-      "replies": 60,
-      "author": "东风有意",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 没人对鸡弓士感兴趣么？",
-      "tid": 47820442,
-      "link": "https://bbs.nga.cn/read.php?tid=47820442",
-      "replies": 56,
-      "author": "IntroNa",
-      "lastPost": 0
-    },
-    {
-      "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
-      "tid": 46681516,
-      "link": "https://bbs.nga.cn/read.php?tid=46681516",
-      "replies": 54,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
-      "tid": 47821738,
-      "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 53,
-      "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "你是说让我夹着20个模板和800幻化台格子去面对8.0的新职业和新衣服吗",
-      "tid": 47819673,
-      "link": "https://bbs.nga.cn/read.php?tid=47819673",
-      "replies": 49,
-      "author": "归穗瘦",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 这8.0海报是不是少了一个人？",
-      "tid": 47819836,
-      "link": "https://bbs.nga.cn/read.php?tid=47819836",
-      "replies": 47,
-      "author": "pizza999",
       "lastPost": 0
     },
     {
       "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
       "tid": 47821822,
       "link": "https://bbs.nga.cn/read.php?tid=47821822",
-      "replies": 46,
+      "replies": 67,
       "author": "幻魔梦魇",
+      "lastPost": 0
+    },
+    {
+      "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
+      "tid": 46681516,
+      "link": "https://bbs.nga.cn/read.php?tid=46681516",
+      "replies": 56,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[有剧透] [剧情讨论] 想请教下光之战士的实力是什么层次？",
       "tid": 47089467,
       "link": "https://bbs.nga.cn/read.php?tid=47089467",
-      "replies": 43,
+      "replies": 44,
       "author": "鼎铭玉良",
       "lastPost": 0
     },
     {
-      "title": "房屋系统终于学隔壁了",
-      "tid": 47819445,
-      "link": "https://bbs.nga.cn/read.php?tid=47819445",
-      "replies": 42,
-      "author": "阿斯特隆",
+      "title": "按道理说东京不应该是最重要的一站吗？",
+      "tid": 47825245,
+      "link": "https://bbs.nga.cn/read.php?tid=47825245",
+      "replies": 40,
+      "author": "皮革马利懵",
       "lastPost": 0
     },
     {
-      "title": "好怀念当初镰刀贤者横空出世时的兴奋",
-      "tid": 47821290,
-      "link": "https://bbs.nga.cn/read.php?tid=47821290",
+      "title": "[跨大区氵]12月1号国服就开跨大区招募、排本了，你还会选择转鸟区吗？",
+      "tid": 47821108,
+      "link": "https://bbs.nga.cn/read.php?tid=47821108",
       "replies": 38,
-      "author": "墨利诺厄",
+      "author": "Lix-awl",
       "lastPost": 0
     },
     {
-      "title": "谁还有丝瓜说那个自己已经知道了部分8.0内容，非常成功的那个消息来源",
-      "tid": 47821892,
-      "link": "https://bbs.nga.cn/read.php?tid=47821892",
-      "replies": 37,
-      "author": "Deuce丶",
+      "title": "[氵一贴]8.0有什么值得期待的吗？",
+      "tid": 47820835,
+      "link": "https://bbs.nga.cn/read.php?tid=47820835",
+      "replies": 38,
+      "author": "空山肃铎",
+      "lastPost": 0
+    },
+    {
+      "title": "我有点好奇9.0新职业的武器了，可参考的主流武器都用完了",
+      "tid": 47821278,
+      "link": "https://bbs.nga.cn/read.php?tid=47821278",
+      "replies": 38,
+      "author": "片手剑使Aug",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]新幻化们",
+      "tid": 47819953,
+      "link": "https://bbs.nga.cn/read.php?tid=47819953",
+      "replies": 36,
+      "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "有没有国际服光呆解答一下跨区匹配相关呀",
+      "tid": 47824712,
+      "link": "https://bbs.nga.cn/read.php?tid=47824712",
+      "replies": 32,
+      "author": "Taka今天星苦了",
+      "lastPost": 0
+    },
+    {
+      "title": "8.0预告片音乐拉完了 像是把屎拼在一起 祖坚能不能滚啊",
+      "tid": 47820854,
+      "link": "https://bbs.nga.cn/read.php?tid=47820854",
+      "replies": 32,
+      "author": "zzuozhua",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 我是看不懂了呀，这新职业出的何意味？",
+      "tid": 47823147,
+      "link": "https://bbs.nga.cn/read.php?tid=47823147",
+      "replies": 31,
+      "author": "GarasuY",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 粉丝节Q&A一些重要内容省流总结",
+      "tid": 47827295,
+      "link": "https://bbs.nga.cn/read.php?tid=47827295",
+      "replies": 30,
+      "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "新职业迅风猎手不吐不快",
+      "tid": 47820887,
+      "link": "https://bbs.nga.cn/read.php?tid=47820887",
+      "replies": 25,
+      "author": "zwh51262",
+      "lastPost": 0
+    },
+    {
+      "title": "装备变成个人掉落以后零式野队的人会不会多一些",
+      "tid": 47825247,
+      "link": "https://bbs.nga.cn/read.php?tid=47825247",
+      "replies": 25,
+      "author": "#anony_631b035b10b8c66facfb3b39e6dd6c1f",
+      "lastPost": 0
+    },
+    {
+      "title": "所以8.0没有我阿莉塞的事了吗",
+      "tid": 47820086,
+      "link": "https://bbs.nga.cn/read.php?tid=47820086",
+      "replies": 22,
+      "author": "Demuri",
       "lastPost": 0
     }
   ],
@@ -170,47 +170,31 @@
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 694,
+      "replies": 757,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[7.X] 面向萌新的潜水艇从零开始攻略",
+      "tid": 32976973,
+      "link": "https://bbs.nga.cn/read.php?tid=32976973",
+      "replies": 458,
+      "author": "易水无乱",
       "lastPost": 0
     },
     {
       "title": "问问大伙对8.0的期待度以及是否会买ea提前玩",
       "tid": 47819780,
       "link": "https://bbs.nga.cn/read.php?tid=47819780",
-      "replies": 177,
+      "replies": 184,
       "author": "Demuri",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作] 你可能不认识我但是你说不定看过我画的阿卡狄亚同人",
-      "tid": 45073918,
-      "link": "https://bbs.nga.cn/read.php?tid=45073918",
-      "replies": 160,
-      "author": "水白巴",
-      "lastPost": 0
-    },
-    {
-      "title": "这一跳票都干到明年3月了快。。",
-      "tid": 47818693,
-      "link": "https://bbs.nga.cn/read.php?tid=47818693",
-      "replies": 134,
-      "author": "克劳德-斯特莱夫",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作][龙诗龙][烟波吊图]森都搞笑艺人与伊村海归谐星",
-      "tid": 40549871,
-      "link": "https://bbs.nga.cn/read.php?tid=40549871",
-      "replies": 127,
-      "author": "磁浮呆毛",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 128也没强迫别人买吧。。魔怔到这种地步了吗",
       "tid": 47821078,
       "link": "https://bbs.nga.cn/read.php?tid=47821078",
-      "replies": 119,
+      "replies": 125,
       "author": "氪金羊",
       "lastPost": 0
     },
@@ -218,112 +202,128 @@
       "title": "[疑惑氵]为什么会有人抱怨奇数版本增负呢？",
       "tid": 47820463,
       "link": "https://bbs.nga.cn/read.php?tid=47820463",
-      "replies": 84,
+      "replies": 106,
       "author": "考斯茅斯",
-      "lastPost": 0
-    },
-    {
-      "title": "丝瓜笑传之斗兽严打工作室",
-      "tid": 47798399,
-      "link": "https://bbs.nga.cn/read.php?tid=47798399",
-      "replies": 78,
-      "author": "zzuozhua",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴]肝了一车金蝶点冷静下来想想，接下来要不考虑一下以后的事情",
-      "tid": 47803640,
-      "link": "https://bbs.nga.cn/read.php?tid=47803640",
-      "replies": 67,
-      "author": "繁星之愿",
-      "lastPost": 0
-    },
-    {
-      "title": "[幻想科技] bis自动计算",
-      "tid": 47515001,
-      "link": "https://bbs.nga.cn/read.php?tid=47515001",
-      "replies": 60,
-      "author": "东风有意",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 没人对鸡弓士感兴趣么？",
-      "tid": 47820442,
-      "link": "https://bbs.nga.cn/read.php?tid=47820442",
-      "replies": 56,
-      "author": "IntroNa",
-      "lastPost": 0
-    },
-    {
-      "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
-      "tid": 46681516,
-      "link": "https://bbs.nga.cn/read.php?tid=46681516",
-      "replies": 54,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
-      "tid": 47821738,
-      "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 53,
-      "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "你是说让我夹着20个模板和800幻化台格子去面对8.0的新职业和新衣服吗",
-      "tid": 47819673,
-      "link": "https://bbs.nga.cn/read.php?tid=47819673",
-      "replies": 49,
-      "author": "归穗瘦",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 这8.0海报是不是少了一个人？",
-      "tid": 47819836,
-      "link": "https://bbs.nga.cn/read.php?tid=47819836",
-      "replies": 47,
-      "author": "pizza999",
       "lastPost": 0
     },
     {
       "title": "[8.0装备氵]装备系统更新堪称本次粉丝节最大的惊吓",
       "tid": 47821822,
       "link": "https://bbs.nga.cn/read.php?tid=47821822",
-      "replies": 46,
+      "replies": 67,
       "author": "幻魔梦魇",
+      "lastPost": 0
+    },
+    {
+      "title": "难绷了看个哈尔马鲁特cut底下有人信誓旦旦芝诺斯已经加入凌冬会",
+      "tid": 46681516,
+      "link": "https://bbs.nga.cn/read.php?tid=46681516",
+      "replies": 56,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[有剧透] [剧情讨论] 想请教下光之战士的实力是什么层次？",
       "tid": 47089467,
       "link": "https://bbs.nga.cn/read.php?tid=47089467",
-      "replies": 43,
+      "replies": 44,
       "author": "鼎铭玉良",
       "lastPost": 0
     },
     {
-      "title": "房屋系统终于学隔壁了",
-      "tid": 47819445,
-      "link": "https://bbs.nga.cn/read.php?tid=47819445",
-      "replies": 42,
-      "author": "阿斯特隆",
+      "title": "按道理说东京不应该是最重要的一站吗？",
+      "tid": 47825245,
+      "link": "https://bbs.nga.cn/read.php?tid=47825245",
+      "replies": 40,
+      "author": "皮革马利懵",
       "lastPost": 0
     },
     {
-      "title": "好怀念当初镰刀贤者横空出世时的兴奋",
-      "tid": 47821290,
-      "link": "https://bbs.nga.cn/read.php?tid=47821290",
+      "title": "[跨大区氵]12月1号国服就开跨大区招募、排本了，你还会选择转鸟区吗？",
+      "tid": 47821108,
+      "link": "https://bbs.nga.cn/read.php?tid=47821108",
       "replies": 38,
-      "author": "墨利诺厄",
+      "author": "Lix-awl",
       "lastPost": 0
     },
     {
-      "title": "谁还有丝瓜说那个自己已经知道了部分8.0内容，非常成功的那个消息来源",
-      "tid": 47821892,
-      "link": "https://bbs.nga.cn/read.php?tid=47821892",
-      "replies": 37,
-      "author": "Deuce丶",
+      "title": "[氵一贴]8.0有什么值得期待的吗？",
+      "tid": 47820835,
+      "link": "https://bbs.nga.cn/read.php?tid=47820835",
+      "replies": 38,
+      "author": "空山肃铎",
+      "lastPost": 0
+    },
+    {
+      "title": "我有点好奇9.0新职业的武器了，可参考的主流武器都用完了",
+      "tid": 47821278,
+      "link": "https://bbs.nga.cn/read.php?tid=47821278",
+      "replies": 38,
+      "author": "片手剑使Aug",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]新幻化们",
+      "tid": 47819953,
+      "link": "https://bbs.nga.cn/read.php?tid=47819953",
+      "replies": 36,
+      "author": "沁夏",
+      "lastPost": 0
+    },
+    {
+      "title": "有没有国际服光呆解答一下跨区匹配相关呀",
+      "tid": 47824712,
+      "link": "https://bbs.nga.cn/read.php?tid=47824712",
+      "replies": 32,
+      "author": "Taka今天星苦了",
+      "lastPost": 0
+    },
+    {
+      "title": "8.0预告片音乐拉完了 像是把屎拼在一起 祖坚能不能滚啊",
+      "tid": 47820854,
+      "link": "https://bbs.nga.cn/read.php?tid=47820854",
+      "replies": 32,
+      "author": "zzuozhua",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 我是看不懂了呀，这新职业出的何意味？",
+      "tid": 47823147,
+      "link": "https://bbs.nga.cn/read.php?tid=47823147",
+      "replies": 31,
+      "author": "GarasuY",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 粉丝节Q&A一些重要内容省流总结",
+      "tid": 47827295,
+      "link": "https://bbs.nga.cn/read.php?tid=47827295",
+      "replies": 30,
+      "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "新职业迅风猎手不吐不快",
+      "tid": 47820887,
+      "link": "https://bbs.nga.cn/read.php?tid=47820887",
+      "replies": 25,
+      "author": "zwh51262",
+      "lastPost": 0
+    },
+    {
+      "title": "装备变成个人掉落以后零式野队的人会不会多一些",
+      "tid": 47825247,
+      "link": "https://bbs.nga.cn/read.php?tid=47825247",
+      "replies": 25,
+      "author": "#anony_631b035b10b8c66facfb3b39e6dd6c1f",
+      "lastPost": 0
+    },
+    {
+      "title": "所以8.0没有我阿莉塞的事了吗",
+      "tid": 47820086,
+      "link": "https://bbs.nga.cn/read.php?tid=47820086",
+      "replies": 22,
+      "author": "Demuri",
       "lastPost": 0
     }
   ]
