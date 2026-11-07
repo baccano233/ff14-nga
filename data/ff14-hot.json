@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-07T06:43:39.648Z",
+  "lastUpdated": "2026-11-07T13:40:19.510Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1768,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
@@ -16,8 +24,16 @@
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 769,
+      "replies": 770,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 最菜王冠今日依然流连在他忠诚的钓场旁",
+      "tid": 35966611,
+      "link": "https://bbs.nga.cn/read.php?tid=35966611",
+      "replies": 352,
+      "author": "逆袭的鲁鲁修",
       "lastPost": 0
     },
     {
@@ -29,14 +45,6 @@
       "lastPost": 0
     },
     {
-      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
-      "tid": 45719200,
-      "link": "https://bbs.nga.cn/read.php?tid=45719200",
-      "replies": 213,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "怎么都是唱衰的",
       "tid": 47840770,
       "link": "https://bbs.nga.cn/read.php?tid=47840770",
@@ -45,67 +53,43 @@
       "lastPost": 0
     },
     {
-      "title": "堆堆 大概是什么都有的自嗨楼？",
-      "tid": 45027959,
-      "link": "https://bbs.nga.cn/read.php?tid=45027959",
-      "replies": 197,
-      "author": "盐巴寒",
-      "lastPost": 0
-    },
-    {
       "title": "wanFF14de时候总觉得捏脸的时候没什么好看的脸型啊五官啊什么的，直到看到隔壁热度最高的男性角色的捏脸",
       "tid": 47841906,
       "link": "https://bbs.nga.cn/read.php?tid=47841906",
-      "replies": 143,
+      "replies": 144,
       "author": "geziziFF14",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作][龙诗龙][烟波吊图]森都搞笑艺人与伊村海归谐星",
-      "tid": 40549871,
-      "link": "https://bbs.nga.cn/read.php?tid=40549871",
-      "replies": 128,
-      "author": "磁浮呆毛",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] 从莫古力开始的钓鱼记录(恭喜我已进入倒数十条！)",
-      "tid": 47550580,
-      "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 127,
-      "author": "我难道不是咸鱼么",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
-      "tid": 47821738,
-      "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 116,
-      "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] [回忆贴] 我玩国际服完全出自自愿(迫真)",
-      "tid": 46601882,
-      "link": "https://bbs.nga.cn/read.php?tid=46601882",
-      "replies": 116,
-      "author": "Tsukumoyarei",
-      "lastPost": 0
-    },
-    {
-      "title": "[混沌安科]我觉得队伍里的骑士暗恋我至于证据你别问(进度：顶富就来玩战士快跑)",
-      "tid": 47485413,
-      "link": "https://bbs.nga.cn/read.php?tid=47485413",
-      "replies": 116,
-      "author": "lLeviathan",
       "lastPost": 0
     },
     {
       "title": "这次预购礼包除了礼包本身卖钱之外会有其他意义吗？",
       "tid": 47837961,
       "link": "https://bbs.nga.cn/read.php?tid=47837961",
-      "replies": 115,
+      "replies": 117,
       "author": "l卡拉拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
+      "tid": 47821738,
+      "link": "https://bbs.nga.cn/read.php?tid=47821738",
+      "replies": 117,
+      "author": "TrojanofFate",
+      "lastPost": 0
+    },
+    {
+      "title": "[混沌安科]我觉得队伍里的骑士暗恋我至于证据你别问(进度：顶富就来玩战士快跑)",
+      "tid": 47485413,
+      "link": "https://bbs.nga.cn/read.php?tid=47485413",
+      "replies": 117,
+      "author": "lLeviathan",
+      "lastPost": 0
+    },
+    {
+      "title": "豆芽的幻化记录…内含100%女装男精",
+      "tid": 46115259,
+      "link": "https://bbs.nga.cn/read.php?tid=46115259",
+      "replies": 110,
+      "author": "沁夏",
       "lastPost": 0
     },
     {
@@ -117,18 +101,34 @@
       "lastPost": 0
     },
     {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 85,
+      "author": "希斯特利亚马乌罗提",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
-      "replies": 81,
+      "replies": 82,
       "author": "拉文克劳的魔法书",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化]加雷马在逃皇女的各种乔装打扮",
+      "tid": 45842666,
+      "link": "https://bbs.nga.cn/read.php?tid=45842666",
+      "replies": 81,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]8.0褒姒的话能端上来幻化图鉴吗",
       "tid": 47856626,
       "link": "https://bbs.nga.cn/read.php?tid=47856626",
-      "replies": 70,
+      "replies": 71,
       "author": "Reckii007",
       "lastPost": 0
     },
@@ -141,32 +141,40 @@
       "lastPost": 0
     },
     {
-      "title": "8.0预告片音乐拉完了 像是把屎拼在一起 祖坚能不能滚啊",
-      "tid": 47820854,
-      "link": "https://bbs.nga.cn/read.php?tid=47820854",
-      "replies": 48,
-      "author": "zzuozhua",
+      "title": "[搬运氵]8.0预告里的巨人脸和活着的记忆火山地区的面具花纹很相似",
+      "tid": 47850114,
+      "link": "https://bbs.nga.cn/read.php?tid=47850114",
+      "replies": 43,
+      "author": "炉仪时",
       "lastPost": 0
     },
     {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 46,
-      "author": "异瞳之观测者",
+      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
+      "tid": 47863002,
+      "link": "https://bbs.nga.cn/read.php?tid=47863002",
+      "replies": 42,
+      "author": "Kiyato",
       "lastPost": 0
     },
     {
-      "title": "[求助氵]alt+r和alt+z突然失灵了是为啥",
-      "tid": 39932755,
-      "link": "https://bbs.nga.cn/read.php?tid=39932755",
-      "replies": 45,
-      "author": "AmberVargas",
+      "title": "[举手提问]所以这个抢先体验和典藏包到底是啥意思？",
+      "tid": 47819664,
+      "link": "https://bbs.nga.cn/read.php?tid=47819664",
+      "replies": 39,
+      "author": "小鱼102",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1768,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
+    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
@@ -178,8 +186,16 @@
       "title": "怎么没有粉丝节讨论帖(已夺舍为粉丝节讨论帖)",
       "tid": 47816450,
       "link": "https://bbs.nga.cn/read.php?tid=47816450",
-      "replies": 769,
+      "replies": 770,
       "author": "浮砂",
+      "lastPost": 0
+    },
+    {
+      "title": "[记录贴] 最菜王冠今日依然流连在他忠诚的钓场旁",
+      "tid": 35966611,
+      "link": "https://bbs.nga.cn/read.php?tid=35966611",
+      "replies": 352,
+      "author": "逆袭的鲁鲁修",
       "lastPost": 0
     },
     {
@@ -191,14 +207,6 @@
       "lastPost": 0
     },
     {
-      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
-      "tid": 45719200,
-      "link": "https://bbs.nga.cn/read.php?tid=45719200",
-      "replies": 213,
-      "author": "异瞳之观测者",
-      "lastPost": 0
-    },
-    {
       "title": "怎么都是唱衰的",
       "tid": 47840770,
       "link": "https://bbs.nga.cn/read.php?tid=47840770",
@@ -207,67 +215,43 @@
       "lastPost": 0
     },
     {
-      "title": "堆堆 大概是什么都有的自嗨楼？",
-      "tid": 45027959,
-      "link": "https://bbs.nga.cn/read.php?tid=45027959",
-      "replies": 197,
-      "author": "盐巴寒",
-      "lastPost": 0
-    },
-    {
       "title": "wanFF14de时候总觉得捏脸的时候没什么好看的脸型啊五官啊什么的，直到看到隔壁热度最高的男性角色的捏脸",
       "tid": 47841906,
       "link": "https://bbs.nga.cn/read.php?tid=47841906",
-      "replies": 143,
+      "replies": 144,
       "author": "geziziFF14",
-      "lastPost": 0
-    },
-    {
-      "title": "[同人创作][龙诗龙][烟波吊图]森都搞笑艺人与伊村海归谐星",
-      "tid": 40549871,
-      "link": "https://bbs.nga.cn/read.php?tid=40549871",
-      "replies": 128,
-      "author": "磁浮呆毛",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] 从莫古力开始的钓鱼记录(恭喜我已进入倒数十条！)",
-      "tid": 47550580,
-      "link": "https://bbs.nga.cn/read.php?tid=47550580",
-      "replies": 127,
-      "author": "我难道不是咸鱼么",
-      "lastPost": 0
-    },
-    {
-      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
-      "tid": 47821738,
-      "link": "https://bbs.nga.cn/read.php?tid=47821738",
-      "replies": 116,
-      "author": "TrojanofFate",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] [回忆贴] 我玩国际服完全出自自愿(迫真)",
-      "tid": 46601882,
-      "link": "https://bbs.nga.cn/read.php?tid=46601882",
-      "replies": 116,
-      "author": "Tsukumoyarei",
-      "lastPost": 0
-    },
-    {
-      "title": "[混沌安科]我觉得队伍里的骑士暗恋我至于证据你别问(进度：顶富就来玩战士快跑)",
-      "tid": 47485413,
-      "link": "https://bbs.nga.cn/read.php?tid=47485413",
-      "replies": 116,
-      "author": "lLeviathan",
       "lastPost": 0
     },
     {
       "title": "这次预购礼包除了礼包本身卖钱之外会有其他意义吗？",
       "tid": 47837961,
       "link": "https://bbs.nga.cn/read.php?tid=47837961",
-      "replies": 115,
+      "replies": 117,
       "author": "l卡拉拉",
+      "lastPost": 0
+    },
+    {
+      "title": "[闲聊杂谈] 关于EA和预购相关对比经验",
+      "tid": 47821738,
+      "link": "https://bbs.nga.cn/read.php?tid=47821738",
+      "replies": 117,
+      "author": "TrojanofFate",
+      "lastPost": 0
+    },
+    {
+      "title": "[混沌安科]我觉得队伍里的骑士暗恋我至于证据你别问(进度：顶富就来玩战士快跑)",
+      "tid": 47485413,
+      "link": "https://bbs.nga.cn/read.php?tid=47485413",
+      "replies": 117,
+      "author": "lLeviathan",
+      "lastPost": 0
+    },
+    {
+      "title": "豆芽的幻化记录…内含100%女装男精",
+      "tid": 46115259,
+      "link": "https://bbs.nga.cn/read.php?tid=46115259",
+      "replies": 110,
+      "author": "沁夏",
       "lastPost": 0
     },
     {
@@ -279,18 +263,34 @@
       "lastPost": 0
     },
     {
+      "title": "[幻化氵]当地很不有名的龙娘冒险者的幻化记录",
+      "tid": 45900524,
+      "link": "https://bbs.nga.cn/read.php?tid=45900524",
+      "replies": 85,
+      "author": "希斯特利亚马乌罗提",
+      "lastPost": 0
+    },
+    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
-      "replies": 81,
+      "replies": 82,
       "author": "拉文克劳的魔法书",
+      "lastPost": 0
+    },
+    {
+      "title": "[幻化]加雷马在逃皇女的各种乔装打扮",
+      "tid": 45842666,
+      "link": "https://bbs.nga.cn/read.php?tid=45842666",
+      "replies": 81,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[氵一贴]8.0褒姒的话能端上来幻化图鉴吗",
       "tid": 47856626,
       "link": "https://bbs.nga.cn/read.php?tid=47856626",
-      "replies": 70,
+      "replies": 71,
       "author": "Reckii007",
       "lastPost": 0
     },
@@ -303,27 +303,27 @@
       "lastPost": 0
     },
     {
-      "title": "8.0预告片音乐拉完了 像是把屎拼在一起 祖坚能不能滚啊",
-      "tid": 47820854,
-      "link": "https://bbs.nga.cn/read.php?tid=47820854",
-      "replies": 48,
-      "author": "zzuozhua",
+      "title": "[搬运氵]8.0预告里的巨人脸和活着的记忆火山地区的面具花纹很相似",
+      "tid": 47850114,
+      "link": "https://bbs.nga.cn/read.php?tid=47850114",
+      "replies": 43,
+      "author": "炉仪时",
       "lastPost": 0
     },
     {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 46,
-      "author": "异瞳之观测者",
+      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
+      "tid": 47863002,
+      "link": "https://bbs.nga.cn/read.php?tid=47863002",
+      "replies": 42,
+      "author": "Kiyato",
       "lastPost": 0
     },
     {
-      "title": "[求助氵]alt+r和alt+z突然失灵了是为啥",
-      "tid": 39932755,
-      "link": "https://bbs.nga.cn/read.php?tid=39932755",
-      "replies": 45,
-      "author": "AmberVargas",
+      "title": "[举手提问]所以这个抢先体验和典藏包到底是啥意思？",
+      "tid": 47819664,
+      "link": "https://bbs.nga.cn/read.php?tid=47819664",
+      "replies": 39,
+      "author": "小鱼102",
       "lastPost": 0
     }
   ]
