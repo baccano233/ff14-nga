@@ -1,14 +1,14 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-14T00:34:03.178Z",
+  "lastUpdated": "2026-11-14T07:13:46.653Z",
   "count": 20,
   "posts": [
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1661,
+      "replies": 1663,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -16,7 +16,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 736,
+      "replies": 738,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -24,7 +24,15 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 484,
+      "replies": 485,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
+      "tid": 45719200,
+      "link": "https://bbs.nga.cn/read.php?tid=45719200",
+      "replies": 215,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -32,7 +40,7 @@
       "title": "[闲聊杂谈]所以mmo到底为什么凉了",
       "tid": 47897451,
       "link": "https://bbs.nga.cn/read.php?tid=47897451",
-      "replies": 170,
+      "replies": 177,
       "author": "圣羊祭司",
       "lastPost": 0
     },
@@ -40,7 +48,7 @@
       "title": "回帖竞猜得128自选！9：49还不是极限？！绝神兵速刷赛最后两周，冠军队伍奖励加码",
       "tid": 47850216,
       "link": "https://bbs.nga.cn/read.php?tid=47850216",
-      "replies": 152,
+      "replies": 153,
       "author": "羽卡",
       "lastPost": 0
     },
@@ -64,7 +72,7 @@
       "title": "[混邪安科][银趴乱炖]不XXOO就去死",
       "tid": 46980616,
       "link": "https://bbs.nga.cn/read.php?tid=46980616",
-      "replies": 93,
+      "replies": 94,
       "author": "路过被创好无助",
       "lastPost": 0
     },
@@ -93,6 +101,14 @@
       "lastPost": 0
     },
     {
+      "title": "[没事瞎想]主线跑完了，突然感觉九号解决方案的赛博都市风格与游戏世界观好割裂",
+      "tid": 47904912,
+      "link": "https://bbs.nga.cn/read.php?tid=47904912",
+      "replies": 84,
+      "author": "白金燐燐子",
+      "lastPost": 0
+    },
+    {
       "title": "感觉绝欧被妖魔化的歪了方向",
       "tid": 47865431,
       "link": "https://bbs.nga.cn/read.php?tid=47865431",
@@ -101,18 +117,10 @@
       "lastPost": 0
     },
     {
-      "title": "[没事瞎想]主线跑完了，突然感觉九号解决方案的赛博都市风格与游戏世界观好割裂",
-      "tid": 47904912,
-      "link": "https://bbs.nga.cn/read.php?tid=47904912",
-      "replies": 81,
-      "author": "白金燐燐子",
-      "lastPost": 0
-    },
-    {
       "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
       "tid": 47863002,
       "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 73,
+      "replies": 75,
       "author": "Kiyato",
       "lastPost": 0
     },
@@ -125,35 +133,27 @@
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 我是应该选择硬吃6.1-7.4省点钱还是为了精神健康等着买跳过(",
-      "tid": 47893401,
-      "link": "https://bbs.nga.cn/read.php?tid=47893401",
-      "replies": 52,
-      "author": "zerofeather",
-      "lastPost": 0
-    },
-    {
       "title": "[抽奖氵]抽一瓶洗澡水助我纯净绝欧队(已找齐)",
       "tid": 47909118,
       "link": "https://bbs.nga.cn/read.php?tid=47909118",
-      "replies": 51,
+      "replies": 56,
       "author": "鬼脸狐猫",
+      "lastPost": 0
+    },
+    {
+      "title": "[举手提问] 我是应该选择硬吃6.1-7.4省点钱还是为了精神健康等着买跳过(",
+      "tid": 47893401,
+      "link": "https://bbs.nga.cn/read.php?tid=47893401",
+      "replies": 56,
+      "author": "zerofeather",
       "lastPost": 0
     },
     {
       "title": "SE已发布2027财年Q2财报",
       "tid": 47898723,
       "link": "https://bbs.nga.cn/read.php?tid=47898723",
-      "replies": 49,
+      "replies": 52,
       "author": "legendoflink",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] 从0开始的2.0豆芽记录",
-      "tid": 47442017,
-      "link": "https://bbs.nga.cn/read.php?tid=47442017",
-      "replies": 46,
-      "author": "索姆栗子冰糕",
       "lastPost": 0
     },
     {
@@ -170,7 +170,7 @@
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
-      "replies": 1661,
+      "replies": 1663,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -178,7 +178,7 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 736,
+      "replies": 738,
       "author": "PirateSlime",
       "lastPost": 0
     },
@@ -186,7 +186,15 @@
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 484,
+      "replies": 485,
+      "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[我又来了！][记录]带着芝诺斯去交界地旅行",
+      "tid": 45719200,
+      "link": "https://bbs.nga.cn/read.php?tid=45719200",
+      "replies": 215,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -194,7 +202,7 @@
       "title": "[闲聊杂谈]所以mmo到底为什么凉了",
       "tid": 47897451,
       "link": "https://bbs.nga.cn/read.php?tid=47897451",
-      "replies": 170,
+      "replies": 177,
       "author": "圣羊祭司",
       "lastPost": 0
     },
@@ -202,7 +210,7 @@
       "title": "回帖竞猜得128自选！9：49还不是极限？！绝神兵速刷赛最后两周，冠军队伍奖励加码",
       "tid": 47850216,
       "link": "https://bbs.nga.cn/read.php?tid=47850216",
-      "replies": 152,
+      "replies": 153,
       "author": "羽卡",
       "lastPost": 0
     },
@@ -226,7 +234,7 @@
       "title": "[混邪安科][银趴乱炖]不XXOO就去死",
       "tid": 46980616,
       "link": "https://bbs.nga.cn/read.php?tid=46980616",
-      "replies": 93,
+      "replies": 94,
       "author": "路过被创好无助",
       "lastPost": 0
     },
@@ -255,6 +263,14 @@
       "lastPost": 0
     },
     {
+      "title": "[没事瞎想]主线跑完了，突然感觉九号解决方案的赛博都市风格与游戏世界观好割裂",
+      "tid": 47904912,
+      "link": "https://bbs.nga.cn/read.php?tid=47904912",
+      "replies": 84,
+      "author": "白金燐燐子",
+      "lastPost": 0
+    },
+    {
       "title": "感觉绝欧被妖魔化的歪了方向",
       "tid": 47865431,
       "link": "https://bbs.nga.cn/read.php?tid=47865431",
@@ -263,18 +279,10 @@
       "lastPost": 0
     },
     {
-      "title": "[没事瞎想]主线跑完了，突然感觉九号解决方案的赛博都市风格与游戏世界观好割裂",
-      "tid": 47904912,
-      "link": "https://bbs.nga.cn/read.php?tid=47904912",
-      "replies": 81,
-      "author": "白金燐燐子",
-      "lastPost": 0
-    },
-    {
       "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
       "tid": 47863002,
       "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 73,
+      "replies": 75,
       "author": "Kiyato",
       "lastPost": 0
     },
@@ -287,35 +295,27 @@
       "lastPost": 0
     },
     {
-      "title": "[举手提问] 我是应该选择硬吃6.1-7.4省点钱还是为了精神健康等着买跳过(",
-      "tid": 47893401,
-      "link": "https://bbs.nga.cn/read.php?tid=47893401",
-      "replies": 52,
-      "author": "zerofeather",
-      "lastPost": 0
-    },
-    {
       "title": "[抽奖氵]抽一瓶洗澡水助我纯净绝欧队(已找齐)",
       "tid": 47909118,
       "link": "https://bbs.nga.cn/read.php?tid=47909118",
-      "replies": 51,
+      "replies": 56,
       "author": "鬼脸狐猫",
+      "lastPost": 0
+    },
+    {
+      "title": "[举手提问] 我是应该选择硬吃6.1-7.4省点钱还是为了精神健康等着买跳过(",
+      "tid": 47893401,
+      "link": "https://bbs.nga.cn/read.php?tid=47893401",
+      "replies": 56,
+      "author": "zerofeather",
       "lastPost": 0
     },
     {
       "title": "SE已发布2027财年Q2财报",
       "tid": 47898723,
       "link": "https://bbs.nga.cn/read.php?tid=47898723",
-      "replies": 49,
+      "replies": 52,
       "author": "legendoflink",
-      "lastPost": 0
-    },
-    {
-      "title": "[记录氵] 从0开始的2.0豆芽记录",
-      "tid": 47442017,
-      "link": "https://bbs.nga.cn/read.php?tid=47442017",
-      "replies": 46,
-      "author": "索姆栗子冰糕",
       "lastPost": 0
     },
     {
