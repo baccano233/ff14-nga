@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-20T04:59:39.833Z",
+  "lastUpdated": "2026-11-20T13:52:53.816Z",
   "count": 20,
   "posts": [
     {
@@ -13,19 +13,19 @@
       "lastPost": 0
     },
     {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1775,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
       "replies": 1686,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1130,
+      "author": "Riseyic",
       "lastPost": 0
     },
     {
@@ -40,15 +40,23 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 760,
+      "replies": 763,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[下班氵] 618临近，给准备买笔记本、台式电脑的FFer一些建议[避坑X敌鸽、中正XX、搞机X等淘宝整机]",
+      "tid": 40082706,
+      "link": "https://bbs.nga.cn/read.php?tid=40082706",
+      "replies": 681,
+      "author": "LambdaScorpii",
       "lastPost": 0
     },
     {
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 491,
+      "replies": 493,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -56,7 +64,7 @@
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 257,
+      "replies": 259,
       "author": "人造花",
       "lastPost": 0
     },
@@ -69,11 +77,11 @@
       "lastPost": 0
     },
     {
-      "title": "堆堆 大概是什么都有的自嗨楼？",
-      "tid": 45027959,
-      "link": "https://bbs.nga.cn/read.php?tid=45027959",
-      "replies": 207,
-      "author": "盐巴寒",
+      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
+      "tid": 47863002,
+      "link": "https://bbs.nga.cn/read.php?tid=47863002",
+      "replies": 114,
+      "author": "Kiyato",
       "lastPost": 0
     },
     {
@@ -85,18 +93,10 @@
       "lastPost": 0
     },
     {
-      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
-      "tid": 47863002,
-      "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 110,
-      "author": "Kiyato",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
-      "replies": 103,
+      "replies": 105,
       "author": "拉文克劳的魔法书",
       "lastPost": 0
     },
@@ -109,59 +109,59 @@
       "lastPost": 0
     },
     {
+      "title": "[黑泥氵] PVP红玩什么时候能绝迹啊",
+      "tid": 47851895,
+      "link": "https://bbs.nga.cn/read.php?tid=47851895",
+      "replies": 80,
+      "author": "艾欧泽亚铁憨憨",
+      "lastPost": 0
+    },
+    {
+      "title": "绝妖P3一运队7=1缺mt 接受八塔进度",
+      "tid": 47846912,
+      "link": "https://bbs.nga.cn/read.php?tid=47846912",
+      "replies": 74,
+      "author": "知乎改名真的难",
+      "lastPost": 0
+    },
+    {
       "title": "狒狒食柿到底要怎么改才好玩",
       "tid": 47945495,
       "link": "https://bbs.nga.cn/read.php?tid=47945495",
-      "replies": 69,
+      "replies": 71,
       "author": "携风追月",
+      "lastPost": 0
+    },
+    {
+      "title": "回看了下5.0-6.0的主线有几个问题 佐迪亚克是什么原理",
+      "tid": 47953435,
+      "link": "https://bbs.nga.cn/read.php?tid=47953435",
+      "replies": 70,
+      "author": "呃呃呃我感觉很难受",
       "lastPost": 0
     },
     {
       "title": "[非挂人吐槽]你们怎样看待诱导豆芽吃自己主线都还没到的角色cp",
       "tid": 47933097,
       "link": "https://bbs.nga.cn/read.php?tid=47933097",
-      "replies": 65,
+      "replies": 69,
       "author": "#anony_36c18b61892a9c62f6b84e20e9724a42",
-      "lastPost": 0
-    },
-    {
-      "title": "第三开发部连氪金服饰的种族适配都做不好還是趁早倒闭吧",
-      "tid": 47940794,
-      "link": "https://bbs.nga.cn/read.php?tid=47940794",
-      "replies": 54,
-      "author": "陽炎眩乱",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 如果FF14做最原始的暗黑类玩法，会不会比博兹雅新月岛这种更让人愿意天天泡里面刷",
       "tid": 47944204,
       "link": "https://bbs.nga.cn/read.php?tid=47944204",
-      "replies": 52,
+      "replies": 59,
       "author": "太白妖道",
       "lastPost": 0
     },
     {
-      "title": "[有剧透] [剧情讨论] 想请教下光之战士的实力是什么层次？",
-      "tid": 47089467,
-      "link": "https://bbs.nga.cn/read.php?tid=47089467",
-      "replies": 50,
-      "author": "鼎铭玉良",
-      "lastPost": 0
-    },
-    {
-      "title": "绝伊甸7=1非龙d1 进度p4开荒",
-      "tid": 47853138,
-      "link": "https://bbs.nga.cn/read.php?tid=47853138",
-      "replies": 48,
-      "author": "刘博文家长",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 47,
-      "author": "异瞳之观测者",
+      "title": "[灰泥氵] [记录氵] 避免记忆力老年化而作的豆芽时期回忆录",
+      "tid": 47848090,
+      "link": "https://bbs.nga.cn/read.php?tid=47848090",
+      "replies": 55,
+      "author": "喵喵喵肉",
       "lastPost": 0
     }
   ],
@@ -175,19 +175,19 @@
       "lastPost": 0
     },
     {
-      "title": "[记录水] 今天也在当阿泽姆行善积德",
-      "tid": 32328466,
-      "link": "https://bbs.nga.cn/read.php?tid=32328466",
-      "replies": 1775,
-      "author": "赤鸢千鸣",
-      "lastPost": 0
-    },
-    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
       "replies": 1686,
       "author": "异瞳之观测者",
+      "lastPost": 0
+    },
+    {
+      "title": "[沙雕氵]你游玩家的沙雕评论",
+      "tid": 33635208,
+      "link": "https://bbs.nga.cn/read.php?tid=33635208",
+      "replies": 1130,
+      "author": "Riseyic",
       "lastPost": 0
     },
     {
@@ -202,15 +202,23 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 760,
+      "replies": 763,
       "author": "PirateSlime",
+      "lastPost": 0
+    },
+    {
+      "title": "[下班氵] 618临近，给准备买笔记本、台式电脑的FFer一些建议[避坑X敌鸽、中正XX、搞机X等淘宝整机]",
+      "tid": 40082706,
+      "link": "https://bbs.nga.cn/read.php?tid=40082706",
+      "replies": 681,
+      "author": "LambdaScorpii",
       "lastPost": 0
     },
     {
       "title": "[记录]狒相关乱七八糟的综合记录",
       "tid": 45996085,
       "link": "https://bbs.nga.cn/read.php?tid=45996085",
-      "replies": 491,
+      "replies": 493,
       "author": "异瞳之观测者",
       "lastPost": 0
     },
@@ -218,7 +226,7 @@
       "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
       "tid": 47472831,
       "link": "https://bbs.nga.cn/read.php?tid=47472831",
-      "replies": 257,
+      "replies": 259,
       "author": "人造花",
       "lastPost": 0
     },
@@ -231,11 +239,11 @@
       "lastPost": 0
     },
     {
-      "title": "堆堆 大概是什么都有的自嗨楼？",
-      "tid": 45027959,
-      "link": "https://bbs.nga.cn/read.php?tid=45027959",
-      "replies": 207,
-      "author": "盐巴寒",
+      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
+      "tid": 47863002,
+      "link": "https://bbs.nga.cn/read.php?tid=47863002",
+      "replies": 114,
+      "author": "Kiyato",
       "lastPost": 0
     },
     {
@@ -247,18 +255,10 @@
       "lastPost": 0
     },
     {
-      "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
-      "tid": 47863002,
-      "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 110,
-      "author": "Kiyato",
-      "lastPost": 0
-    },
-    {
       "title": "[剧情讨论] 当初6.0如果分成三部曲来展开讲会不会好一些",
       "tid": 47718496,
       "link": "https://bbs.nga.cn/read.php?tid=47718496",
-      "replies": 103,
+      "replies": 105,
       "author": "拉文克劳的魔法书",
       "lastPost": 0
     },
@@ -271,59 +271,59 @@
       "lastPost": 0
     },
     {
+      "title": "[黑泥氵] PVP红玩什么时候能绝迹啊",
+      "tid": 47851895,
+      "link": "https://bbs.nga.cn/read.php?tid=47851895",
+      "replies": 80,
+      "author": "艾欧泽亚铁憨憨",
+      "lastPost": 0
+    },
+    {
+      "title": "绝妖P3一运队7=1缺mt 接受八塔进度",
+      "tid": 47846912,
+      "link": "https://bbs.nga.cn/read.php?tid=47846912",
+      "replies": 74,
+      "author": "知乎改名真的难",
+      "lastPost": 0
+    },
+    {
       "title": "狒狒食柿到底要怎么改才好玩",
       "tid": 47945495,
       "link": "https://bbs.nga.cn/read.php?tid=47945495",
-      "replies": 69,
+      "replies": 71,
       "author": "携风追月",
+      "lastPost": 0
+    },
+    {
+      "title": "回看了下5.0-6.0的主线有几个问题 佐迪亚克是什么原理",
+      "tid": 47953435,
+      "link": "https://bbs.nga.cn/read.php?tid=47953435",
+      "replies": 70,
+      "author": "呃呃呃我感觉很难受",
       "lastPost": 0
     },
     {
       "title": "[非挂人吐槽]你们怎样看待诱导豆芽吃自己主线都还没到的角色cp",
       "tid": 47933097,
       "link": "https://bbs.nga.cn/read.php?tid=47933097",
-      "replies": 65,
+      "replies": 69,
       "author": "#anony_36c18b61892a9c62f6b84e20e9724a42",
-      "lastPost": 0
-    },
-    {
-      "title": "第三开发部连氪金服饰的种族适配都做不好還是趁早倒闭吧",
-      "tid": 47940794,
-      "link": "https://bbs.nga.cn/read.php?tid=47940794",
-      "replies": 54,
-      "author": "陽炎眩乱",
       "lastPost": 0
     },
     {
       "title": "[氵一贴] 如果FF14做最原始的暗黑类玩法，会不会比博兹雅新月岛这种更让人愿意天天泡里面刷",
       "tid": 47944204,
       "link": "https://bbs.nga.cn/read.php?tid=47944204",
-      "replies": 52,
+      "replies": 59,
       "author": "太白妖道",
       "lastPost": 0
     },
     {
-      "title": "[有剧透] [剧情讨论] 想请教下光之战士的实力是什么层次？",
-      "tid": 47089467,
-      "link": "https://bbs.nga.cn/read.php?tid=47089467",
-      "replies": 50,
-      "author": "鼎铭玉良",
-      "lastPost": 0
-    },
-    {
-      "title": "绝伊甸7=1非龙d1 进度p4开荒",
-      "tid": 47853138,
-      "link": "https://bbs.nga.cn/read.php?tid=47853138",
-      "replies": 48,
-      "author": "刘博文家长",
-      "lastPost": 0
-    },
-    {
-      "title": "[图楼]自己的安科/oc插画存档",
-      "tid": 46015493,
-      "link": "https://bbs.nga.cn/read.php?tid=46015493",
-      "replies": 47,
-      "author": "异瞳之观测者",
+      "title": "[灰泥氵] [记录氵] 避免记忆力老年化而作的豆芽时期回忆录",
+      "tid": 47848090,
+      "link": "https://bbs.nga.cn/read.php?tid=47848090",
+      "replies": 55,
+      "author": "喵喵喵肉",
       "lastPost": 0
     }
   ]
