@@ -1,9 +1,17 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-21T22:37:43.705Z",
+  "lastUpdated": "2026-11-22T02:45:20.428Z",
   "count": 20,
   "posts": [
+    {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1777,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
     {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
@@ -80,7 +88,7 @@
       "title": "[氵一贴] 如果FF14做最原始的暗黑类玩法，会不会比博兹雅新月岛这种更让人愿意天天泡里面刷",
       "tid": 47944204,
       "link": "https://bbs.nga.cn/read.php?tid=47944204",
-      "replies": 61,
+      "replies": 62,
       "author": "太白妖道",
       "lastPost": 0
     },
@@ -88,7 +96,7 @@
       "title": "[灰泥氵] [记录氵] 避免记忆力老年化而作的豆芽时期回忆录",
       "tid": 47848090,
       "link": "https://bbs.nga.cn/read.php?tid=47848090",
-      "replies": 58,
+      "replies": 59,
       "author": "喵喵喵肉",
       "lastPost": 0
     },
@@ -96,7 +104,7 @@
       "title": "[氵李涛]绝本最终p难度不同导致固定队dps陪tn练习是默认吗",
       "tid": 47919576,
       "link": "https://bbs.nga.cn/read.php?tid=47919576",
-      "replies": 53,
+      "replies": 55,
       "author": "akuru07",
       "lastPost": 0
     },
@@ -109,6 +117,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 如何调节因人际关系崩坏所导致的独狼生活？",
+      "tid": 47957440,
+      "link": "https://bbs.nga.cn/read.php?tid=47957440",
+      "replies": 51,
+      "author": "麦麦麦麦、、",
+      "lastPost": 0
+    },
+    {
       "title": "想咨询一下关于绝巴哈退队的问题(之前描述有问题，先道歉再修改)",
       "tid": 47941214,
       "link": "https://bbs.nga.cn/read.php?tid=47941214",
@@ -117,11 +133,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 如何调节因人际关系崩坏所导致的独狼生活？",
-      "tid": 47957440,
-      "link": "https://bbs.nga.cn/read.php?tid=47957440",
-      "replies": 49,
-      "author": "麦麦麦麦、、",
+      "title": "[无人岛] [心得分享] 6.4无人岛全自动 一点不挖 远征工坊每周不变 终极懒狗方案 v2.0",
+      "tid": 38688376,
+      "link": "https://bbs.nga.cn/read.php?tid=38688376",
+      "replies": 46,
+      "author": "Octave_K",
       "lastPost": 0
     },
     {
@@ -144,29 +160,21 @@
       "title": "氵一贴 各位有没有什么dk大剑推荐",
       "tid": 47953911,
       "link": "https://bbs.nga.cn/read.php?tid=47953911",
-      "replies": 42,
+      "replies": 43,
       "author": "Aroura",
-      "lastPost": 0
-    },
-    {
-      "title": "[笨比氵]又打了一遍龙诗还是没学会120",
-      "tid": 47944944,
-      "link": "https://bbs.nga.cn/read.php?tid=47944944",
-      "replies": 41,
-      "author": "#anony_6d5a965d598668161e4a8bf7de24531e",
-      "lastPost": 0
-    },
-    {
-      "title": "[讨论氵]光呆在哪个CG/过场动画中露出过很美味的表情",
-      "tid": 47951573,
-      "link": "https://bbs.nga.cn/read.php?tid=47951573",
-      "replies": 39,
-      "author": "荀嘉渺",
       "lastPost": 0
     }
   ],
   "data": [
     {
+      "title": "[记录水] 今天也在当阿泽姆行善积德",
+      "tid": 32328466,
+      "link": "https://bbs.nga.cn/read.php?tid=32328466",
+      "replies": 1777,
+      "author": "赤鸢千鸣",
+      "lastPost": 0
+    },
+    {
       "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
       "tid": 44588478,
       "link": "https://bbs.nga.cn/read.php?tid=44588478",
@@ -242,7 +250,7 @@
       "title": "[氵一贴] 如果FF14做最原始的暗黑类玩法，会不会比博兹雅新月岛这种更让人愿意天天泡里面刷",
       "tid": 47944204,
       "link": "https://bbs.nga.cn/read.php?tid=47944204",
-      "replies": 61,
+      "replies": 62,
       "author": "太白妖道",
       "lastPost": 0
     },
@@ -250,7 +258,7 @@
       "title": "[灰泥氵] [记录氵] 避免记忆力老年化而作的豆芽时期回忆录",
       "tid": 47848090,
       "link": "https://bbs.nga.cn/read.php?tid=47848090",
-      "replies": 58,
+      "replies": 59,
       "author": "喵喵喵肉",
       "lastPost": 0
     },
@@ -258,7 +266,7 @@
       "title": "[氵李涛]绝本最终p难度不同导致固定队dps陪tn练习是默认吗",
       "tid": 47919576,
       "link": "https://bbs.nga.cn/read.php?tid=47919576",
-      "replies": 53,
+      "replies": 55,
       "author": "akuru07",
       "lastPost": 0
     },
@@ -271,6 +279,14 @@
       "lastPost": 0
     },
     {
+      "title": "[氵一贴] 如何调节因人际关系崩坏所导致的独狼生活？",
+      "tid": 47957440,
+      "link": "https://bbs.nga.cn/read.php?tid=47957440",
+      "replies": 51,
+      "author": "麦麦麦麦、、",
+      "lastPost": 0
+    },
+    {
       "title": "想咨询一下关于绝巴哈退队的问题(之前描述有问题，先道歉再修改)",
       "tid": 47941214,
       "link": "https://bbs.nga.cn/read.php?tid=47941214",
@@ -279,11 +295,11 @@
       "lastPost": 0
     },
     {
-      "title": "[氵一贴] 如何调节因人际关系崩坏所导致的独狼生活？",
-      "tid": 47957440,
-      "link": "https://bbs.nga.cn/read.php?tid=47957440",
-      "replies": 49,
-      "author": "麦麦麦麦、、",
+      "title": "[无人岛] [心得分享] 6.4无人岛全自动 一点不挖 远征工坊每周不变 终极懒狗方案 v2.0",
+      "tid": 38688376,
+      "link": "https://bbs.nga.cn/read.php?tid=38688376",
+      "replies": 46,
+      "author": "Octave_K",
       "lastPost": 0
     },
     {
@@ -306,24 +322,8 @@
       "title": "氵一贴 各位有没有什么dk大剑推荐",
       "tid": 47953911,
       "link": "https://bbs.nga.cn/read.php?tid=47953911",
-      "replies": 42,
+      "replies": 43,
       "author": "Aroura",
-      "lastPost": 0
-    },
-    {
-      "title": "[笨比氵]又打了一遍龙诗还是没学会120",
-      "tid": 47944944,
-      "link": "https://bbs.nga.cn/read.php?tid=47944944",
-      "replies": 41,
-      "author": "#anony_6d5a965d598668161e4a8bf7de24531e",
-      "lastPost": 0
-    },
-    {
-      "title": "[讨论氵]光呆在哪个CG/过场动画中露出过很美味的表情",
-      "tid": 47951573,
-      "link": "https://bbs.nga.cn/read.php?tid=47951573",
-      "replies": 39,
-      "author": "荀嘉渺",
       "lastPost": 0
     }
   ]
