@@ -1,22 +1,30 @@
 {
   "success": true,
   "source": "https://bbs.nga.cn/thread.php?fid=-362960",
-  "lastUpdated": "2026-11-27T02:19:19.385Z",
+  "lastUpdated": "2026-11-27T11:05:24.810Z",
   "count": 20,
   "posts": [
     {
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 4075,
+      "replies": 4076,
       "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1701,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[沙雕氵]你游玩家的沙雕评论",
       "tid": 33635208,
       "link": "https://bbs.nga.cn/read.php?tid=33635208",
-      "replies": 1131,
+      "replies": 1132,
       "author": "Riseyic",
       "lastPost": 0
     },
@@ -24,16 +32,16 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 777,
+      "replies": 780,
       "author": "PirateSlime",
       "lastPost": 0
     },
     {
-      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
-      "tid": 46465546,
-      "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 286,
-      "author": "异瞳之观测者",
+      "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
+      "tid": 47472831,
+      "link": "https://bbs.nga.cn/read.php?tid=47472831",
+      "replies": 265,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -48,31 +56,31 @@
       "title": "[闲聊杂谈]所以mmo到底为什么凉了",
       "tid": 47897451,
       "link": "https://bbs.nga.cn/read.php?tid=47897451",
-      "replies": 211,
+      "replies": 214,
       "author": "圣羊祭司",
+      "lastPost": 0
+    },
+    {
+      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
+      "tid": 47477282,
+      "link": "https://bbs.nga.cn/read.php?tid=47477282",
+      "replies": 195,
+      "author": "艾斯丁Astin",
       "lastPost": 0
     },
     {
       "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
       "tid": 47863002,
       "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 153,
+      "replies": 154,
       "author": "Kiyato",
-      "lastPost": 0
-    },
-    {
-      "title": "一个把游戏内钓鱼笔记导出到鱼糕的小工具",
-      "tid": 37508409,
-      "link": "https://bbs.nga.cn/read.php?tid=37508409",
-      "replies": 130,
-      "author": "锚猫锚",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]虽然我妖星打到p4可以单附体进120且0内丹浴血觉得神秘纹没用全程只开三个但我仍旧是国一镰",
       "tid": 47975319,
       "link": "https://bbs.nga.cn/read.php?tid=47975319",
-      "replies": 77,
+      "replies": 87,
       "author": "六花撫子",
       "lastPost": 0
     },
@@ -80,15 +88,47 @@
       "title": "各位钓鱼人更讨厌那种鱼皇",
       "tid": 47431982,
       "link": "https://bbs.nga.cn/read.php?tid=47431982",
-      "replies": 76,
+      "replies": 81,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[庭院装修记录]无法停止装修之物在艾欧泽亚坚持花草种植",
+      "tid": 46808667,
+      "link": "https://bbs.nga.cn/read.php?tid=46808667",
+      "replies": 75,
+      "author": "DeicideAuro",
+      "lastPost": 0
+    },
+    {
+      "title": "[小游戏]做了个《零式首周模拟器》大概是模拟经营游戏吧",
+      "tid": 47961252,
+      "link": "https://bbs.nga.cn/read.php?tid=47961252",
+      "replies": 72,
+      "author": "韭菜饺子皮",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 你跳票最好是去修这个神讯风猎手了",
+      "tid": 47966445,
+      "link": "https://bbs.nga.cn/read.php?tid=47966445",
+      "replies": 68,
+      "author": "瑞Ray",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]韩服的新登录器太好看在推上火了",
+      "tid": 47977728,
+      "link": "https://bbs.nga.cn/read.php?tid=47977728",
+      "replies": 57,
+      "author": "仰隼之息",
       "lastPost": 0
     },
     {
       "title": "[职业闲聊]关于坦克职业的五个帕拉丁，以及对于新技改的碎碎念",
       "tid": 47985099,
       "link": "https://bbs.nga.cn/read.php?tid=47985099",
-      "replies": 41,
+      "replies": 51,
       "author": "艾希达文w",
       "lastPost": 0
     },
@@ -96,72 +136,32 @@
       "title": "[氵一贴] 我真有点受不了你这B水没翠玉了",
       "tid": 47942850,
       "link": "https://bbs.nga.cn/read.php?tid=47942850",
-      "replies": 37,
+      "replies": 39,
       "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "我知道这有点艰难，但是",
+      "tid": 47990928,
+      "link": "https://bbs.nga.cn/read.php?tid=47990928",
+      "replies": 37,
+      "author": "欧德瑞恩",
       "lastPost": 0
     },
     {
       "title": "是玩这个还是魔兽世界无限呢",
       "tid": 47923063,
       "link": "https://bbs.nga.cn/read.php?tid=47923063",
-      "replies": 34,
+      "replies": 36,
       "author": "dhdhdh5",
       "lastPost": 0
     },
     {
-      "title": "感觉实装了NPC打本后，豆芽过主线不会因为没人打副本卡剧情，日随副本池仍不收窄范围是对豆芽很不友好的事",
-      "tid": 47985375,
-      "link": "https://bbs.nga.cn/read.php?tid=47985375",
-      "replies": 24,
-      "author": "白金燐燐子",
-      "lastPost": 0
-    },
-    {
-      "title": "[新人安科][职业文学]白魔game收集黄油全结局End CG，请克服死亡恐惧吧！",
-      "tid": 47058450,
-      "link": "https://bbs.nga.cn/read.php?tid=47058450",
-      "replies": 24,
-      "author": "蛛丝摇篮",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 胶佬终于搓了一个冥王图腾(更新了上色版，越看越像印章了(某种意义上的私刻哈迪斯公章？",
-      "tid": 47961255,
-      "link": "https://bbs.nga.cn/read.php?tid=47961255",
-      "replies": 23,
-      "author": "DCT672",
-      "lastPost": 0
-    },
-    {
-      "title": "豆芽t想打高难该从哪开始？",
-      "tid": 47986728,
-      "link": "https://bbs.nga.cn/read.php?tid=47986728",
-      "replies": 22,
-      "author": "w947387665",
-      "lastPost": 0
-    },
-    {
-      "title": "大家有没有感觉大多发型并不怎么贴合头颅模型",
-      "tid": 47986297,
-      "link": "https://bbs.nga.cn/read.php?tid=47986297",
-      "replies": 22,
-      "author": "墨利诺厄",
-      "lastPost": 0
-    },
-    {
-      "title": "礼问p8s躺黑价格",
-      "tid": 47976059,
-      "link": "https://bbs.nga.cn/read.php?tid=47976059",
-      "replies": 21,
-      "author": "翼风丶逐星",
-      "lastPost": 0
-    },
-    {
-      "title": "没想到玩了FF14，对玩影之刃还有帮助",
-      "tid": 47988494,
-      "link": "https://bbs.nga.cn/read.php?tid=47988494",
-      "replies": 19,
-      "author": "olympic468",
+      "title": "[Roll] 金曦之鳞决赛圈，roll一瓶洗澡水，可折现",
+      "tid": 47994897,
+      "link": "https://bbs.nga.cn/read.php?tid=47994897",
+      "replies": 31,
+      "author": "罗小黑喵呀喵",
       "lastPost": 0
     }
   ],
@@ -170,15 +170,23 @@
       "title": "[自嗨安科][混邪职业文学]换乘恋爱·艾欧泽亚季",
       "tid": 42180352,
       "link": "https://bbs.nga.cn/read.php?tid=42180352",
-      "replies": 4075,
+      "replies": 4076,
       "author": "作恶的杏子",
+      "lastPost": 0
+    },
+    {
+      "title": "[安科]失忆芝诺斯在某处做冒险者是否搞错了什么~长草期的佐斯去交界地旅行",
+      "tid": 44588478,
+      "link": "https://bbs.nga.cn/read.php?tid=44588478",
+      "replies": 1701,
+      "author": "异瞳之观测者",
       "lastPost": 0
     },
     {
       "title": "[沙雕氵]你游玩家的沙雕评论",
       "tid": 33635208,
       "link": "https://bbs.nga.cn/read.php?tid=33635208",
-      "replies": 1131,
+      "replies": 1132,
       "author": "Riseyic",
       "lastPost": 0
     },
@@ -186,16 +194,16 @@
       "title": "[集中][7.5-8.0前]交友/导师/通讯贝/萌新招待集中帖(单开贴无理由锁定)",
       "tid": 46663508,
       "link": "https://bbs.nga.cn/read.php?tid=46663508",
-      "replies": 777,
+      "replies": 780,
       "author": "PirateSlime",
       "lastPost": 0
     },
     {
-      "title": "[安科]if光在杀死芝诺斯以后回到他小时候",
-      "tid": 46465546,
-      "link": "https://bbs.nga.cn/read.php?tid=46465546",
-      "replies": 286,
-      "author": "异瞳之观测者",
+      "title": "[卧槽恶俗啊安科][随时提桶]远敏们似乎是在做各职业风俗评鉴指南的样子",
+      "tid": 47472831,
+      "link": "https://bbs.nga.cn/read.php?tid=47472831",
+      "replies": 265,
+      "author": "人造花",
       "lastPost": 0
     },
     {
@@ -210,31 +218,31 @@
       "title": "[闲聊杂谈]所以mmo到底为什么凉了",
       "tid": 47897451,
       "link": "https://bbs.nga.cn/read.php?tid=47897451",
-      "replies": 211,
+      "replies": 214,
       "author": "圣羊祭司",
+      "lastPost": 0
+    },
+    {
+      "title": "盗火 8.0零式招募坦克 ，近战， 远敏， 治疗四个位置队员。6=2",
+      "tid": 47477282,
+      "link": "https://bbs.nga.cn/read.php?tid=47477282",
+      "replies": 195,
+      "author": "艾斯丁Astin",
       "lastPost": 0
     },
     {
       "title": "[幻想科技] 做了个不依赖游戏启动的全图鉴幻化搭配软件，基本还原了游戏模型试穿效果",
       "tid": 47863002,
       "link": "https://bbs.nga.cn/read.php?tid=47863002",
-      "replies": 153,
+      "replies": 154,
       "author": "Kiyato",
-      "lastPost": 0
-    },
-    {
-      "title": "一个把游戏内钓鱼笔记导出到鱼糕的小工具",
-      "tid": 37508409,
-      "link": "https://bbs.nga.cn/read.php?tid=37508409",
-      "replies": 130,
-      "author": "锚猫锚",
       "lastPost": 0
     },
     {
       "title": "[黑泥氵]虽然我妖星打到p4可以单附体进120且0内丹浴血觉得神秘纹没用全程只开三个但我仍旧是国一镰",
       "tid": 47975319,
       "link": "https://bbs.nga.cn/read.php?tid=47975319",
-      "replies": 77,
+      "replies": 87,
       "author": "六花撫子",
       "lastPost": 0
     },
@@ -242,15 +250,47 @@
       "title": "各位钓鱼人更讨厌那种鱼皇",
       "tid": 47431982,
       "link": "https://bbs.nga.cn/read.php?tid=47431982",
-      "replies": 76,
+      "replies": 81,
       "author": "原本平凡",
+      "lastPost": 0
+    },
+    {
+      "title": "[庭院装修记录]无法停止装修之物在艾欧泽亚坚持花草种植",
+      "tid": 46808667,
+      "link": "https://bbs.nga.cn/read.php?tid=46808667",
+      "replies": 75,
+      "author": "DeicideAuro",
+      "lastPost": 0
+    },
+    {
+      "title": "[小游戏]做了个《零式首周模拟器》大概是模拟经营游戏吧",
+      "tid": 47961252,
+      "link": "https://bbs.nga.cn/read.php?tid=47961252",
+      "replies": 72,
+      "author": "韭菜饺子皮",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴] 你跳票最好是去修这个神讯风猎手了",
+      "tid": 47966445,
+      "link": "https://bbs.nga.cn/read.php?tid=47966445",
+      "replies": 68,
+      "author": "瑞Ray",
+      "lastPost": 0
+    },
+    {
+      "title": "[氵一贴]韩服的新登录器太好看在推上火了",
+      "tid": 47977728,
+      "link": "https://bbs.nga.cn/read.php?tid=47977728",
+      "replies": 57,
+      "author": "仰隼之息",
       "lastPost": 0
     },
     {
       "title": "[职业闲聊]关于坦克职业的五个帕拉丁，以及对于新技改的碎碎念",
       "tid": 47985099,
       "link": "https://bbs.nga.cn/read.php?tid=47985099",
-      "replies": 41,
+      "replies": 51,
       "author": "艾希达文w",
       "lastPost": 0
     },
@@ -258,72 +298,32 @@
       "title": "[氵一贴] 我真有点受不了你这B水没翠玉了",
       "tid": 47942850,
       "link": "https://bbs.nga.cn/read.php?tid=47942850",
-      "replies": 37,
+      "replies": 39,
       "author": "曦狐",
+      "lastPost": 0
+    },
+    {
+      "title": "我知道这有点艰难，但是",
+      "tid": 47990928,
+      "link": "https://bbs.nga.cn/read.php?tid=47990928",
+      "replies": 37,
+      "author": "欧德瑞恩",
       "lastPost": 0
     },
     {
       "title": "是玩这个还是魔兽世界无限呢",
       "tid": 47923063,
       "link": "https://bbs.nga.cn/read.php?tid=47923063",
-      "replies": 34,
+      "replies": 36,
       "author": "dhdhdh5",
       "lastPost": 0
     },
     {
-      "title": "感觉实装了NPC打本后，豆芽过主线不会因为没人打副本卡剧情，日随副本池仍不收窄范围是对豆芽很不友好的事",
-      "tid": 47985375,
-      "link": "https://bbs.nga.cn/read.php?tid=47985375",
-      "replies": 24,
-      "author": "白金燐燐子",
-      "lastPost": 0
-    },
-    {
-      "title": "[新人安科][职业文学]白魔game收集黄油全结局End CG，请克服死亡恐惧吧！",
-      "tid": 47058450,
-      "link": "https://bbs.nga.cn/read.php?tid=47058450",
-      "replies": 24,
-      "author": "蛛丝摇篮",
-      "lastPost": 0
-    },
-    {
-      "title": "[氵一贴] 胶佬终于搓了一个冥王图腾(更新了上色版，越看越像印章了(某种意义上的私刻哈迪斯公章？",
-      "tid": 47961255,
-      "link": "https://bbs.nga.cn/read.php?tid=47961255",
-      "replies": 23,
-      "author": "DCT672",
-      "lastPost": 0
-    },
-    {
-      "title": "豆芽t想打高难该从哪开始？",
-      "tid": 47986728,
-      "link": "https://bbs.nga.cn/read.php?tid=47986728",
-      "replies": 22,
-      "author": "w947387665",
-      "lastPost": 0
-    },
-    {
-      "title": "大家有没有感觉大多发型并不怎么贴合头颅模型",
-      "tid": 47986297,
-      "link": "https://bbs.nga.cn/read.php?tid=47986297",
-      "replies": 22,
-      "author": "墨利诺厄",
-      "lastPost": 0
-    },
-    {
-      "title": "礼问p8s躺黑价格",
-      "tid": 47976059,
-      "link": "https://bbs.nga.cn/read.php?tid=47976059",
-      "replies": 21,
-      "author": "翼风丶逐星",
-      "lastPost": 0
-    },
-    {
-      "title": "没想到玩了FF14，对玩影之刃还有帮助",
-      "tid": 47988494,
-      "link": "https://bbs.nga.cn/read.php?tid=47988494",
-      "replies": 19,
-      "author": "olympic468",
+      "title": "[Roll] 金曦之鳞决赛圈，roll一瓶洗澡水，可折现",
+      "tid": 47994897,
+      "link": "https://bbs.nga.cn/read.php?tid=47994897",
+      "replies": 31,
+      "author": "罗小黑喵呀喵",
       "lastPost": 0
     }
   ]
